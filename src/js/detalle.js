@@ -9,8 +9,6 @@ import { stores } from "./stores/index.js"
 				storesPromises = [],
 				cityLabel = document.querySelectorAll('.nombre-ciudad')
 
-			console.log(ciudades[params.city].label)
-			console.log(ciudades[params.store])
 			storesContainer.innerHTML = ""
 			cityLabel.forEach(label => label.innerHTML = ciudades[params.city].label)
 			storesDetails.insertAdjacentHTML('beforeend', await stores.render.detail({
@@ -32,7 +30,7 @@ import { stores } from "./stores/index.js"
 						address: store.direccion,
 						city: ciudades[params.city].label,
 						howToGet: store.como_llegar,
-						label: `todas ${params.city}`,
+						label: params.city,
 						link: store.ir,
 						name: store.nombre_tienda,
 						schedule: store.horario_apertura
