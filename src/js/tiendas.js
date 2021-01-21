@@ -1,6 +1,6 @@
 import { stores } from "./stores/index.js"
 (() => {
-	if (window.storesJsonFile) {
+	if (storesJsonFile) {
 		stores.get(storesJsonFile).then(({ciudades}) => {
 			const desktopMenu = document.querySelector('.cities-menu'),
 				mobileMenu = document.querySelector('.cities-menu--mobile'),

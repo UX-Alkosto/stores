@@ -1,6 +1,6 @@
 import { stores } from "./stores/index.js"
 (() => {
-	if (window.storesJsonFile) {
+	if (storesJsonFile) {
 		const params = stores.getStoreFromUrl()
 		stores.get(storesJsonFile).then(async ({ ciudades }) => {
 			const store = ciudades[params.city].tiendas[params.store],

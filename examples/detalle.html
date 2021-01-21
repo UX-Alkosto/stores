@@ -1,0 +1,28 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/UX-Alkosto/stores/dist/alkosto/css/detalle.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Tiendas <span class="nombre-ciudad"></span></h2>
+    </div>
+    <div class="contenedor_tienda_detalle"></div>
+    <div class="otras_tiendas">
+        <div class="tit_otras">
+            <h3>Otras tiendas <span class="nombre-ciudad"></span></h3>
+        </div>
+        <div id="stores"></div>
+        <a class="regresar" href="/nuestra-compania/tiendas/c/tiendas">Regresar a tiendas</a>
+    </div>
+    <script>
+        const storesJsonFile = 'https://media.aws.alkomprar.com/ymarketingcolcomercio/Kalley/tiendas/json/tiendas.json';
+    </script>
+    <script src="https://cdn.jsdelivr.net/gh/UX-Alkosto/stores/dist/common/js/detalle.js" type="module"></script>
+</body>
+
+</html>

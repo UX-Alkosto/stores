@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/UX-Alkosto/stores/dist/kalley/css/tiendas.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/gh/UX-Alkosto/stores/dist/common/js/jquery.nice-select.js" defer></script>
+</head>
+
+<body>
+    <div class="desktop">
+        <ul class="cities-menu" role="tablist">
+            <li role="presentation" class="active">
+                <a href="#todas" aria-controls="todas" role="tab" data-toggle="tab">Todas</a>
+            </li>
+        </ul>
+    </div>
+    <div class="mobile">
+        <p class="selecciona">Selecciona una ciudad:</p>
+        <select class="cities-menu--mobile wide">
+            <option value="todas">Todas</option>
+        </select>
+    </div>
+    <div id="stores">
+        <p class="loading-ajax-content">Cargando contenido</p>
+    </div>
+    <script>
+        const storesJsonFile = 'https://media.aws.alkomprar.com/ymarketingcolcomercio/Kalley/tiendas/json/tiendas.json';
+    </script>
+    <script src="http://127.0.0.1:5500/dist/common/js/tiendas.js" type="module"></script>
+</body>
+
+</html>
