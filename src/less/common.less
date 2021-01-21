@@ -1,0 +1,120 @@
+:root {
+	--stores-font-family: @font-family;
+	--stores-brand-primary: @brand-primary;
+	--stores-brand-secondary: @brand-secondary;
+	--stores-brand-tertiary: @brand-tertiary;
+	--stores-green: @green;
+	--stores-red: @red;
+	--stores-black: @black;
+	--stores-gray-1: @gray-1;
+	--stores-gray-2: @gray-2;
+	--stores-gray-3: @gray-3;
+	--stores-gray-4: @gray-4;
+	--stores-gray-5: @gray-5;
+	--stores-white: @white;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: var(--stores-font-family);
+	margin: 0;
+	padding: 0;
+}
+
+#stores {
+	.stores();
+}
+
+.desktop {
+	display: none;
+
+	@media screen and (min-width: 601px) {
+		display: block;
+	}
+}
+
+.mobile {
+	@media screen and (min-width: 600px) {
+		display: none;
+	}
+}
+
+.rojo {
+	color: var(--stores-red);
+}
+
+.verde {
+	color: var(--stores-green);
+}
+
+.stores() {
+	display: grid;
+	grid-gap: 16px;
+	grid-template-columns: repeat(auto-fill, minmax(282px, 1fr));
+	padding: 0 16px;
+}
+
+@font-face {
+	font-family: 'stores';
+	src: url('../../common/fonts/stores.eot?dgyklf');
+	src: url('../../common/fonts/stores.eot?dgyklf#iefix') format('embedded-opentype'),
+		url('../../common/fonts/stores.ttf') format('truetype'),
+		url('../../common/fonts/stores.woff?dgyklf') format('woff'),
+		url('../../common/fonts/stores.svg?dgyklf#stores') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^="stores-icon-"],
+[class*="stores-icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'stores' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.stores-icon-store:before {
+	content: "\e903";
+}
+
+.stores-icon-clock:before {
+	content: "\e900";
+}
+
+.stores-icon-arrow-right:before {
+	content: "\e901";
+}
+
+.stores-icon-arrive:before {
+	content: "\e902";
+}
+
+.stores-icon-location:before {
+	content: "\e904";
+}
+
+.main__inner-wrapper {
+	overflow: visible !important;
+}
+
+.store .apertura {
+	display: none;
+}
+
+.mobile .selecciona {
+	font-size: 14px;
+	color: var(--stores-gray-5);
+	margin: 20px 30px;
+}

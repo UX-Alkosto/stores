@@ -1,0 +1,135 @@
+.store {
+	display: grid;
+	grid-template-areas: 'titulo''nombre''direccion''apertura''indicaciones';
+	position: relative;
+	padding: 0 0 16px;
+	transition: all .3s;
+
+	a.click {
+		border: solid thin var(--stores-gray-3);
+		bottom: 0;
+		display: block;
+		left: 0;
+		position: absolute;
+		right: 0;
+		top: 0;
+		transition: box-shadow .6s;
+		z-index: 1;
+
+		&:hover {
+			box-shadow: 0 2px 5px 2px fade(@black, 16%);
+		}
+	}
+
+	h2 {
+		background-color: var(--stores-gray-1);
+		color: var(--stores-gray-5);
+		display: block;
+		font-size: 20px;
+		font-weight: bold;
+		grid-area: titulo;
+		line-height: initial;
+		margin: 0;
+		padding: 10px 16px;
+		text-transform: capitalize;
+	}
+
+	p {
+		font-size: 16px;
+		margin: 0 0 8px;
+		padding: 0 16px 0 45px;
+		line-height: 18px;
+
+		&.direccionTienda {
+			color: var(--gray-5);
+			font-size: 14px;
+			grid-area: direccion;
+			line-height: normal;
+			margin-top: 15px;
+		}
+
+		&.horarioTienda {
+			font-size: 12px;
+			margin: 0 !important;
+		}
+	}
+
+	.indicaciones {
+		display: flex;
+		grid-area: indicaciones;
+		margin-top: 24px;
+		padding-left: 40px;
+	}
+
+	.recuadroUno {
+		align-items: center;
+		display: flex;
+		grid-area: nombre;
+		justify-content: space-between;
+		margin: 24px 16px 0;
+
+		h3 {
+			color: var(--stores-gray-5);
+			font-size: 16px;
+			font-weight: bold;
+			line-height: 20px;
+			margin: 0;
+			padding: 0;
+
+			i {
+				color: var(--stores-brand-secondary);
+				float: left;
+				font-size: 24px;
+				margin-right: 5px;
+			}
+		}
+	}
+
+	.ir {
+		a {
+			color: var(--stores-brand-secondary);
+			text-decoration: none;
+
+			i {
+				color: var(--stores-brand-secondary);
+			}
+		}
+	}
+
+	.comoLlegar,
+	.ver_horario {
+		align-items: center;
+		display: flex;
+		flex-basis: 100%; /*cambio para que quede a solo una línea el texto de ver mapas y horarios*/
+		margin-bottom: 10px;
+		z-index: 2;
+
+		a {
+			color: var(--stores-brand-primary);
+			font-size: 14px;
+			text-decoration: none;
+		}
+
+		i {
+			color: var(--stores-brand-primary);
+			font-size: 16px;
+			margin-right: 5px;
+		}
+	}
+
+	.comoLlegar {
+		margin-top: 0;
+	}
+
+	.apertura {
+		font-size: 14px !important;
+		grid-area: apertura;
+	}
+
+	@media only screen and (max-width: 414px) {
+		p.direccionTienda {
+			margin: 10px 0 0 0;
+			line-height: 20px;
+		}
+	}
+}
