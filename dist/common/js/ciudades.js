@@ -1,0 +1,2 @@
+/*! stores - v1.0.0 - 2021-01-21 */
+import{stores}from"./stores/index.js";storesJsonFile&&stores.get(storesJsonFile).then(({ciudades:e})=>{const r=document.querySelector("#stores"),s=[];Object.entries(e).forEach(e=>{const r=e[1],o=e[0];Object.values(r.tiendas).forEach(e=>{s.push(stores.render.store({address:e.direccion,city:r.label,howToGet:e.como_llegar,label:`todas ${o}`,link:e.ir,name:e.nombre_tienda,schedule:e.horario_apertura}))})}),Promise.all(s).then(e=>{r.innerHTML="",e.forEach(e=>r.insertAdjacentHTML("beforeend",`${e}`))})});

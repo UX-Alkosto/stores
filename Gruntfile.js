@@ -84,6 +84,7 @@ module.exports = function (grunt) {
             },
             dist: {
                 files: {
+                    'dist/common/js/ciudades.js': ['src/js/ciudades.js'],
                     'dist/common/js/tiendas.js': ['src/js/tiendas.js'],
                     'dist/common/js/detalle.js': ['src/js/detalle.js']
                 },

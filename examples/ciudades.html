@@ -9,26 +9,13 @@
 </head>
 
 <body>
-    <div class="desktop">
-        <ul class="cities-menu" role="tablist">
-            <li role="presentation" class="active">
-                <a href="#todas" aria-controls="todas" role="tab" data-toggle="tab">Todas</a>
-            </li>
-        </ul>
-    </div>
-    <div class="mobile">
-        <p class="selecciona">Selecciona una ciudad:</p>
-        <select class="cities-menu--mobile wide">
-            <option value="todas">Todas</option>
-        </select>
-    </div>
     <div id="stores">
         <p class="loading-ajax-content">Cargando contenido</p>
     </div>
     <script>
         const storesJsonFile = 'https://cdn.jsdelivr.net/gh/UX-Alkosto/stores/dist/kalley/json/tiendas.json';
     </script>
-    <script src="https://cdn.jsdelivr.net/gh/UX-Alkosto/stores/dist/common/js/tiendas.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/gh/UX-Alkosto/stores/dist/common/js/ciudades.js" type="module"></script>
 </body>
 
 </html>
