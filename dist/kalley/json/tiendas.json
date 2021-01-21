@@ -1,5 +1,51 @@
 {
 	"ciudades": {
+		"kalley": {
+			"label": "Centro de experiencias",
+			"tiendas": {
+				"kalley": {
+					"nombre_tienda": "Tienda Kalley",
+					"direccion": "Cl 2 No. 50 - 2",
+					"horario_apertura": [
+						[
+							
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						]
+					],
+					"horarios": [
+						"Lun a Sab <br> 8:00 a.m a 6:00 p.m"
+					],
+					"horario": "Lun a Sab de 8:00 a.m a 6:00 p.m",
+					"imagen": "/medias/tienda-kalley?context=bWFzdGVyfHRpZW5kYXMta2FsbGV5fDg0MjkzfGltYWdlL2pwZWd8dGllbmRhcy1rYWxsZXkvaDRjL2gxZi8xMDMyMTkxMTQ0NzU4Mi5qcGd8NzExMzRhZjU0YTFmNTA5ZDA5YTdhN2Q0NGMxZjE3MGYyOTkyZWU1ODZiZGE5OGZhOGRmODBmZGY4ZmUwMGRiOA",
+					"como_llegar": "https://www.google.com/maps/dir//Tienda+Kalley,+Cl.+2+Sur+%23%23+50+21,+Medell%C3%ADn,+Antioquia/@6.2056116,-75.5820243,17z/data=!4m16!1m6!3m5!1s0x8e442912490ad1bf:0x62e0c734f6a4c3b!2sTienda+Kalley!8m2!3d6.2056116!4d-75.5798356!4m8!1m0!1m5!1m1!1s0x8e442912490ad1bf:0x62e0c734f6a4c3b!2m2!1d-75.5798356!2d6.2056116!3e3",
+					"ver_mapa": "https://www.google.com/maps/place/Tienda+Kalley/@6.2056116,-75.5820243,17z/data=!3m1!4b1!4m5!3m4!1s0x8e442912490ad1bf:0x62e0c734f6a4c3b!8m2!3d6.2056116!4d-75.5798356",
+					"ir": "/nuestra-compania/tiendas/medellin/centro-experiencias/c/centro-experiencias"
+				}
+			}
+		},
 		"bogota": {
 			"label": "Bogotá",
 			"tiendas": {
@@ -42,10 +88,10 @@
 						"<strong>Dom y Fes</strong> <br> 10:00 a.m a 6:00 p.m"
 					],
 					"horario": "Lun a Jue de 10:00 a.m a 7:30 p.m <br> Vie a Sab de 10:00 a.m a 8:00 p.m Dom y Fes 10:00 a.m a 6:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-20julio.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMDkxNDJ8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDkxL2g3My85NDA1NjcyMTYxMzEwLmpwZ3w0NDdkYjBmYWI0NzRjYWU4OGY5YWNjNzg4MzE5YjcxMzE1NTZkY2U0MWNhNDkyNWNjM2E1YWVkMGVlN2JjODhm",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix+20+de+Julio,+CL+25B+SUR+%23+5+-+87,+Primer+Piso,+Bogot%C3%A1,+Cundinamarca/@4.5692934,-74.0956793,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f98ec8ef532eb:0x77cc34b0603dab09!2m2!1d-74.0934906!2d4.5692934",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/20-julio/c/20-julio"
+					"ver_mapa": "https://www.google.com/maps?cid=8632332517895940873&hl=es-419&_ga=2.199718446.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/20-julio/c/20-julio"
 				},
 				"calle-94": {
 					"nombre_tienda": "Ktronix 94",
@@ -85,10 +131,10 @@
 						"Dom y Fes <br> 10:00 a.m a 6:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-94.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw3Mzg2M3xpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oZGEvaDBkLzk0MDU2NzI3NTExMzQuanBnfDk0ZjFhMTI5ZTdlNjMxNzM2MzZiOTlhYjA0NGU4MjMxZmMxNmNmYzczYzk5MDk1YjMwMDM2MWYzOWFmNWZkYjk",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cl.+94+%23No.+15-14,+Bogot%C3%A1/@4.6797942,-74.0856483,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9a930a86ce3d:0x64cab81bc7b2b411!2m2!1d-74.0506286!2d4.6797095",
 					"ver_mapa": "https://www.google.com/maps/place/Ktronix/@4.6797148,-74.0528173,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9a930a86ce3d:0x64cab81bc7b2b411!8m2!3d4.6797095!4d-74.0506286",
-					"ir": "/nuestra-compania/tiendas/bogota/calle-94/c/calle-94"
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/calle-94/c/calle-94"
 				},
 				"americas": {
 					"nombre_tienda": "Ktronix Américas",
@@ -128,10 +174,10 @@
 						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-americas.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMTIyOTd8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaGIzL2gwOC85NDA1NjcyOTQ3NzQyLmpwZ3xjMjgxYTBjNGJhMTkyMTcwYzcxMTg2NjI1YzE0NWNkZDE5ZDAzZDE0Zjg5NmYwMzk3MGVhMzNlMTJiODIzYjc4",
 					"como_llegar": "https://www.google.com/maps/dir//KTRONIX+AMERICAS,+Transversal+71D,+Cl.+94+Sur+%23No.+26,+Bogot%C3%A1/@4.619513,-74.1377844,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9eaffad86eb7:0xa42c719bbc5b6df9!2m2!1d-74.1355957!2d4.619513",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/americas/c/americas"
+					"ver_mapa": "https://www.google.com/maps?cid=11829955234889428473&hl=es-419&_ga=2.197991983.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/americas/c/americas"
 				},
 				"centro-mayor": {
 					"nombre_tienda": "Ktronix Centro Mayor",
@@ -171,10 +217,10 @@
 						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-centromayor.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw3ODAzNnxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oZWUvaDVhLzk0MDU2NzMyNzU0MjIuanBnfGJkOTU5NDEzNGE0NjZlMzRiNGU1MDkxMGMyNDdlNDZkMTk0NDlmZmEzNWIwOTVjMmE2MmQ0MmRjYmIwYTAzYTA",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix+Centro+Mayor,+Av.+Cra+27+%23+38+a+-+83+Sur.+Locales+13,+Cra.+17,+Bogot%C3%A1,+Cundinamarca/@4.5903997,-74.1260621,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f992ccab1cca1:0x8e76aed4185e913b!2m2!1d-74.1238734!2d4.5903997",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/centro-mayor/c/centro-mayor"
+					"ver_mapa": "https://www.google.com/maps?cid=10265584626602774843&hl=es-419&_ga=2.34570017.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/centro-mayor/c/centro-mayor"
 				},
 				"chia": {
 					"nombre_tienda": "Ktronix Chía",
@@ -215,54 +261,10 @@
 						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Jue de 10:30 a.m a 8:30 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-chia.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw5OTg3NHxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oMTMvaDc2Lzk0MDU2NzM1Mzc1NjYuanBnfGIzMGI2MDYzZGFlYmVlNzI0OWIwZmZlY2FiNmQ2M2I4MWViNzhlYTgyOGExMWYyYjI1YWQ4MzAxYzlmN2ZlZjE",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Km+2.5+Via+Chia+Cajica+Local+2+-49+Centro+Comercial+Fontanar,+Ch%C3%ADa/@4.8835828,-74.0371099,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e40781f44f5079d:0x2604c68c3bfc0f66!2m2!1d-74.0349212!2d4.8835828",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/chia/c/chia"
-				},
-				"diver-plaza": {
-					"nombre_tienda": "Ktronix Diver Plaza",
-					"direccion": "Trv  99 #70A - 89 ",
-					"horario_apertura": [
-						[
-							"10:00",
-							"18:00"
-						],
-						[
-							"10:00",
-							"19:30"
-						],
-						[
-							"10:00",
-							"19:30"
-						],
-						[
-							"10:00",
-							"19:30"
-						],
-						[
-							"10:00",
-							"19:30"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						]
-					],
-					"horarios": [
-						"Lun a Jue <br> a.m a  p.m",
-						"Vie a Sab <br> a.m a  p.m",
-						"Dom y Fes <br> a.m a  p.m"
-					],
-					"horario": "Lun a Jue de  a.m a  p.m <br> Vie a Sab de  a.m a  p.m <br> Dom y Fes  a.m a  p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
-					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Transversal+99+%23+70a-89+Centro+Comercial+Diver+Plaza+Local+206-B,+Bogot%C3%A1,+Cundinamarca/@4.7002507,-74.1172442,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9a97398def9b:0x32e798445be85523!2m2!1d-74.1150555!2d4.7002507",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/diver-plaza/c/diver-plaza"
+					"ver_mapa": "https://www.google.com/maps?cid=2739532778952200038&hl=es-419&_ga=2.227367453.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/chia/c/chia"
 				},
 				"mosquera": {
 					"nombre_tienda": "Ktronix Mosquera",
@@ -302,54 +304,10 @@
 						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-mosquera.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw5MTE5N3xpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oYTcvaGZkLzk0MDU2NzQwNjE4NTQuanBnfDBkNzU5YWY4MWM5ODk1Y2VmMGIyYjQ2Y2IzMmQyM2M2NjMyNmY0ODRhOTliZDE1ZjQ3NDA2ZDI3MGU0YzM4M2I",
 					"como_llegar": "https://www.google.com/maps/dir//KTRONIX+MOSQUERA,+Cra+3ra+No.+15%C2%AA+-+57+Local+255+-+256+Centro+Comercial+Ecoplaza,+Bogot%C3%A1/@4.712611,-74.2236897,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f780107bf3d23:0xdc8ea5314ba9913e!2m2!1d-74.221501!2d4.712611",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/mosquera/c/mosquera"
-				},
-				"santafe": {
-					"nombre_tienda": "Ktronix Móvil Santa Fé",
-					"direccion": "Cll 185 #45 - 03. Lc N3. 138 - 140",
-					"horario_apertura": [
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"21:00"
-						]
-					],
-					"horarios": [
-						"Lun a Vie <br> 10:00 a.m a 8:00 p.m",
-						"Sab <br> 10:00 a.m a 9:00 p.m",
-						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
-					],
-					"horario": "Lun a Vie de 10:00 a.m a 8:00 p.m <br> Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
-					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Calle+185+%23+45+-+03+Centro+Comercial+Santaf%C3%A9.+Local+N3.+138,+Cl.+140,+Bogot%C3%A1,+Cundinamarca/@4.762183,-74.0483817,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f8593955a2917:0x63b4dad01cb8959b!2m2!1d-74.046193!2d4.762183",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/santafe/c/santafe"
+					"ver_mapa": "https://www.google.com/maps?cid=15892821766178443582&hl=es-419&_ga=2.231635615.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/mosquera/c/mosquera"
 				},
 				"salitre": {
 					"nombre_tienda": "Ktronix Salitre",
@@ -389,10 +347,10 @@
 						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-salitre.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw3NDYyNXxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oM2IvaDdjLzk0MDU2NzQ2NTE2NzguanBnfDVlMzU5ZGU1MTk1YWI5MTNkNTU5YWQzMDQ5MmQ1ODZlZDgzZThhNjY5ZTdmZWM1NmRjYjJjYmQyOTViY2RkNDI",
 					"como_llegar": "https://www.google.com/maps/dir//KTRONIX+SALITRE,+Cra.+68b+%2325B-80,+Bogot%C3%A1/@4.654968,-74.1077077,17z/data=!4m15!1m6!3m5!1s0x8e3f9b9727eee121:0x68c18b7a225ca4f6!2sKTRONIX+SALITRE!8m2!3d4.654968!4d-74.105519!4m7!1m0!1m5!1m1!1s0x8e3f9b9727eee121:0x68c18b7a225ca4f6!2m2!1d-74.105519!2d4.654968",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/salitre/c/salitre"
+					"ver_mapa": "https://www.google.com/maps?cid=7548467807128429814&hl=es-419&_ga=2.202716817.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/salitre/c/salitre"
 				},
 				"soacha": {
 					"nombre_tienda": "Ktronix Soacha",
@@ -432,10 +390,10 @@
 						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:30 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-soacha.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMDA0OTh8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDIwL2gzZi85NDA1Njc0OTc5MzU4LmpwZ3wxZTgwYTNlYmI4MDhkMzMyYmRhNDdjMTc1ZGQ2MmUyODZiYTg3YWU4NTBlNTNjM2EyZTAwMGIwNjI4NjBkZmQx",
 					"como_llegar": "https://www.google.com/maps/dir//KTRONIX+SOACHA,+Centro+comercial+Antares,+Tv+7C+%23%2330e-118,+Soacha,+Cundinamarca/@4.5877474,-74.2079027,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9fcd7bc367b9:0xfd97e7e409417529!2m2!1d-74.205714!2d4.5877474",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/soacha/c/soacha"
+					"ver_mapa": "https://www.google.com/maps?cid=18273328979672921385&hl=es-419&_ga=2.257956490.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/soacha/c/soacha"
 				},
 				"suba": {
 					"nombre_tienda": "Ktronix Suba",
@@ -475,10 +433,10 @@
 						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-suba.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw1NjMxMHxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oZDYvaDU4Lzk0MDU2NzUyNDE1MDIuanBnfGQ2NGM4ZTM0OTQzMDE5YmE1OTEzYWNiZmM1ZGE3YTgzMTFiNmQ3OTEwZjk4NjU5NjE5NmRkNWQ4YmY3YmY1ZjI",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Transv.+91+No.+135+-+56,+Bogot%C3%A1/@4.7480918,-74.0745728,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f84e4515f2bb1:0x7f3eb19b469e43e7!2m2!1d-74.085443!2d4.733958",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/suba/c/suba"
+					"ver_mapa": "https://www.google.com/maps?cid=9168961171835732967&hl=es-419&_ga=2.190649899.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/suba/c/suba"
 				},
 				"titan": {
 					"nombre_tienda": "Ktronix Titán",
@@ -519,10 +477,10 @@
 						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Jue de 10:00 a.m a 8:30 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-titan.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMDU4NDB8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDMwL2hhYS85NDA1Njc1NTY5MTgyLmpwZ3xmNzE2YTJlODEwYjliZDQ4YzA2MDBiNTcxMzYzMzliMjZiMTRkY2MwZDRjN2IxMDM0Mzc5OGQwNTZjYjIzYTU0",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cr.+72+%23+80+-+94+Tit%C3%A1n+Plaza+Centro+Comercial.+Local+3-10,+Bogot%C3%A1/@4.695665,-74.0890757,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9b256cad202d:0xbb0c2acde366457d!2m2!1d-74.086887!2d4.695665",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/titan/c/titan"
+					"ver_mapa": "https://www.google.com/maps?cid=13478194848584844669&hl=es-419&_ga=2.262034189.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/titan/c/titan"
 				},
 				"unicentro": {
 					"nombre_tienda": "Ktronix Unicentro",
@@ -562,10 +520,227 @@
 						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-unicentro.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw4NDI2MXxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oOTUvaDI4Lzk0MDU2NzU4MzEzMjYuanBnfGRjYWE3MmU5NWJlZGUxODM2YjdmNDcyNGZhN2VkYjlhZTY2NmE5MTBiYjdjNzdhNjU5MTU2NGVkYjc1ZDM1ZjM",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Ak.+15+%23122-59,+Bogot%C3%A1/@4.7018385,-74.0453578,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9ab21f5a7c57:0x35059b9a3a81a347!2m2!1d-74.0431691!2d4.7018385",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bogota/unicentro/c/unicentro"
+					"ver_mapa": "https://www.google.com/maps?cid=3820630945602577223&hl=es-419&_ga=2.194846381.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bogota/unicentro/c/unicentro"
+				},
+				"avenida-68": {
+					"nombre_tienda": "Alkosto Avenida 68",
+					"direccion": "Av Cr 68 No. 72 - 43",
+					"horario_apertura": [
+						[
+							"10:00",
+							"18:00"
+						],
+						[
+							"10:00",
+							"19:30"
+						],
+						[
+							"10:00",
+							"19:30"
+						],
+						[
+							"10:00",
+							"19:30"
+						],
+						[
+							"10:00",
+							"19:30"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						]
+					],
+					"horarios": [
+						"<strong>Lun a Jue</strong> <br> 10:00 a.m a 7:30 p.m",
+						"<strong>Vie a Sab</strong> <br> 10:00 a.m a 8:00 p.m",
+						"<strong>Dom y Fes</strong> <br> 10:00 a.m a 6:00 p.m"
+					],
+					"horario": "Lun a Jue de 10:00 a.m a 7:30 p.m <br> Vie a Sab de 10:00 a.m a 8:00 p.m Dom y Fes 10:00 a.m a 6:00 p.m",
+					"imagen": "/medias/tienda-avenida-68?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNDEzNDV8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDhiL2gwMy8xMDMyMzI4ODcxOTM5MC5qcGd8YjhhOTIyMjQ0MzlkYmI5YzkwMmFjYTExNDJkMzRlNzc0NDI4MTRlNWZkY2RhZmE2MWMwMjkyZTc1MmI5NjM5Ng",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Avenida+68,+Ak+68+%23%23+72-43,+Bogot%C3%A1/@4.6798396,-74.0880519,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9b1baf5b732f:0xaf7808bcf4904255!2m2!1d-74.0858632!2d4.6798396?hl=es",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Avenida+68/@4.6798396,-74.0880519,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9b1baf5b732f:0xaf7808bcf4904255!8m2!3d4.6798396!4d-74.0858632?hl=es",
+					"ir": "/nuestra-compania/tiendas/bogota/avenida-68/c/avenida-68"
+				},
+				"calle-170": {
+					"nombre_tienda": "Alkosto Calle 170",
+					"direccion": "Cr 69 No. 170 - 15",
+					"horario_apertura": [
+						[
+							"10:00",
+							"18:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:30"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						]
+					],
+					"horarios": [
+						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 6:00 p.m"
+					],
+					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
+					"imagen": "/medias/tienda-calle-170-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxODI3MDR8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDk5L2g4NS8xMDMyMzI4NzY3MDgxNC5qcGd8ZWJiOWI2NjAyZmQ0YTFjMWJmMDQ0OGMyNTQ1NGEwMTRiYThlMWIzNjhiNDI2MTE4YmZhOWQ2MWZhZDc4NmRkZg",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Calle+170,+Cra.+69+%23%23+170-15,+Bogot%C3%A1/@4.7600635,-74.0658797,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f8581a23eea55:0x452af076b561fdd0!2m2!1d-74.063691!2d4.7600635?hl=es",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Calle+170/@4.7600635,-74.0658797,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f8581a23eea55:0x452af076b561fdd0!8m2!3d4.7600635!4d-74.063691?hl=es",
+					"ir": "/nuestra-compania/tiendas/bogota/calle-170/c/calle-170"
+				},
+				"carrera-30": {
+					"nombre_tienda": "Alkosto Carrera 30",
+					"direccion": "Cr 30 No. 10 - 25",
+					"horario_apertura": [
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						]
+					],
+					"horarios": [
+						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+					],
+					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+					"imagen": "/medias/tienda-carrera-30-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxMjc0Nzl8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDdmL2g4YS8xMDMyMzI4NzQ3NDIwNi5qcGd8ZjMzOGRhZTU4NDMxM2Q2MzZjYjk1MDBjNWY0ZGRkYWZlNWU5ZGNiYjk5MzI3MjAxMzZiMTJmNzdkNzMzNWVhZA",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Carrera+30,+Ak+30+%23%23+10-25,+Bogot%C3%A1/@4.6110212,-74.0973408,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f996bf35afae5:0xc7ce950475538f58!2m2!1d-74.0951521!2d4.6110212?hl=es",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Carrera+30/@4.6110212,-74.0973408,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996bf35afae5:0xc7ce950475538f58!8m2!3d4.6110212!4d-74.0951521?hl=es",
+					"ir": "/nuestra-compania/tiendas/bogota/carrera-30/c/carrera-30"
+				},
+				"eden": {
+					"nombre_tienda": "Alkosto El Edén",
+					"direccion": "Av Boyacá No. 15 - 98, Lc 1 -102 y 2 – 116",
+					"horario_apertura": [
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						]
+					],
+					"horarios": [
+						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+					],
+					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+					"imagen": "/medias/tienda-el-eden-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNjMwMTd8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDVhL2hiZi8xMDMyMzI4NzA4MDk5MC5qcGd8YzNhZDM4ZjY4NjNkNzk2NGJiNWIwYzI5ZjdmNTE3YzZiOTY2ZTc2NGMxMTA1OWMwNmFiODFjYzIyZTA1MWVjNA",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto+El+Ed%C3%A9n,+Avenida+Boyac%C3%A1+%23+15-98+Centro+comercial+El+Eden,+Local+102,+Bogot%C3%A1,+Cundinamarca/@4.6468682,-74.1307099,17z/data=!4m15!1m6!3m5!1s0x8e3f9d3ece2dc47f:0xc1648e7c95f7ef1c!2sAlkosto+El+Ed%C3%A9n!8m2!3d4.6468682!4d-74.1285212!4m7!1m0!1m5!1m1!1s0x8e3f9d3ece2dc47f:0xc1648e7c95f7ef1c!2m2!1d-74.1285212!2d4.6468682?hl=es",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto+El+Ed%C3%A9n/@4.6468682,-74.1307099,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9d3ece2dc47f:0xc1648e7c95f7ef1c!8m2!3d4.6468682!4d-74.1285212?hl=es",
+					"ir": "/nuestra-compania/tiendas/bogota/el-eden/c/el-eden"
+				},
+				"venecia": {
+					"nombre_tienda": "Alkosto Venecia",
+					"direccion": "Av 45C sur No. 51 - 90",
+					"horario_apertura": [
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:30",
+							"20:30"
+						],
+						[
+							"10:30",
+							"20:30"
+						],
+						[
+							"10:30",
+							"20:30"
+						],
+						[
+							"10:30",
+							"20:30"
+						],
+						[
+							"10:00",
+							"21:00"
+						],
+						[
+							"10:00",
+							"21:00"
+						]
+					],
+					"horarios": [
+						"Lun a Jue <br> 10:30 a.m a 8:30 p.m",
+						"Vie a Sab <br> 10:00 a.m a 9:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+					],
+					"horario": "Lun a Jue de 10:30 a.m a 8:30 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+					"imagen": "/medias/tienda-venecia?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxMzg0ODN8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGY0L2gzMi8xMDMyMzI4NTE4MDQ0Ni5qcGd8ZWFiOTY5N2NmZjJkMjk3M2ZkMjUwYWMwOGI3NTRkYTM3YTFhOTU5YWZlNmJmZTQ0ODkzZmRlZTVmMmQ4M2U5Mw",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Venecia,+Ac.+45a+Sur+%23%23+51-90,+Bogot%C3%A1/@4.5962338,-74.1416867,17z/data=!4m15!1m6!3m5!1s0x8e3f9edb0ed520df:0x68ad08952161cf8f!2sAlkosto+Venecia!8m2!3d4.5962338!4d-74.139498!4m7!1m0!1m5!1m1!1s0x8e3f9edb0ed520df:0x68ad08952161cf8f!2m2!1d-74.139498!2d4.5962338?hl=es",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Venecia/@4.5962338,-74.1416867,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9edb0ed520df:0x68ad08952161cf8f!8m2!3d4.5962338!4d-74.139498?hl=es",
+					"ir": "/nuestra-compania/tiendas/bogota/venecia/c/venecia"
 				}
 			}
 		},
@@ -611,10 +786,10 @@
 						"Dom y Fes <br> 11:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Jue de 10:00 a.m a 8:00 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-bucaramanga.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw4OTc0MXxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oNjIvaDBmLzk0MDU2NzYwMjc5MzQuanBnfGJkMWJjMDgzYTkzNTZiZjEyMjRkODI3NjY4Nzk4Zjk5NDJmNTEwNDJmOTVhMjJlMDNlMTkyNDRhYjcxYWJhODk",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Centro+Comercial+Cacique,+Tv.+93+%2334-99,+Bucaramanga,+Santander/@7.1000622,-73.1094158,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e683f94cb1b4ee1:0xac90b927aad74a1f!2m2!1d-73.1072271!2d7.1000569",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/bucaramanga/c/bucaramanga"
+					"ver_mapa": "https://www.google.com/maps?cid=12434642151191038495&hl=es-419&_ga=2.190649899.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/bucaramanga/c/bucaramanga"
 				}
 			}
 		},
@@ -659,10 +834,10 @@
 						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-chipichape.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw4NzYzNXxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oNzIvaDgxLzk0MDU3MDkwNTgwNzguanBnfDdhMTUzNWI1NzdhNGE4ZDk0ZTU2N2RlNzVlZGRkNmVkOGY3ZmM5ODNmNzE4OTk3ZDE3ZDY4NGYyYjg3YTBmZjM",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix+Cali,+Centro+Comercial+Chipichape+9+Calle+38+%23+6+Norte-35,+Cali,+Valle+del+Cauca/@3.4759519,-76.5300056,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e30a618e6aaaaab:0x84a4e41ebee76fce!2m2!1d-76.5278169!2d3.4759519",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/cali/chipichape/c/chipichape"
+					"ver_mapa": "https://www.google.com/maps?cid=9558015129890025422&hl=es-419&_ga=2.265778703.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/cali/chipichape/c/chipichape"
 				}
 			}
 		},
@@ -706,10 +881,10 @@
 						"Lun a Dom <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-fusagasuga.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw1MTE2M3xpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oMWMvaDVmLzk5OTY3NTEwMTE4NzAuanBnfGY4YjhkYmM4MmU2MWI3YmJkOTVjNzJjMWU2MjRlYWIyMWE5M2M1MDNiNDBhNmZlZjE4NzVjNWI4OTJhMDU0ZWM",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix+Fusagasug%C3%A1,+Cra.+8+%23%23+25+-+42+Local+327,+Fusagasug%C3%A1,+Cundinamarca/@4.3436496,-74.3743294,15z/data=!4m16!1m6!3m5!1s0x0:0x4a36e52768e049c1!2sKtronix+Fusagasug%C3%A1!8m2!3d4.3436496!4d-74.3743294!4m8!1m0!1m5!1m1!1s0x8e3f05b28f3639ef:0x4a36e52768e049c1!2m2!1d-74.3743294!2d4.3436496!3e3",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/villavicencio/c/villavicencio"
+					"ver_mapa": "https://www.google.com/maps/place/Ktronix+Fusagasug%C3%A1/@4.3436496,-74.3743294,15z/data=!4m5!3m4!1s0x0:0x4a36e52768e049c1!8m2!3d4.3436496!4d-74.3743294",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/fusagasuga/c/fusagasuga"
 				}
 			}
 		},
@@ -755,16 +930,58 @@
 						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Jue de 10:00 a.m a 8:00 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-manizales.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMTQxMDJ8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDc3L2gwMi85NDA1NzA5MzIwMjIyLmpwZ3w5ZjY3Y2JmYWIzMWU4NWJlYTNjYTgyOWJjODkzNjdmN2QzYWQ2MzhiOTc4Y2E1OWFiYTVkYzhkMmRkNTY0NDhm",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix+Manizales,+carrera+14+%23+56+d+01+local+101+-+01,+Manizales,+Caldas/@5.0662898,-75.4926989,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e476f9df4a39cc9:0x8b4c524f6e015a64!2m2!1d-75.4905102!2d5.0662898",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/manizales/c/manizales"
+					"ver_mapa": "https://www.google.com/maps?cid=10037488170603469412&hl=es-419&_ga=2.34570017.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/manizales/c/manizales"
 				}
 			}
 		},
 		"medellin": {
 			"label": "Medellín",
 			"tiendas": {
+				"centro-experiencias": {
+					"nombre_tienda": "Tienda Kalley",
+					"direccion": "Cl 2 No. 50 - 2",
+					"horario_apertura": [
+						[
+							"11:00",
+							"20:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						],
+						[
+							"08:00",
+							"18:00"
+						]
+					],
+					"horarios": [
+						"Lun a Sab <br> 8:00 a.m a 6:00 p.m"
+					],
+					"horario": "Lun a Sab de 8:00 a.m a 6:00 p.m",
+					"imagen": "/medias/tienda-kalley?context=bWFzdGVyfHRpZW5kYXMta2FsbGV5fDg0MjkzfGltYWdlL2pwZWd8dGllbmRhcy1rYWxsZXkvaDRjL2gxZi8xMDMyMTkxMTQ0NzU4Mi5qcGd8NzExMzRhZjU0YTFmNTA5ZDA5YTdhN2Q0NGMxZjE3MGYyOTkyZWU1ODZiZGE5OGZhOGRmODBmZGY4ZmUwMGRiOA",
+					"como_llegar": "https://www.google.com/maps/dir//Tienda+Kalley,+Cl.+2+Sur+%23%23+50+21,+Medell%C3%ADn,+Antioquia/@6.2056116,-75.5820243,17z/data=!4m16!1m6!3m5!1s0x8e442912490ad1bf:0x62e0c734f6a4c3b!2sTienda+Kalley!8m2!3d6.2056116!4d-75.5798356!4m8!1m0!1m5!1m1!1s0x8e442912490ad1bf:0x62e0c734f6a4c3b!2m2!1d-75.5798356!2d6.2056116!3e3",
+					"ver_mapa": "https://www.google.com/maps/place/Tienda+Kalley/@6.2056116,-75.5820243,17z/data=!3m1!4b1!4m5!3m4!1s0x8e442912490ad1bf:0x62e0c734f6a4c3b!8m2!3d6.2056116!4d-75.5798356",
+					"ir": "/nuestra-compania/tiendas/medellin/centro-experiencias/c/centro-experiencias"
+				},
 				"arkadia": {
 					"nombre_tienda": "Ktronix Arkadia",
 					"direccion": "Cra 70 #1 - 19. Piso 3 Lc. 033",
@@ -803,10 +1020,10 @@
 						"Dom y Fes <br> 11:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-arkadia.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw5MzA3MnxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oNmYvaDY3Lzk0MDU3MDk2ODA2NzAuanBnfGE3ZjM4NjY2ODQ4NjZhNTg4NWQzZmI1ZWM5YWI5ZGYyMTBlNWYyYmFmOTMzY2FlODY3ZTNmNWE5N2FkZDVlMDU",
 					"como_llegar": "https://www.google.com/maps/dir//Arkadia+Centro+Comercial,+Cra.+70+%23%231-141,+Medell%C3%ADn,+Antioquia/@5.4783458,-75.4005325,9z/data=!4m15!1m6!3m5!1s0x8e44295984cde4bf:0xa1066131d979fba3!2sArkadia+Centro+Comercial!8m2!3d6.2124314!4d-75.5946188!4m7!1m0!1m5!1m1!1s0x8e44295984cde4bf:0xa1066131d979fba3!2m2!1d-75.5946188!2d6.2124314",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/medellin/arkadia/c/arkadia"
+					"ver_mapa": "https://www.google.com/maps?cid=8804360064259405034&hl=es-419&_ga=2.190649899.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/medellin/arkadia/c/arkadia"
 				},
 				"poblado": {
 					"nombre_tienda": "Ktronix Poblado",
@@ -846,10 +1063,10 @@
 						"Dom y Fes <br> 10:00 a.m a 6:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-poblado.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw4MzEwOXxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oYzQvaDA3Lzk0MDU3MTAxMDY2NTQuanBnfGZmMTkxNjkxYWI1OTQ5OTM5MGM2OTlkNjk0OTM0NjIxMTIzNjRjOTZkNmJkNTI5YWI4M2VkOTdiMzYwMDVhM2M",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cra+43A+No.+1Sur+-+220,+Medell%C3%ADn/@6.198592,-75.5837051,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e4682873a5021e1:0x8a531185c43fb335!2m2!1d-75.5721824!2d6.2010791",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/medellin/poblado/c/poblado"
+					"ver_mapa": "https://www.google.com/maps?cid=9967329666521871157&hl=es-419&_ga=2.227367453.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/medellin/poblado/c/poblado"
 				},
 				"tesoro": {
 					"nombre_tienda": "Ktronix Tesoro",
@@ -889,10 +1106,10 @@
 						"Dom y Fes <br> 11:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-tesoro.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMDg3NDJ8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaGMxL2gyMS85NDA1NzEwNTMyNjM4LmpwZ3w5OTA3MWM4Njk5MDdmNzI4MzU0YTUyMDk3YTJhYWQ5MzBlNDU4Njg1YjRhMWYwMTExZWM4YWY2MzM4ZmJiZDk4",
 					"como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cra,+Cl.+1a+Sur+%2345,+Medell%C3%ADn,+Antioquia/@6.1960842,-75.5623972,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e46829a7e77a3d5:0x3d191e696bbb863e!2m2!1d-75.5602085!2d6.1960842",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/medellin/tesoro/c/tesoro"
+					"ver_mapa": "https://maps.google.com/maps?cid=4402583548859221566&hl=es-419&_ga=2.189603755.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/medellin/tesoro/c/tesoro"
 				}
 			}
 		},
@@ -937,10 +1154,10 @@
 						"Dom <br> 11:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom 11:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-tunja.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw5ODI5MXxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oMmIvaDkxLzk0MDU3MTA3MjkyNDYuanBnfGEzY2JiMDM5ZWY2YWE4MWU5YmRhNzVhMTViMDk2YzA5MGEzYWY2YzQ3OTYzMDU2OTBiMDI2YTljY2FkNDBmYzA",
 					"como_llegar": "https://www.google.com/maps/dir//K-Tronix+Viva+Centro+Comercial,+Viva+Centro+Comercial,+Local+209,+Tunja,+Boyac%C3%A1/@5.5567153,-73.3477615,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e6a7d15a190a18f:0x6682d7de464a2a72!2m2!1d-73.3455728!2d5.5567153",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/tunja/c/tunja"
+					"ver_mapa": "https://www.google.com/maps?cid=7386703688503011954&hl=es-419&_ga=2.256914315.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/tunja/c/tunja"
 				}
 			}
 		},
@@ -985,10 +1202,10 @@
 						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
+					"imagen": "/medias/img-tienda-villavicencio.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw3NjA3N3xpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oMDIvaDdlLzk0MDU3MTExNTUyMzAuanBnfDA2YzlmMWFlOWUxNGNiNjc1ZTE1ZGNkZjJmMGRiZTE3MGRmYWYwNmFlY2E1Yjg3NWVmOWZjMDUxNzM4ZjI2Y2E",
 					"como_llegar": "https://www.google.com/maps/dir//K+Tronix,+Cll+7+%23+45+%E2%80%93+185,+Centro+Comercial+Viva+Local:+117A,+Villavicencio/@4.124489,-73.6397943,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3e2e16c609094b:0xb901bf6de0239930!2m2!1d-73.6376056!2d4.124489",
-					"ver_mapa": "",
-					"ir": "/nuestra-compania/tiendas/villavicencio/c/villavicencio"
+					"ver_mapa": "https://www.google.com/maps?cid=13331146850626148656&hl=es-419&_ga=2.26614717.1218088158.1597063754-1745276373.1591909677",
+					"ir": "https://www.ktronix.com/nuestra-compania/tiendas/villavicencio/c/villavicencio"
 				}
 			}
 		}
