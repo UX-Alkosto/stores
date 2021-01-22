@@ -4,7 +4,7 @@
 			"label": "Centro de experiencias",
 			"tiendas": {
 				"kalley": {
-					"nombre_tienda": "Tienda Kalley",
+					"nombre_tienda": "Tienda Kalley Medellín",
 					"direccion": "Cl 2 No. 50 - 2",
 					"horario_apertura": [
 						[],
@@ -40,7 +40,7 @@
 					"imagen": "/medias/tienda-kalley?context=bWFzdGVyfHRpZW5kYXMta2FsbGV5fDg0MjkzfGltYWdlL2pwZWd8dGllbmRhcy1rYWxsZXkvaDRjL2gxZi8xMDMyMTkxMTQ0NzU4Mi5qcGd8NzExMzRhZjU0YTFmNTA5ZDA5YTdhN2Q0NGMxZjE3MGYyOTkyZWU1ODZiZGE5OGZhOGRmODBmZGY4ZmUwMGRiOA",
 					"como_llegar": "https://www.google.com/maps/dir//Tienda+Kalley,+Cl.+2+Sur+%23%23+50+21,+Medell%C3%ADn,+Antioquia/@6.2056116,-75.5820243,17z/data=!4m16!1m6!3m5!1s0x8e442912490ad1bf:0x62e0c734f6a4c3b!2sTienda+Kalley!8m2!3d6.2056116!4d-75.5798356!4m8!1m0!1m5!1m1!1s0x8e442912490ad1bf:0x62e0c734f6a4c3b!2m2!1d-75.5798356!2d6.2056116!3e3",
 					"ver_mapa": "https://www.google.com/maps/place/Tienda+Kalley/@6.2056116,-75.5820243,17z/data=!3m1!4b1!4m5!3m4!1s0x8e442912490ad1bf:0x62e0c734f6a4c3b!8m2!3d6.2056116!4d-75.5798356",
-					"externo": true,
+					"externo": false,
 					"ir": "/nuestra-compania/tiendas/medellin/centro-experiencias/c/centro-experiencias"
 				}
 			}
