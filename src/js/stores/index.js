@@ -77,6 +77,7 @@ export const stores = {
 			howToGet = '',
 			label = '',
 			link = '',
+			external = false,
 			name = '',
 			schedule = []
 		}) => {
@@ -89,7 +90,7 @@ export const stores = {
 						${name}
 					</h3>
 					<div class="ir">
-						<a  href="${link.length ? `${link}` : '#'}" target="_self">
+						<a  href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}">
 							<i class="stores-icon-arrow-right"></i>
 						</a>
 					</div>
@@ -99,14 +100,14 @@ export const stores = {
 				<div class="indicaciones">
 					${link.length ? `<div class="ver_horario">
 							<i class="stores-icon-arrive"></i>
-							<a href="${link}">Ver mapa y horarios</a>
+							<a href="${link}" target="${external ? '_blank' : '_self'}">Ver mapa y horarios</a>
 						</div>` : ''}
 					${link.length ? `<!--<div class="comoLlegar">
 							<i class="stores-icon-arrive"></i>
 							<a href="${howToGet}" target="_blank">Cómo llegar</a>
 						</div>-->` : ''}
 				</div>
-				<a class="click" href="${link.length ? `${link}` : '#'}" target="_self"></a>
+				<a class="click" href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}"></a>
 			</div>`
 		}
 	}

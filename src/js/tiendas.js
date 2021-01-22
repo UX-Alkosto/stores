@@ -20,6 +20,7 @@ import { stores } from "./stores/index.js"
 						howToGet: store.como_llegar,
 						label: `todas ${label}`,
 						link: store.ir,
+						external: store.externo,
 						name: store.nombre_tienda,
 						schedule: store.horario_apertura
 					}))
