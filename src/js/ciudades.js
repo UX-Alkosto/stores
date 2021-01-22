@@ -8,6 +8,7 @@ import { stores } from "./stores/index.js"
 				storesPromises = []
 
 			if (Object.keys(ciudades[params.city].tiendas).length > 1) {
+				document.querySelector(".nombre-ciudad").innerHTML=city.label
 				Object.values(city.tiendas).forEach(store => {
 					storesPromises.push(stores.render.store({
 						address: store.direccion,
