@@ -90,7 +90,7 @@ export const stores = {
 						${name}
 					</h3>
 					<div class="ir">
-						<a href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener" title="${name}">
+						<a href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener" title="${name} - ${city}">
 							<i class="stores-icon-arrow-right"></i>
 						</a>
 					</div>
@@ -107,7 +107,7 @@ export const stores = {
 							<a href="${howToGet}" target="_blank" rel="noopener" title="Cómo llegar">Cómo llegar</a>
 						</div>-->` : ''}
 				</div>
-				<a class="click" href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener" title="${name}"></a>
+				<a class="click" href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener" title="${name} - ${city}"></a>
 			</div>`
 		}
 	}
