@@ -59,11 +59,11 @@ export const stores = {
 						${scheduleDetail.map(detail => `<p>${detail}</p>`).join('')}
 					</div>
 					<div class="links_detalle">
-						${howToGet.length ? `<span><a href="${howToGet}" target="_blank" rel="noopener">
+						${howToGet.length ? `<span><a href="${howToGet}" target="_blank" rel="noopener" title="Como llegar">
 							<i class="stores-icon-location"></i>
 							Como llegar
 						</a></span>` : ''}
-						${map.length ? `<span><a href="${map}" target="_blank" rel="noopener">
+						${map.length ? `<span><a href="${map}" target="_blank" rel="noopener" title="Ver mapa">
 							<i class="stores-icon-arrive"></i>
 							Ver mapa
 						</a></span>` : ''}
@@ -90,7 +90,7 @@ export const stores = {
 						${name}
 					</h3>
 					<div class="ir">
-						<a href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener">
+						<a href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener" title="${name}">
 							<i class="stores-icon-arrow-right"></i>
 						</a>
 					</div>
@@ -100,14 +100,14 @@ export const stores = {
 				<div class="indicaciones">
 					${link.length ? `<div class="ver_horario">
 							<i class="stores-icon-arrive"></i>
-							<a href="${link}" target="${external ? '_blank' : '_self'}">Ver mapa y horarios</a>
+							<a href="${link}" target="${external ? '_blank' : '_self'}" rel="noopener" title="Ver mapa y horarios">Ver mapa y horarios</a>
 						</div>` : ''}
 					${link.length ? `<!--<div class="comoLlegar">
 							<i class="stores-icon-arrive"></i>
-							<a href="${howToGet}" target="_blank" rel="noopener">Cómo llegar</a>
+							<a href="${howToGet}" target="_blank" rel="noopener" title="Cómo llegar">Cómo llegar</a>
 						</div>-->` : ''}
 				</div>
-				<a class="click" href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener"></a>
+				<a class="click" href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener" title="${name}"></a>
 			</div>`
 		}
 	}
