@@ -59,11 +59,11 @@ export const stores = {
 						${scheduleDetail.map(detail => `<p>${detail}</p>`).join('')}
 					</div>
 					<div class="links_detalle">
-						${howToGet.length ? `<span><a href="${howToGet}" target="_blank">
+						${howToGet.length ? `<span><a href="${howToGet}" target="_blank" rel="noopener">
 							<i class="stores-icon-location"></i>
 							Como llegar
 						</a></span>` : ''}
-						${map.length ? `<span><a href="${map}" target="_blank">
+						${map.length ? `<span><a href="${map}" target="_blank" rel="noopener">
 							<i class="stores-icon-arrive"></i>
 							Ver mapa
 						</a></span>` : ''}
@@ -90,7 +90,7 @@ export const stores = {
 						${name}
 					</h3>
 					<div class="ir">
-						<a  href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}">
+						<a href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener">
 							<i class="stores-icon-arrow-right"></i>
 						</a>
 					</div>
@@ -104,10 +104,10 @@ export const stores = {
 						</div>` : ''}
 					${link.length ? `<!--<div class="comoLlegar">
 							<i class="stores-icon-arrive"></i>
-							<a href="${howToGet}" target="_blank">Cómo llegar</a>
+							<a href="${howToGet}" target="_blank" rel="noopener">Cómo llegar</a>
 						</div>-->` : ''}
 				</div>
-				<a class="click" href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}"></a>
+				<a class="click" href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener"></a>
 			</div>`
 		}
 	}
