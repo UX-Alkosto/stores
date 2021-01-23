@@ -906,52 +906,52 @@
 					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Barranquilla/@11.0114787,-74.8305716,17z/data=!3m1!4b1!4m5!3m4!1s0x8ef42c52bac66947:0xedf62f4d2d9309db!8m2!3d11.0114787!4d-74.8283829?hl=es",
 					"externo": true,
 					"ir": "https://www.alkosto.com/tiendas/index/ver/id/Alkosto+Barranquilla-55"
+				},
+				"alkomprar-barranquilla": {
+					"nombre_tienda": "Barranquilla C.C Único",
+					"direccion": "Cl 74 #38D-113. Lc 117",
+					"horario_apertura": [
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"9:30",
+							"20:30"
+						],
+						[
+							"9:30",
+							"20:30"
+						],
+						[
+							"9:30",
+							"20:30"
+						],
+						[
+							"9:30",
+							"20:30"
+						],
+						[
+							"9:30",
+							"21:00"
+						],
+						[
+							"9:30",
+							"21:00"
+						]
+					],
+					"horarios": [
+						"Lun a Jue <br> 9:30 a.m a 8:30 p.m",
+						"Vie a Sab <br> 9:30 a.m a 9:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+					],
+					"horario": "Lun a Jue de 9:30 a.m a 8:00 p.m <br> Vie a Sab de 9:30 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+					"imagen": "",
+					"como_llegar": "https://www.google.com/maps/dir//Alkomprar+Unico+outlet+Barranquilla,+Cl.+74+%23%2338D-113,+Barranquilla,+Atl%C3%A1ntico/@10.9886458,-74.8144775,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8ef42d11cea4dd2b:0x4eaf07eb305e2930!2m2!1d-74.8122888!2d10.9886458?hl=es-419",
+					"ver_mapa": "https://www.google.com/maps/place/Alkomprar+Unico+outlet+Barranquilla/@10.9886458,-74.8144775,17z/data=!3m1!4b1!4m5!3m4!1s0x8ef42d11cea4dd2b:0x4eaf07eb305e2930!8m2!3d10.9886458!4d-74.8122888?hl=es-419",
+					"externo": true,
+						"ir": "https://www.alkomprar.com/nuestras-tiendas/barranquilla/unico"
 				}
-			},
-			"alkomprar-barranquilla": {
-				"nombre_tienda": "Barranquilla C.C Único",
-				"direccion": "Cl 74 #38D-113. Lc 117",
-				"horario_apertura": [
-					[
-						"10:00",
-						"20:00"
-					],
-					[
-						"9:30",
-						"20:30"
-					],
-					[
-						"9:30",
-						"20:30"
-					],
-					[
-						"9:30",
-						"20:30"
-					],
-					[
-						"9:30",
-						"20:30"
-					],
-					[
-						"9:30",
-						"21:00"
-					],
-					[
-						"9:30",
-						"21:00"
-					]
-				],
-				"horarios": [
-					"Lun a Jue <br> 9:30 a.m a 8:30 p.m",
-					"Vie a Sab <br> 9:30 a.m a 9:00 p.m",
-					"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
-				],
-				"horario": "Lun a Jue de 9:30 a.m a 8:00 p.m <br> Vie a Sab de 9:30 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
-				"imagen": "",
-				"como_llegar": "https://www.google.com/maps/dir//Alkomprar+Unico+outlet+Barranquilla,+Cl.+74+%23%2338D-113,+Barranquilla,+Atl%C3%A1ntico/@10.9886458,-74.8144775,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8ef42d11cea4dd2b:0x4eaf07eb305e2930!2m2!1d-74.8122888!2d10.9886458?hl=es-419",
-				"ver_mapa": "https://www.google.com/maps/place/Alkomprar+Unico+outlet+Barranquilla/@10.9886458,-74.8144775,17z/data=!3m1!4b1!4m5!3m4!1s0x8ef42d11cea4dd2b:0x4eaf07eb305e2930!8m2!3d10.9886458!4d-74.8122888?hl=es-419",
-				"externo": true,
-					"ir": "https://www.alkomprar.com/nuestras-tiendas/barranquilla/unico"
 			}
 		},
 		"barrancabermeja": {
