@@ -52,7 +52,7 @@ export const stores = {
 					<span class="direc">${address}</span>
 					<p class="apertura ${isOpen.open ? 'verde' : 'rojo'}">${isOpen.message}</p>
 					<span class="tit_horario">
-						<i class="stores-icon-clock"></i>
+						<i class="alk-icon-clock"></i>
 						Horarios
 					</span>
 					<div class="horarios_detalle">
@@ -60,11 +60,11 @@ export const stores = {
 					</div>
 					<div class="links_detalle">
 						${howToGet.length ? `<span><a href="${howToGet}" target="_blank" rel="noopener" title="Como llegar">
-							<i class="stores-icon-location"></i>
+							<i class="alk-icon-arrive"></i>
 							Como llegar
 						</a></span>` : ''}
 						${map.length ? `<span><a href="${map}" target="_blank" rel="noopener" title="Ver mapa">
-							<i class="stores-icon-arrive"></i>
+							<i class="alk-icon-mapa"></i>
 							Ver mapa
 						</a></span>` : ''}
 					</div>
@@ -86,12 +86,12 @@ export const stores = {
 				<h2 class="ciudad_mun">${city}</h2>
 				<div class="recuadroUno">
 					<h3 class="nombre">
-						<i class="stores-icon-store"></i>
+						<i class="alk-icon-nuestras-tiendas"></i>
 						${name}
 					</h3>
 					<div class="ir">
 						<a href="${link.length ? `${link}` : '#'}" target="${external ? '_blank' : '_self'}" rel="noopener" title="${name} - ${city}">
-							<i class="stores-icon-arrow-right"></i>
+							<i class="alk-icon-arrow-right-square"></i>
 						</a>
 					</div>
 				</div>
@@ -99,11 +99,11 @@ export const stores = {
 				<p class="apertura ${isOpen.open ? 'verde' : 'rojo'}">${isOpen.message}</p>
 				<div class="indicaciones">
 					${link.length ? `<div class="ver_horario">
-							<i class="stores-icon-arrive"></i>
+							<i class="alk-icon-mapa"></i>
 							<a href="${link}" target="${external ? '_blank' : '_self'}" rel="noopener" title="Ver mapa y horarios">Ver mapa y horarios</a>
 						</div>` : ''}
 					${link.length ? `<!--<div class="comoLlegar">
-							<i class="stores-icon-arrive"></i>
+							<i class="alk-icon-mapa"></i>
 							<a href="${howToGet}" target="_blank" rel="noopener" title="Cómo llegar">Cómo llegar</a>
 						</div>-->` : ''}
 				</div>
