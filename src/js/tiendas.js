@@ -1,5 +1,6 @@
 import { stores } from "./stores/index.js"
-(() => {
+(async () => {
+	await addNiceSelect()
 	if (storesJsonFile) {
 		stores.get(storesJsonFile).then(({ciudades}) => {
 			const desktopMenu = document.querySelector('.cities-menu'),
@@ -12,7 +13,8 @@ import { stores } from "./stores/index.js"
 				desktopMenu.insertAdjacentHTML('beforeend', `<li role="presentation">
 						<a href="#${label}" aria-controls="${label}" role="tab" data-toggle="tab">${city.label}</a>
 					</li>`)
-				mobileMenu.insertAdjacentHTML('beforeend', `<option value="${label}">${city.label}</option>`)
+				let option = new Option(city.label, label)
+				mobileMenu.append(option)
 				Object.values(city.tiendas).forEach(store => {
 					storesPromises.push(stores.render.store({
 						address: store.direccion,
@@ -26,7 +28,7 @@ import { stores } from "./stores/index.js"
 					}))
 				})
 			})
-			Promise.all(storesPromises).then(storesHtml => {
+			Promise.all(storesPromises).then(async storesHtml => {
 				storesContainer.innerHTML = ""
 				storesHtml.forEach(storeHtml => storesContainer.insertAdjacentHTML('beforeend', `${storeHtml}`))
 				document.querySelectorAll('.cities-menu > li > a').forEach(menu => {
@@ -43,18 +45,28 @@ import { stores } from "./stores/index.js"
 						}
 					})
 				})
-				$('select').niceSelect().change(function () {
-					$(this).find("option:selected").each(function () {
-						const optionValue = $(this).attr("value")
-						if (optionValue) {
-							$(".store").not("[data-city~=" + optionValue + "]").hide()
-							$("[data-city~=" + optionValue + "]").css({ 'display': 'grid' })
-						} else {
-							$(".store").hide()
-						}
+				$('document').ready(function(){
+					$('.cities-menu--mobile').niceSelect().change(function () {
+						$(this).find("option:selected").each(function () {
+							const optionValue = $(this).attr("value")
+							if (optionValue) {
+								$(".store").not("[data-city~=" + optionValue + "]").hide()
+								$("[data-city~=" + optionValue + "]").css({ 'display': 'grid' })
+							} else {
+								$(".store").hide()
+							}
+						})
 					})
 				})
 			})
 		})
+	}
+
+	async function addNiceSelect() {
+		const s = document.createElement("script")
+		s.type = "text/javascript"
+		s.src = "https://cdn.jsdelivr.net/gh/UX-Alkosto/stores/dist/common/js/jquery.nice-select.js"
+		s.crossorigin = "anonymus"
+		document.getElementsByTagName('head')[0].appendChild(s)
 	}
 })();
