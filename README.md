@@ -1,2 +1,2 @@
-![alt text](https://data.jsdelivr.com/v1/package/gh/UX-Alkosto/stores/badge "JsDelivr")
+![alt text](https://data.jsdelivr.com/v1/package/gh/ux-alkosto/stores/badge "JsDelivr")
 
