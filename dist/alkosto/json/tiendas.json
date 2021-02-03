@@ -225,7 +225,7 @@
 		"barranquilla": {
 			"label": "Barranquilla",
 			"tiendas": {
-				"barranquilla": {
+				"buenavista": {
 					"nombre_tienda": "Alkosto Barranquilla",
 					"direccion": "Calle 98 No. 51B - 91, Sector Buenavista",
 					"horario_apertura": [
@@ -322,7 +322,7 @@
 		"cali": {
 			"label": "Cali",
 			"tiendas": {
-				"cali": {
+				"calle-13": {
 					"nombre_tienda": "Alkosto Cali",
 					"direccion": "Cl 13 No. 80 - 187",
 					"horario_apertura": [
@@ -508,7 +508,7 @@
 		"pereira": {
 			"label": "Pereira",
 			"tiendas": {
-				"pereira": {
+				"avenida-las-americas": {
 					"nombre_tienda": "Alkosto Pereira",
 					"direccion": "Av Las Americas No. 46 - 03",
 					"horario_apertura": [
@@ -556,7 +556,7 @@
 		"sincelejo": {
 			"label": "Sincelejo",
 			"tiendas": {
-				"sincelejo": {
+				"cc-guacari": {
 					"nombre_tienda": "Alkosto Sincelejo",
 					"direccion": "Cl 28 No. 25B - 27, C.C. Guacari, Lc 101",
 					"horario_apertura": [
@@ -652,7 +652,7 @@
 		"villavicencio": {
 			"label": "Villavicencio",
 			"tiendas": {
-				"villavicencio": {
+				"calle-31": {
 					"nombre_tienda": "Alkosto Villavicencio",
 					"direccion": "Cl 31 No. 31 - 95",
 					"horario_apertura": [
@@ -700,7 +700,7 @@
 		"yopal": {
 			"label": "Yopal",
 			"tiendas": {
-				"yopal": {
+				"cc-mochiral-plaza": {
 					"nombre_tienda": "Alkosto Yopal",
 					"direccion": "Cl 24 No. 28 - 72,  C.C. Morichal Plaza. Ancla No. 2",
 					"horario_apertura": [
