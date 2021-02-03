@@ -267,7 +267,7 @@
 					"imagen": "/medias/tienda-buenavista-barranquilla?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNzI0MTV8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGQ3L2g2My8xMDMyMzI4ODE5NTEwMi5qcGd8YTQ0MGJkNzU5ZWFlMTNiZmU0YzA0MTc2ZTE4ZjVhZjY2NWY3NDYwOWY0YzBiNGIzN2I5ZDk2MDJhZWE4YzIwZQ",
 					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Barranquilla,+Cl.+98+%23%23+51B-91,+Barranquilla,+Atl%C3%A1ntico/@11.0114787,-74.8305716,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8ef42c52bac66947:0xedf62f4d2d9309db!2m2!1d-74.8283829!2d11.0114787?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Barranquilla/@11.0114787,-74.8305716,17z/data=!3m1!4b1!4m5!3m4!1s0x8ef42c52bac66947:0xedf62f4d2d9309db!8m2!3d11.0114787!4d-74.8283829?hl=es",
-					"ir": "/nuestra-compania/tiendas/barranquilla/c/barranquilla"
+					"ir": "nuestra-compania/tiendas/barranquilla/buenavista/c/buenavista"
 				}
 			}
 		},
@@ -315,7 +315,7 @@
 					"imagen": "/medias/tienda-floridablanca-bucaramanga?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxODkyNzR8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGNhL2g2NC8xMDMyMzI4Njg4NDM4Mi5qcGd8OWE2ZjI2Y2MzZDRiMTQwZThlMDgzMTY4OTk1NTQyZDczZGEyNDZiYmQ3MGVlMDI2ZGE5N2Q4MWM4OTg2MDE3Mg",
 					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Floridablanca,+km+2,5+v%C3%ADa+Floridablanca+-+Gir%C3%B3n,+Anillo+Vial,+Floridablanca,+Santander/@7.0615233,-73.1197019,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e683f142ae82f11:0x67d229ba1a2c364f!2m2!1d-73.1175132!2d7.0615233?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Floridablanca/@7.0615233,-73.1197019,17z/data=!3m1!4b1!4m5!3m4!1s0x8e683f142ae82f11:0x67d229ba1a2c364f!8m2!3d7.0615233!4d-73.1175132?hl=es",
-					"ir": "/nuestra-compania/tiendas/bucaramanga/c/bucaramanga"
+					"ir": "/nuestra-compania/tiendas/bucaramanga/floridablanca/c/floridablanca"
 				}
 			}
 		},
@@ -366,10 +366,10 @@
 				}
 			}
 		},
-		"narino": {
-			"label": "Nariño",
+		"ipiales": {
+			"label": "Ipiales",
 			"tiendas": {
-				"ipiales": {
+				"carrera-5": {
 					"nombre_tienda": "Alkosto Ipiales",
 					"direccion": "Cr 5 No. 8 – 26",
 					"horario_apertura": [
@@ -411,49 +411,6 @@
 					"como_llegar": "https://www.google.com/maps/dir//Cra.+5+%238-26,+Ipiales,+Nari%C3%B1o/@0.8241867,-77.6368576,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e296beb8a18ebbf:0xc2f0d56b952894cc!2m2!1d-77.6346689!2d0.8241867?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Cra.+5+%238-26,+Ipiales,+Nari%C3%B1o/@0.8241867,-77.6368576,17z/data=!3m1!4b1!4m5!3m4!1s0x8e296beb8a18ebbf:0xc2f0d56b952894cc!8m2!3d0.8241867!4d-77.6346689?hl=es",
 					"ir": "/nuestra-compania/tiendas/ipiales/carrera-5/c/carrera-5"
-				},
-				"tuquerres": {
-					"nombre_tienda": "Alkosto Túquerres",
-					"direccion": "Cr 13 No. 20, Esquina",
-					"horario_apertura": [
-						[
-							"10:00",
-							"18:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"20:00"
-						]
-					],
-					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-						"Dom y Fes <br> 10:00 a.m a 6:00 p.m"
-					],
-					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
-					"imagen": "/medias/tienda-tuquerres?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNjIwNzZ8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGUxL2hlNS8xMDMyMzI4NTM3NzA1NC5qcGd8MDk1ZTViMmQ3NGViNzIwOWRhMzBiZGQwODkwMGE0NzNlMmIxYzQ4NjJlMTkxNmNlNDJkODJjYWY5OTU4MjhmZg",
-					"como_llegar": "https://www.google.com/maps/dir//Alkosto,+Cra.+13+%23N%C2%B0+20,+T%C3%BAquerres,+Nari%C3%B1o/@1.08553,-77.6204983,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e29490e09a60c61:0x1931a3c38c9f82b0!2m2!1d-77.6183096!2d1.08553?hl=es",
-					"ver_mapa": "https://www.google.com/maps/place/Alkosto/@1.08553,-77.6204983,17z/data=!3m1!4b1!4m5!3m4!1s0x8e29490e09a60c61:0x1931a3c38c9f82b0!8m2!3d1.08553!4d-77.6183096?hl=es",
-					"ir": "/nuestra-compania/tiendas/tuquerres/c/tuquerres"
 				}
 			}
 		},
@@ -640,7 +597,55 @@
 					"imagen": "/medias/tienda-guacari-sincelejo-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNDkxMTJ8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDIxL2hiZC8xMDMyMzI4NjYyMjIzOC5qcGd8ODA4ZjM4MWQ4ZjkwMWUyZTg5Mzc0MGVlZDlkMzY3MDlmNmJjMGM0NDY0YTc4MmQwNjQ3NGNlNjU1ZDhmMTZkNg",
 					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Sincelejo,+Calle+28+%23No.+25B+-+27+Loc+101,+Sincelejo,+Sucre/@9.3023018,-75.38503,17z/data=!4m16!1m6!3m5!1s0x8e5915b404642b57:0x700fc994bf446489!2sAlkosto+Sincelejo!8m2!3d9.3023018!4d-75.3828413!4m8!1m0!1m5!1m1!1s0x8e5915b404642b57:0x700fc994bf446489!2m2!1d-75.3828413!2d9.3023018!3e3?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Sincelejo/@9.3023018,-75.38503,17z/data=!3m1!4b1!4m5!3m4!1s0x8e5915b404642b57:0x700fc994bf446489!8m2!3d9.3023018!4d-75.3828413?hl=es",
-					"ir": "/nuestra-compania/tiendas/sincelejo/c/sincelejo"
+					"ir": "/nuestra-compania/tiendas/sincelejo/cc-guacari/c/cc-guacari"
+				}
+			}
+		},
+		"tuquerres": {
+			"label": "Túquerres",
+			"tiendas": {
+				"carrera-13": {
+					"nombre_tienda": "Alkosto Túquerres",
+					"direccion": "Cr 13 No. 20, Esquina",
+					"horario_apertura": [
+						[
+							"10:00",
+							"18:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						]
+					],
+					"horarios": [
+						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 6:00 p.m"
+					],
+					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
+					"imagen": "/medias/tienda-tuquerres?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNjIwNzZ8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGUxL2hlNS8xMDMyMzI4NTM3NzA1NC5qcGd8MDk1ZTViMmQ3NGViNzIwOWRhMzBiZGQwODkwMGE0NzNlMmIxYzQ4NjJlMTkxNmNlNDJkODJjYWY5OTU4MjhmZg",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto,+Cra.+13+%23N%C2%B0+20,+T%C3%BAquerres,+Nari%C3%B1o/@1.08553,-77.6204983,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e29490e09a60c61:0x1931a3c38c9f82b0!2m2!1d-77.6183096!2d1.08553?hl=es",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto/@1.08553,-77.6204983,17z/data=!3m1!4b1!4m5!3m4!1s0x8e29490e09a60c61:0x1931a3c38c9f82b0!8m2!3d1.08553!4d-77.6183096?hl=es",
+					"ir": "/nuestra-compania/tiendas/tuquerres/carrera-13/c/carrera-13"
 				}
 			}
 		},
@@ -688,7 +693,7 @@
 					"imagen": "/medias/tienda-villavicencio-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNjM5MTl8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDA5L2g2MS8xMDMyMzI4NDk4MzgzOC5qcGd8MDE1ZjFlYmJkYzIzNTlkYjM2MmZjMGFjMTQyMzk2NTExOTFlYzI5NTg3OGZlYWI5NWY3ZjczZGMxOGUwZGIwNw",
 					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Villavicencio,+Cl.+31+%23%23+31-95,+Villavicencio,+Meta/@4.1439624,-73.6352349,17z/data=!4m16!1m6!3m5!1s0x8e3e2de101c293e5:0x46c4bba8682a1b67!2sAlkosto+Villavicencio!8m2!3d4.1439624!4d-73.6330462!4m8!1m0!1m5!1m1!1s0x8e3e2de101c293e5:0x46c4bba8682a1b67!2m2!1d-73.6330462!2d4.1439624!3e3?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Villavicencio/@4.1439624,-73.6352349,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3e2de101c293e5:0x46c4bba8682a1b67!8m2!3d4.1439624!4d-73.6330462?hl=es",
-					"ir": "/nuestra-compania/tiendas/villavicencio/c/villavicencio"
+					"ir": "/nuestra-compania/tiendas/villavicencio/calle-31/c/calle-31"
 				}
 			}
 		},
