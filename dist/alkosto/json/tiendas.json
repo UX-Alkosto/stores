@@ -508,7 +508,7 @@
 		"pereira": {
 			"label": "Pereira",
 			"tiendas": {
-				"avenida-las-americas": {
+				"avenida-americas": {
 					"nombre_tienda": "Alkosto Pereira",
 					"direccion": "Av Las Americas No. 46 - 03",
 					"horario_apertura": [
@@ -549,14 +549,14 @@
 					"imagen": "/medias/tienda-pereira-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNzUxNTd8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDQwL2gxYS8xMDMyMzI4NTczNzUwMi5qcGd8MjVkOTM4NzliYjg2MGM2N2U4NDk5ZjY0NGM1MDYyZTUwNjI5NmY3MmI1MDQ5MjlhNmQ0NjM0MjBiMTNkYmUwMg",
 					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Pereira,+Av.+de+las+Am%C3%A9ricas+%23%23+46-03,+Pereira,+Risaralda/@4.8074506,-75.7201026,17z/data=!4m16!1m6!3m5!1s0x8e387df43f553e8d:0x5b76f1f10bf8d3e5!2sAlkosto+Pereira!8m2!3d4.8074506!4d-75.7179139!4m8!1m0!1m5!1m1!1s0x8e387df43f553e8d:0x5b76f1f10bf8d3e5!2m2!1d-75.7179139!2d4.8074506!3e3?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Pereira/@4.8074506,-75.7201026,17z/data=!3m1!4b1!4m5!3m4!1s0x8e387df43f553e8d:0x5b76f1f10bf8d3e5!8m2!3d4.8074506!4d-75.7179139?hl=es",
-					"ir": "/nuestra-compania/tiendas/pereira/avenida-las-americas/c/avenida-las-americas"
+					"ir": "/nuestra-compania/tiendas/pereira/avenida-americas/c/avenida-americas"
 				}
 			}
 		},
 		"sincelejo": {
 			"label": "Sincelejo",
 			"tiendas": {
-				"cc-guacari": {
+				"centro-comercial-guacari": {
 					"nombre_tienda": "Alkosto Sincelejo",
 					"direccion": "Cl 28 No. 25B - 27, C.C. Guacari, Lc 101",
 					"horario_apertura": [
@@ -597,7 +597,7 @@
 					"imagen": "/medias/tienda-guacari-sincelejo-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNDkxMTJ8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDIxL2hiZC8xMDMyMzI4NjYyMjIzOC5qcGd8ODA4ZjM4MWQ4ZjkwMWUyZTg5Mzc0MGVlZDlkMzY3MDlmNmJjMGM0NDY0YTc4MmQwNjQ3NGNlNjU1ZDhmMTZkNg",
 					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Sincelejo,+Calle+28+%23No.+25B+-+27+Loc+101,+Sincelejo,+Sucre/@9.3023018,-75.38503,17z/data=!4m16!1m6!3m5!1s0x8e5915b404642b57:0x700fc994bf446489!2sAlkosto+Sincelejo!8m2!3d9.3023018!4d-75.3828413!4m8!1m0!1m5!1m1!1s0x8e5915b404642b57:0x700fc994bf446489!2m2!1d-75.3828413!2d9.3023018!3e3?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Sincelejo/@9.3023018,-75.38503,17z/data=!3m1!4b1!4m5!3m4!1s0x8e5915b404642b57:0x700fc994bf446489!8m2!3d9.3023018!4d-75.3828413?hl=es",
-					"ir": "/nuestra-compania/tiendas/sincelejo/cc-guacari/c/cc-guacari"
+					"ir": "/nuestra-compania/tiendas/sincelejo/centro-comercial-guacari/c/centro-comercial-guacari"
 				}
 			}
 		},
@@ -700,7 +700,7 @@
 		"yopal": {
 			"label": "Yopal",
 			"tiendas": {
-				"cc-mochiral-plaza": {
+				"centro-comercial-mochiral-plaza": {
 					"nombre_tienda": "Alkosto Yopal",
 					"direccion": "Cl 24 No. 28 - 72,  C.C. Morichal Plaza. Ancla No. 2",
 					"horario_apertura": [
@@ -741,7 +741,7 @@
 					"imagen": "/medias/tienda-morichal-yopal-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNzQ5OTh8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGMzL2g1ZS8xMDMyMzI4NjA5Nzk1MC5qcGd8YzFlMzNiOGFmMmZkNjk5YzlhNWFhMzc3YzhjYjIzZDA3OWU1NTc4ZWViMzEzODY5N2E1OGU0MTk5ZjRmM2VhNw",
 					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Yopal,+Cra.+29a+%23%23+24-44,+Yopal,+Casanare/@5.3396032,-72.3879255,17z/data=!4m16!1m6!3m5!1s0x8e6b0dac5d85d9df:0xa02cccffa7b586c!2sAlkosto+Yopal!8m2!3d5.3396032!4d-72.3857368!4m8!1m0!1m5!1m1!1s0x8e6b0dac5d85d9df:0xa02cccffa7b586c!2m2!1d-72.3857368!2d5.3396032!3e3?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Yopal/@5.3396032,-72.3879255,17z/data=!3m1!4b1!4m5!3m4!1s0x8e6b0dac5d85d9df:0xa02cccffa7b586c!8m2!3d5.3396032!4d-72.3857368?hl=es",
-					"ir": "/nuestra-compania/tiendas/yopal/cc-mochiral-plaza/c/cc-mochiral-plaza"
+					"ir": "/nuestra-compania/tiendas/yopal/centro-comercial-mochiral-plaza/c/centro-comercial-mochiral-plaza"
 				}
 			}
 		}
