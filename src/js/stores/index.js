@@ -30,6 +30,10 @@ export const stores = {
 			return module.isOpen(schedule)
 		}
 	},
+	log: message => {
+		const logStyles = 'background: #2ecc71; border-radius: 0.5em;color: white; font-weight: bold; padding: 2px 0.5em'
+		return console.log('%cStores', logStyles, message)
+	},
 	render: {
 		detail : async ({
 			address = '',

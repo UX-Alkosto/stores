@@ -2,6 +2,7 @@ import { stores } from "./stores/index.js"
 (() => {
 	if (storesJsonFile) {
 		const params = stores.getStoreFromUrl()
+		stores.log(params)
 		stores.get(storesJsonFile).then(async ({ ciudades }) => {
 			const store = ciudades[params.city].tiendas[params.store],
 				storesContainer = document.querySelector("#stores"),
