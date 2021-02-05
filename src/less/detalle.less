@@ -2,12 +2,6 @@
 @import './@{themeName}/variables.less';
 @import './common.less';
 
-.container {
-	width: 1280px !important;
-	margin: 0 auto;
-	padding: 0;
-	max-width: 100% !important;
-}
 
 h2 {
 	color: var(--stores-gray-5) !important;
@@ -57,7 +51,7 @@ h2 {
 		font-weight: bold !Important;
 	}
 	.apertura {
-		display: block;
+		display: @show-info;
 		margin-bottom: 20px;
 	}
 	.direc {
@@ -67,7 +61,9 @@ h2 {
 		margin-bottom: 5px;
 	}
 	.tit_horario {
+		align-items: center;
 		color: var(--stores-brand-primary);
+		display: @show-info;
 		font-size: 22px;
 		font-weight: bold;
 		i {
@@ -80,7 +76,7 @@ h2 {
 
 
 .horarios_detalle {
-	display: flex;
+	display: @show-info;
 	p {
 		width: 33.3%;
 		font-size: 14px;
@@ -94,6 +90,9 @@ h2 {
 		&:nth-child(2),
 		&:last-child {
 			padding-left: 20px;
+		}
+		&:last-child {
+			border-right: none;
 		}
 	}
 }
@@ -123,10 +122,11 @@ h2 {
 	border-bottom: solid 1px var(--stores-gray-3);
 	margin: 0px 0px 0px 15px;
 	h3 {
-		color: var(--stores-gray-5);
-		font-size: 28px;
 		border-bottom: solid 4px var(--stores-brand-secondary);
+		color: var(--stores-gray-5);
 		display: inline;
+		font-size: 18px;
+		font-weight: 600;
 	}
 }
 
@@ -138,22 +138,24 @@ h2 {
 @import './store.less';
 
 .regresar {
-	display: block;
-	color: var(--stores-white);
-	font-size: 16px;
-	padding: 15px 20px;
-	border: solid thin var(--stores-brand-tertiary);
 	background-color: var(--stores-brand-tertiary);
-	width: 20%;
+	border: solid thin var(--stores-brand-tertiary);
+	border-radius: @border-cta;
+	color: var(--stores-white);
+	display: block;
+	font-size: 16px;
 	margin: 40px auto;
+	padding: 15px 20px;
 	text-align: center;
 	text-decoration: none;
-	border-radius: 50px;
 	transition: background-color .6s;
+	width: 20%;
+	
 	&:hover {
 		background-color: var(--stores-brand-secondary);
 		border: solid thin var(--stores-brand-secondary);
 		color: var(--stores-white);
+		text-decoration: none;
 	}
 }
 
