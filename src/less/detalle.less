@@ -52,6 +52,7 @@ h2 {
 	}
 	.apertura {
 		display: @show-info;
+		font-size: 14px;
 		margin-bottom: 20px;
 	}
 	.direc {
@@ -122,11 +123,22 @@ h2 {
 	border-bottom: solid 1px var(--stores-gray-3);
 	margin: 0px 0px 0px 15px;
 	h3 {
-		border-bottom: solid 4px var(--stores-brand-secondary);
+		border-bottom: solid 2px var(--stores-brand-secondary);
 		color: var(--stores-gray-5);
-		display: inline;
+		display: inline-block;
 		font-size: 18px;
 		font-weight: 600;
+		margin-bottom: 10px !important;
+		position: relative;
+
+		&:after {
+			content: "";
+			border-bottom: solid 2px var(--stores-brand-secondary);
+			bottom: -11px;
+			display: block;
+			position: absolute;
+			width: 100%;
+		}
 	}
 }
 
