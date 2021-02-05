@@ -8,7 +8,7 @@ import { stores } from "./stores/index.js"
 				storesContainer = document.querySelector("#stores"),
 				storesPromises = []
 
-			if (Object.keys(ciudades[params.city].tiendas).length > 1) {
+			if (Object.keys(ciudades[params.city].tiendas).length) {
 				document.querySelector(".nombre-ciudad").innerHTML=city.label
 				Object.values(city.tiendas).forEach(store => {
 					storesPromises.push(stores.render.store({
