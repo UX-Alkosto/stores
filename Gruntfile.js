@@ -2,6 +2,8 @@
 'use strict';
 module.exports = function (grunt) {
 
+    var themes = ['alkomprar', 'alkosto', 'kalley', 'ktronix']
+
     grunt.initConfig({
         pkg: grunt.file.readJSON("package.json"),
         clean: {
@@ -19,63 +21,50 @@ module.exports = function (grunt) {
                 ]
             }
         },
+        cssmin : {
+            options : {
+                banner: "/*! <%= pkg.name %> - v<%= pkg.version %> */",
+                compatibility: 'ie8',
+                report: 'gzip',
+                inline: ['local'],
+                level: {
+                    1: {
+                        all: true
+                    },
+                    2: {
+                        all: true
+                    }
+                }
+            },
+            dist: {
+                expand: true,
+                cwd: 'dist',
+                src: ['**/css/*.css'],
+                dest: 'dist'
+            }
+        },
         less: {
             options: {
                 compress: true,
+                modifyVars: {
+                    themeName: '<%= theme %>'
+                },
                 paths: ['dist/css'],
                 plugins: [
                     new (require('less-plugin-autoprefix'))({ browsers: ["last 2 versions"] })
                 ]
             },
-            alkosto : {
-                options: {
-                    modifyVars: {
-                        themeName: 'alkosto'
-                    }
-                },
+            theme : {
                 files: {
-                    'dist/alkosto/css/detalle.css': 'src/less/detalle.less',
-                    'dist/alkosto/css/tiendas.css': 'src/less/tiendas.less'
-                }
-            },
-            alkomprar: {
-                options: {
-                    modifyVars: {
-                        themeName: 'alkomprar'
-                    }
-                },
-                files: {
-                    'dist/alkomprar/css/detalle.css': 'src/less/detalle.less',
-                    'dist/alkomprar/css/tiendas.css': 'src/less/tiendas.less'
-                }
-            },
-            kalley: {
-                options: {
-                    modifyVars: {
-                        themeName: 'kalley'
-                    }
-                },
-                files: {
-                    'dist/kalley/css/detalle.css': 'src/less/detalle.less',
-                    'dist/kalley/css/tiendas.css': 'src/less/tiendas.less'
-                }
-            },
-            ktronix: {
-                options: {
-                    modifyVars: {
-                        themeName: 'ktronix'
-                    }
-                },
-                files: {
-                    'dist/ktronix/css/detalle.css': 'src/less/detalle.less',
-                    'dist/ktronix/css/tiendas.css': 'src/less/tiendas.less'
+                    'dist/<%= theme %>/css/detalle.css': 'src/less/detalle.less',
+                    'dist/<%= theme %>/css/tiendas.css': 'src/less/tiendas.less'
                 }
             }
         },
+        themes: themes,
         uglify: {
             options: {
-                banner:
-                    "/*! <%= pkg.name %> - v<%= pkg.version %> */",
+                banner:"/*! <%= pkg.name %> - v<%= pkg.version %> */",
                 report: "gzip",
                 compress: true,
                 sourceMap: false,
@@ -111,8 +100,16 @@ module.exports = function (grunt) {
 
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-contrib-copy');
+    grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-less');
     grunt.loadNpmTasks('grunt-contrib-uglify-es');
 
-    grunt.registerTask('default', ['clean', 'copy', 'less', 'uglify']);
+    grunt.registerMultiTask('themes', 'Generate styles for each site', function(){
+        const done = this.async();
+        grunt.log.writeln('Compile less for: ' + this.data);
+        grunt.config('theme', this.data);
+        grunt.task.run('less');
+        done();
+    });
+    grunt.registerTask('default', ['clean', 'copy', 'themes', 'cssmin', 'uglify']);
 };

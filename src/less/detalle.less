@@ -2,18 +2,13 @@
 @import './@{themeName}/variables.less';
 @import './common.less';
 
-
-h2 {
-	color: var(--stores-gray-5) !important;
-	font-size: 32px;
-	font-weight: bold !important;
-	// margin-bottom: 16px;
-}
-
 .contenedor_tienda_detalle {
 	align-items: center;
+	content-visibility: auto;
+	contain-intrinsic-size: 0 360px;
 	display: grid;
     grid-template-columns: 40% 5% 5% 50%;
+	min-height: 360px;
 	margin: 40px 0px;
 	width: 100%;
 	.bg-tienda {
@@ -38,17 +33,11 @@ h2 {
 	}
 }
 
-
 .detalle_tienda {
-
-	.nombre-ciudad {
-		font-weight: bold;
-		color: var(--stores-gray-5);
-	}
 	h2 {
 		color: var(--stores-brand-primary);
 		font-size: 32px;
-		font-weight: bold !Important;
+		font-weight: bold !important;
 	}
 	.apertura {
 		display: @show-info;
@@ -74,7 +63,6 @@ h2 {
 		}
 	}
 }
-
 
 .horarios_detalle {
 	display: @show-info;
@@ -123,7 +111,6 @@ h2 {
 	border-bottom: solid 1px var(--stores-gray-3);
 	margin: 0px 0px 0px 15px;
 	h3 {
-		border-bottom: solid 2px var(--stores-brand-secondary);
 		color: var(--stores-gray-5);
 		display: inline-block;
 		font-size: 18px;
