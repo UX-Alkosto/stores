@@ -65,7 +65,7 @@ import { stores } from "./stores/index.js"
 	async function addNiceSelect() {
 		const s = document.createElement("script")
 		s.type = "text/javascript"
-		s.src = "https://cdn.jsdelivr.net/gh/ux-alkosto/stores@latest/dist/common/js/jquery.nice-select.js"
+		s.src = "https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/common/js/jquery.nice-select.js"
 		s.crossorigin = "anonymus"
 		document.getElementsByTagName('head')[0].appendChild(s)
 	}
