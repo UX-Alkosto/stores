@@ -1,0 +1,17 @@
+{
+    "presets": [
+        [
+            "@babel/env",
+            {
+                "useBuiltIns": "entry",
+                "corejs": "3",
+                // "loose": true,
+                // "modules": false,
+                "targets": {
+                    "esmodules": true
+                }
+            },
+            "@babel/preset-stage-0"
+        ]
+    ]
+}

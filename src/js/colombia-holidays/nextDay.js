@@ -7,4 +7,4 @@ export const NEXT_DAY = {
     FRIDAY: 5,
     SATURDAY: 6,
     NONE: 7
-}
+};
