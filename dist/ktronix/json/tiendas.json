@@ -42,9 +42,9 @@
 						"<strong>Dom y Fes</strong> <br> 10:00 a.m a 6:00 p.m"
 					],
 					"horario": "Lun a Jue de 10:00 a.m a 7:30 p.m <br> Vie a Sab de 10:00 a.m a 8:00 p.m Dom y Fes 10:00 a.m a 6:00 p.m",
-					"imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda_20julio_ktrx.png",
-					"como_llegar": "https://www.google.com/maps/dir//Ktronix+20+de+Julio,+CL+25B+SUR+%23+5+-+87,+Primer+Piso,+Bogot%C3%A1,+Cundinamarca/@4.5692934,-74.0956793,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f98ec8ef532eb:0x77cc34b0603dab09!2m2!1d-74.0934906!2d4.5692934",
-					"ver_mapa": "",
+					"imagen": "/medias/img-tienda-20julio.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMDkxNDJ8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDkxL2g3My85NDA1NjcyMTYxMzEwLmpwZ3w0NDdkYjBmYWI0NzRjYWU4OGY5YWNjNzg4MzE5YjcxMzE1NTZkY2U0MWNhNDkyNWNjM2E1YWVkMGVlN2JjODhm",
+					"como_llegar": "https://www.google.com/maps/dir//Ktronix+20+de+Julio,+Primer+Piso,+Cl.+25b+Sur+%23%23+5+-+87,+Bogot%C3%A1/@4.569239,-74.0956814,17z/data=!4m16!1m6!3m5!1s0x0:0x77cc34b0603dab09!2sKtronix+20+de+Julio!8m2!3d4.5694781!4d-74.0935052!4m8!1m0!1m5!1m1!1s0x8e3f98ec8ef532eb:0x77cc34b0603dab09!2m2!1d-74.0935052!2d4.5694781!3e3?hl=es-419",
+					"ver_mapa": "https://www.google.com/maps/place/Ktronix+20+de+Julio/@4.569239,-74.0956814,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x77cc34b0603dab09!8m2!3d4.5694781!4d-74.0935052?hl=es-419",
 					"ir": "/nuestra-compania/tiendas/bogota/20-julio/c/20-julio"
 				},
 				"calle-94": {

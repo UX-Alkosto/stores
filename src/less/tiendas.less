@@ -15,13 +15,13 @@
 	padding: 0;
 	>li {
 		margin: 0 8px 16px;
-		border: solid thin var(--stores-brand-primary);
+		border: solid thin @color-tab;
 		border-radius: 20px;
 		text-align: center;
 		>a {
 			border: none;
 			border-radius: 20px;
-			color: var(--stores-brand-primary);
+			color: @color-tab;
 			display: block;
 			font-family: var(--stores-font-family);
 			height: 32px;
@@ -32,14 +32,14 @@
 			transition: background-color .6s;
 			&:focus,
 			&:hover {
-				background-color: var(--stores-brand-primary);
+				background-color: @color-tab;
 				color: var(--stores-white);
 			}
 		}
 	}
 	>li.active {
 		>a {
-			background-color: var(--stores-brand-primary);
+			background-color: @color-tab;
 			color: var(--stores-white);
 			border: none;
 		}
