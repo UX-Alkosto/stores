@@ -3,7 +3,7 @@
 		"armenia": {
 			"label": "Armenia",
 			"tiendas": {
-				"armenia-unicentro": {
+				"unicentro": {
 					"nombre_tienda": "Alkomprar C.C. Unicentro",
 					"direccion": "Av Bolívar No. 02, Lc 117",
 					"horario_apertura": [
@@ -44,14 +44,14 @@
 					"imagen": "https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/alkomprar/img/armenia.jpg",
 					"como_llegar": "https://www.google.com/maps/dir//Centro+Comercial+Unicentro,+Av.+Bol%C3%ADvar+%23%236-02,+Armenia,+Quind%C3%ADo/@4.5402384,-75.80577,11z/data=!4m16!1m6!3m5!1s0x8e38f455608f741d:0x61a5ad3896c0e90a!2sCentro+Comercial+Unicentro!8m2!3d4.5402384!4d-75.6656943!4m8!1m0!1m5!1m1!1s0x8e38f455608f741d:0x61a5ad3896c0e90a!2m2!1d-75.6656943!2d4.5402384!3e3?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Centro+Comercial+Unicentro/@4.5402384,-75.80577,11z/data=!4m8!1m2!2m1!1salkomprar+armenia!3m4!1s0x8e38f455608f741d:0x61a5ad3896c0e90a!8m2!3d4.5402384!4d-75.6656943?hl=es",
-					"ir": "/nuestras-tiendas/armenia"
+					"ir": "/nuestras-tiendas/armenia/unicentro"
 				}
 			}
 		},
 		"apartado": {
 			"label": "Apartadó",
 			"tiendas": {
-				"apartado-plazario": {
+				"plaza-del-rio": {
 					"nombre_tienda": "Alkomprar C.C. Plaza del Rio",
 					"direccion": "Cr 100 No. 94-21, Lc 1146",
 					"horario_apertura": [
@@ -99,7 +99,7 @@
 		"barranquilla": {
 			"label": "Barranquilla",
 			"tiendas": {
-				"barranquilla-unico": {
+				"unico": {
 					"nombre_tienda": "Alkomprar C.C. Único",
 					"direccion": " Cl 74 No. 38D-113, Lc 117",
 					"horario_apertura": [
@@ -147,7 +147,7 @@
 		"barrancabermeja": {
 			"label": "Barrancabermeja",
 			"tiendas": {
-				"barranca-silvestre": {
+				"san-silvestre": {
 					"nombre_tienda": "Alkomprar C.C. San Silvestre",
 					"direccion": "Dg 56 No. 18A-88, Lc 216",
 					"horario_apertura": [
@@ -195,7 +195,7 @@
 		"bello": {
 			"label": "Bello",
 			"tiendas": {
-				"bello-puerta": {
+				"puerto-del-norte": {
 					"nombre_tienda": "Alkomprar C.C. Puerta del Norte",
 					"direccion": "Dg 55 No. 35-217, Lc 2-153",
 					"horario_apertura": [
@@ -286,7 +286,7 @@
 					"ver_mapa": "https://www.google.com/maps/place/Alkomprar/@7.1105965,-73.1169853,17z/data=!3m1!4b1!4m5!3m4!1s0x8e683fdcd48a7f03:0x27907afa8ebcf75a!8m2!3d7.1106183!4d-73.1146521?hl=es",
 					"ir": "/nuestras-tiendas/bucaramanga/carrera-27"
 				},
-				"soto-mayor": {
+				"barrio-soto-mayor": {
 					"nombre_tienda": "Alkomprar Barrio Soto Mayor",
 					"direccion": "Cr 27 No. 55-26",
 					"horario_apertura": [
@@ -334,7 +334,7 @@
 		"cali": {
 			"label": "Cali",
 			"tiendas": {
-				"centro-unico": {
+				"unico": {
 					"nombre_tienda": "Alkomprar C.C. Único",
 					"direccion": "Cr 3 No. 52-126, Lc 1007",
 					"horario_apertura": [
@@ -382,7 +382,7 @@
 		"cartago": {
 			"label": "Cartago",
 			"tiendas": {
-				"nuestro-cartago": {
+				"nuestro": {
 					"nombre_tienda": "Alkomprar C.C. Nuestro Cartago",
 					"direccion": "Cl 34 No. 2-45, Lc 103",
 					"horario_apertura": [
@@ -423,7 +423,7 @@
 					"imagen": "https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/alkomprar/img/cartago.jpg",
 					"como_llegar": "https://www.google.com/maps/dir//Alkomprar,+Cartago,+Valle+del+Cauca/@4.7568824,-75.9372972,17z/data=!4m16!1m6!3m5!1s0x8e387150b27fde5d:0xc227d7efd32a180f!2sAlkomprar!8m2!3d4.7568771!4d-75.9351085!4m8!1m0!1m5!1m1!1s0x8e387150b27fde5d:0xc227d7efd32a180f!2m2!1d-75.9351085!2d4.7568771!3e3?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkomprar/@4.7568824,-75.9372972,17z/data=!3m1!4b1!4m5!3m4!1s0x8e387150b27fde5d:0xc227d7efd32a180f!8m2!3d4.7568771!4d-75.9351085?hl=es",
-					"ir": "/nuestras-tiendas/cartago"
+					"ir": "/nuestras-tiendas/cartago/nuestro"
 				}
 			}
 		},
@@ -478,7 +478,7 @@
 		"dosquebradas": {
 			"label": "Dosquebradas",
 			"tiendas": {
-				"dosquebradas-unico": {
+				"unico": {
 					"nombre_tienda": "Alkomprar C.C. Único",
 					"direccion": "Cr 16 con Cl 24, Lc 15 al 18",
 					"horario_apertura": [
@@ -526,7 +526,7 @@
 		"ibague": {
 			"label": "Ibagué",
 			"tiendas": {
-				"estacion": {
+				"la-estacion": {
 					"nombre_tienda": "Alkomprar C.C. La Estación",
 					"direccion": "Cr 19 No. 60-180, Lc 2-33",
 					"horario_apertura": [
@@ -574,7 +574,7 @@
 		"medellin": {
 			"label": "Medellín",
 			"tiendas": {
-				"medellin-ventura": {
+				"aventura": {
 					"nombre_tienda": "Alkomprar C.C. Ventura",
 					"direccion": "Cr 52 No. 65-91, Int 306",
 					"horario_apertura": [
@@ -617,7 +617,7 @@
 					"ver_mapa": "https://www.google.com/maps/place/Alkomprar+Aventura/@6.2637007,-75.568864,17z/data=!3m1!4b1!4m5!3m4!1s0x8e4428e6a0df1259:0x62772cc4ad8bdf6d!8m2!3d6.2636942!4d-75.5666681?hl=es",
 					"ir": "/nuestras-tiendas/medellin/aventura"
 				},
-				"medellin-molinos": {
+				"los-molinos": {
 					"nombre_tienda": "Alkomprar C.C. Molinos",
 					"direccion": "Cl 30A No. 82A-26, Lc 1107",
 					"horario_apertura": [
@@ -660,7 +660,7 @@
 					"ver_mapa": "https://www.google.com/maps/place/Alkomprar/@6.2336898,-75.6064118,17z/data=!3m1!4b1!4m5!3m4!1s0x8e4429939a6d04e1:0x8c1357c6385376f4!8m2!3d6.2336845!4d-75.6042231?hl=es",
 					"ir": "/nuestras-tiendas/medellin/los-molinos"
 				},
-				"medellin-sandiego": {
+				"san-diego": {
 					"nombre_tienda": "Alkomprar C.C. San Diego",
 					"direccion": "Cl 34 No. 43-66, Lc 1419",
 					"horario_apertura": [
@@ -703,7 +703,7 @@
 					"ver_mapa": "https://www.google.com/maps/place/Alkomprar/@6.2348192,-75.5715366,17z/data=!3m1!4b1!4m5!3m4!1s0x8e44284c2dcf7ea1:0x1d8e01b487c8a8f4!8m2!3d6.2347623!4d-75.5693438?hl=es",
 					"ir": "/nuestras-tiendas/medellin/san-diego"
 				},
-				"medellin-florida": {
+				"florida-parque-comercial": {
 					"nombre_tienda": "Alkomprar Florida, Parque Comercial",
 					"direccion": "Cl 71 No. 65-150, Lc 24-25",
 					"horario_apertura": [
@@ -751,7 +751,7 @@
 		"monteria": {
 			"label": "Monteria",
 			"tiendas": {
-				"monteria-nuestro": {
+				"nuestro": {
 					"nombre_tienda": "Alkomprar C.C. Nuestro",
 					"direccion": "Trv 29 con Cl 41, Lc 217",
 					"horario_apertura": [
@@ -800,7 +800,7 @@
 		"neiva": {
 			"label": "Neiva",
 			"tiendas": {
-				"neiva-sanjuan": {
+				"san-juan-plaza": {
 					"nombre_tienda": "Alkomprar C.C. San Juan Plaza",
 					"direccion": "Cr 16 No. 41-10, Lc 242-244",
 					"horario_apertura": [
@@ -848,7 +848,7 @@
 		"piedecuesta": {
 			"label": "Piedecuesta",
 			"tiendas": {
-				"cuesta": {
+				"de-la-cuesta": {
 					"nombre_tienda": "Alkomprar C.C. de la Cuesta",
 					"direccion": "Cl 15 No. 3AN-40, Lc 154",
 					"horario_apertura": [
@@ -944,7 +944,7 @@
 		"sabaneta": {
 			"label": "Sabaneta",
 			"tiendas": {
-				"sabaneta-mayorca": {
+				"mayorca": {
 					"nombre_tienda": "Alkomprar C.C. Mayorca",
 					"direccion": "Cr 48, Av Las Vegas No. 50Sur-128, Lc 2073",
 					"horario_apertura": [
