@@ -46,11 +46,18 @@ class Stores {
 		let city, store, urlParams = url.pathname.split("/");
 		urlParams.map((value, key) => {
 			if (value.length) {
-				if (value === "tiendas") {
-					city = urlParams[key + 1];
-					store = urlParams[key + 2];
-					if (store === "c")
-						store = urlParams[key + 3];
+				try {
+					if (value === "tiendas") {
+						city = urlParams[key + 1];
+						store = urlParams[key + 2];
+						if (store === "c")
+							store = urlParams[key + 3];
+					} else if (value === "nuestras-tiendas") {
+						city = urlParams[key + 1];
+						store = urlParams[key + 2];
+					}
+				} catch (error) {
+					log(error, "error");
 				}
 			}
 		});

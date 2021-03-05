@@ -17,9 +17,10 @@ import { Stores, Store, log } from "./stores/index.js";
 			cityLabel.forEach(label => label.innerHTML = ciudades[params.city].label);
 			const Tienda = new Store({
 				address: store.direccion,
-				howToGet: store.como_llegar,
-				link: store.ir,
 				external: store.externo,
+				howToGet: store.como_llegar,
+				image: store.imagen,
+				link: store.ir,
 				map: store.ver_mapa,
 				name: store.nombre_tienda,
 				schedule: store.horario_apertura,
