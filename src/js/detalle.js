@@ -1,4 +1,5 @@
-import { Stores, Store, log } from "./stores/index.js";
+import { render } from "lit/html.js";
+import { Stores, Store, log } from "./stores";
 (async (document, storesJsonFile) => {
 	try {
 		const Tiendas = new Stores(storesJsonFile),
@@ -27,7 +28,7 @@ import { Stores, Store, log } from "./stores/index.js";
 				scheduleDetail: store.horarios
 			});
 
-			storeDetails.append(document.createRange().createContextualFragment(await Tienda.render("detail")));
+			render(await Tienda.render("detail"), storeDetails);
 
 			if (Object.keys(ciudades[params.city].tiendas).length > 1) {
 				// eslint-disable-next-line no-undef
@@ -44,7 +45,7 @@ import { Stores, Store, log } from "./stores/index.js";
 						name: store.nombre_tienda,
 						schedule: store.horario_apertura
 					});
-					storesContainer.append(document.createRange().createContextualFragment(await Tienda.render()));
+					render(await Tienda.render(), storesContainer);
 				});
 			} else {
 				otherStores.remove();

@@ -1,3 +1,5 @@
+import { html } from "lit/html.js";
+
 function log(message, type = "") {
 	let color = "";
 	switch (type) {
@@ -79,7 +81,6 @@ class Store {
 		external = false,
 		map = "",
 		name = "",
-		order = 0,
 		schedule = [],
 		scheduleDetail = []
 	}) {
@@ -92,7 +93,6 @@ class Store {
 		this.link = link;
 		this.map = map;
 		this.name = name;
-		this.order = order;
 		this.schedule = schedule;
 		this.scheduleDetail = scheduleDetail;
 	}
@@ -105,68 +105,67 @@ class Store {
 		const isOpen = await this.isOpen;
 		switch (type) {
 			case "detail":
-				return `
-			<div class="bg-tienda"></div>
-			<div class="imagen_tienda">
-				<img src="${this.image}" alt="${this.name}">
-			</div>
-			<div class="detalle_tienda">
-				<div class="info_detalle">
-					<h2>${this.name}</h2>
-					<span class="direc">${this.address}</span>
-					<p class="apertura ${isOpen.open ? "verde" : "rojo"}">${isOpen.message}</p>
-					<span class="tit_horario">
-						<i class="alk-icon-clock"></i>
-						Horarios
-					</span>
-					<div class="horarios_detalle">
-						${this.scheduleDetail.map(detail => `<p>${detail}</p>`).join("")}
+				return html`<div class="bg-tienda"></div>
+					<div class="imagen_tienda">
+						<img src="${this.image}" alt="${this.name}">
 					</div>
-					<div class="links_detalle">
-						${this.howToGet.length ? `<span><a href="${this.howToGet}" target="_blank" rel="noopener" title="Como llegar">
-							<i class="alk-icon-arrive"></i>
-							Como llegar
-						</a></span>` : ""}
-						${this.map.length ? `<span><a href="${this.map}" target="_blank" rel="noopener" title="Ver mapa">
-							<i class="alk-icon-mapa"></i>
-							Ver mapa
-						</a></span>` : ""}
-					</div>
-				</div>
-			</div>`;
+					<div class="detalle_tienda">
+						<div class="info_detalle">
+							<h2>${this.name}</h2>
+							<span class="direc">${this.address}</span>
+							<p class="apertura ${isOpen.open ? "verde" : "rojo"}">${isOpen.message}</p>
+							<span class="tit_horario">
+								<i class="alk-icon-clock"></i>
+								Horarios
+							</span>
+							<div class="horarios_detalle">
+								${this.scheduleDetail.map(detail => html`<p>${detail}</p>`)}
+							</div>
+							<div class="links_detalle">
+								${this.howToGet.length ? html`<span><a href="${this.howToGet}" target="_blank" rel="noopener" title="Como llegar">
+									<i class="alk-icon-arrive"></i>
+									Como llegar
+								</a></span>` : ""}
+								${this.map.length ? html`<span><a href="${this.map}" target="_blank" rel="noopener" title="Ver mapa">
+									<i class="alk-icon-mapa"></i>
+									Ver mapa
+								</a></span>` : ""}
+							</div>
+						</div>
+					</div>`;
 			default:
-				return `<div style="order: ${this.order}" class="store" data-city="${this.label}">
-				<h2 class="ciudad_mun">${this.city}</h2>
-				<div class="recuadroUno">
-					<h3 class="nombre">
-						<i class="alk-icon-nuestras-tiendas"></i>
-						${this.name}
-					</h3>
-					<div class="ir">
-						<a href="${this.link.length ? `${this.link}` : "#"}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="${this.name} - ${this.city}">
-							<i class="alk-icon-arrow-right-square"></i>
-						</a>
+				return html`<div class="store" data-city="${this.label}">
+					<h2 class="ciudad_mun">${this.city}</h2>
+					<div class="recuadroUno">
+						<h3 class="nombre">
+							<i class="alk-icon-nuestras-tiendas"></i>
+							${this.name}
+						</h3>
+						<div class="ir">
+							<a href="${this.link.length ? html`${this.link}` : "#"}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="${this.name} - ${this.city}">
+								<i class="alk-icon-arrow-right-square"></i>
+							</a>
+						</div>
 					</div>
-				</div>
-				<p class="direccionTienda">${this.address}</p>
-				<p class="apertura ${isOpen.open ? "verde" : "rojo"}">${isOpen.message}</p>
-				<div class="indicaciones">
-					${this.link.length ? `<div class="ver_horario">
-							<i class="alk-icon-mapa"></i>
-							<a href="${this.link}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="Ver mapa y horarios">Ver mapa y horarios</a>
-						</div>` : ""}
-					${this.link.length ? `<!--<div class="comoLlegar">
-							<i class="alk-icon-mapa"></i>
-							<a href="${this.howToGet}" target="_blank" rel="noopener" title="Cómo llegar">Cómo llegar</a>
-						</div>-->` : ""}
-				</div>
-				<a class="click" href="${this.link.length ? `${this.link}` : "#"}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="${this.name} - ${this.city}"></a>
-			</div>`;
+					<p class="direccionTienda">${this.address}</p>
+					<p class="apertura ${isOpen.open ? "verde" : "rojo"}">${isOpen.message}</p>
+					<div class="indicaciones">
+						${this.link.length ? html`<div class="ver_horario">
+								<i class="alk-icon-mapa"></i>
+								<a href="${this.link}" target="${this.external ? html`_blank` : html`_self`}" rel="noopener" title="Ver mapa y horarios">Ver mapa y horarios</a>
+							</div>` : ""}
+						${this.link.length ? html`<div class="comoLlegar">
+								<i class="alk-icon-mapa"></i>
+								<a href="${this.howToGet}" target="_blank" rel="noopener" title="Cómo llegar">Cómo llegar</a>
+							</div>` : ""}
+					</div>
+					<a class="click" href="${this.link.length ? html`${this.link}` : "#"}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="${this.name} - ${this.city}"></a>
+				</div>`;
 		}
 	}
 
 	async _isOpen() {
-		return (await import("./isopen.js")).isOpen(this.schedule);
+		return await import("./isopen.js").then(Module => Module.isOpen(this.schedule));
 	}
 }
 
