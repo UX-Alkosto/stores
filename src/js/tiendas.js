@@ -1,6 +1,21 @@
-"use strict";
-import { Stores, Store, log } from "./stores/index.js";
+import { html, render } from "lit/html.js";
+import { Stores, Store, log } from "./stores";
 (async (document, $, storesJsonFile) => {
+
+	function cityButton(label = "", city = "") {
+		return html`<li role="presentation">
+			<a href="#${label}" aria-controls="${label}" role="tab" data-toggle="tab">${city}</a>
+		</li>`;
+	}
+
+	async function addNiceSelect() {
+		const s = document.createElement("script");
+		s.type = "text/javascript";
+		s.src = "https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/common/js/jquery.nice-select.js";
+		s.crossorigin = "anonymus";
+		document.getElementsByTagName("head")[0].appendChild(s);
+	}
+
 	try {
 		const Tiendas = new Stores(storesJsonFile),
 			desktopMenu = document.querySelector(".cities-menu"),
@@ -8,15 +23,16 @@ import { Stores, Store, log } from "./stores/index.js";
 			storesContainer = document.querySelector("#stores"),
 			isMobile = (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent));
 
-		if (isMobile) await addNiceSelect();
-		await Tiendas.stores.then(({ ciudades }) => {
-			storesContainer.innerHTML = "";
+		if (isMobile) addNiceSelect();
 
-			let index = 0;
+		await Tiendas.stores.then(async({ ciudades }) => {
+			storesContainer.innerHTML = "";
+			const citiesItems = [];
+			const buttonsItems = [];
+
 			Object.entries(ciudades).map(([label, city] = ciudades) => {
-				const button = document.createRange().createContextualFragment(cityButton(label, city.label));
+				buttonsItems.push(cityButton(label, city.label));
 				const option = new Option(city.label, label);
-				desktopMenu.append(button);
 				mobileMenu.append(option);
 
 				Object.values(city.tiendas).map(async store => {
@@ -24,17 +40,18 @@ import { Stores, Store, log } from "./stores/index.js";
 						address: store.direccion,
 						city: city.label,
 						howToGet: store.como_llegar,
-						order: index,
 						label: label,
 						link: store.ir,
 						external: store.externo,
 						name: store.nombre_tienda,
 						schedule: store.horario_apertura
 					});
-					index++;
-					storesContainer.append(document.createRange().createContextualFragment(await Tienda.render()));
+					citiesItems.push(Tienda.render());
 				});
 			});
+
+			render(buttonsItems, desktopMenu);
+			Promise.all(citiesItems).then(item => render(item, storesContainer));
 
 			desktopMenu.querySelectorAll("li > a").forEach(menu => {
 				menu.addEventListener("click", e => {
@@ -71,18 +88,5 @@ import { Stores, Store, log } from "./stores/index.js";
 		log(error, "error");
 	}
 
-	function cityButton(label = "", city = "") {
-		return `<li role="presentation">
-					<a href="#${label}" aria-controls="${label}" role="tab" data-toggle="tab">${city}</a>
-				</li>`;
-	}
-
-	async function addNiceSelect() {
-		const s = document.createElement("script");
-		s.type = "text/javascript";
-		s.src = "https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/common/js/jquery.nice-select.js";
-		s.crossorigin = "anonymus";
-		document.getElementsByTagName("head")[0].appendChild(s);
-	}
 	// eslint-disable-next-line no-undef
 })(document, window.jQuery, storesJsonFile);

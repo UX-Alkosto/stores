@@ -1,4 +1,5 @@
-import { Stores, Store, log } from "./stores/index.js";
+import { render } from "lit/html.js";
+import { Stores, Store, log } from "./stores";
 (async (document, storesJsonFile) => {
 	try {
 		const Tiendas = new Stores(storesJsonFile),
@@ -10,28 +11,27 @@ import { Stores, Store, log } from "./stores/index.js";
 
 		await Tiendas.stores.then(({ ciudades }) => {
 			storesContainer.innerHTML = "";
-			let index = 0;
 			const city = ciudades[params.city], label = ciudades[params.city][0];
+			const citiesItems = [];
 
 			if (Object.keys(ciudades[params.city].tiendas).length) {
 				if (cityLabel.length) {
 					cityLabel.forEach(label => label.innerHTML = city.label);
 				}
-				Object.values(city.tiendas).map(async store => {
+				Object.values(city.tiendas).map(store => {
 					const Tienda = new Store({
 						address: store.direccion,
 						city: city.label,
 						howToGet: store.como_llegar,
-						order: index,
 						label: label,
 						link: store.ir,
 						external: store.externo,
 						name: store.nombre_tienda,
 						schedule: store.horario_apertura
 					});
-					index++;
-					storesContainer.append(document.createRange().createContextualFragment(await Tienda.render()));
+					citiesItems.push(Tienda.render());
 				});
+				Promise.all(citiesItems).then(item => render(item, storesContainer));
 			}
 		});
 	} catch (error) {
