@@ -50,7 +50,7 @@ module.exports = function (grunt) {
                     cwd: "src/json",
                     src: ["<%= theme %>.json"],
                     dest: "dist/<%= theme %>/json",
-                    rename: function (dest, src) {
+                    rename: function (dest) {
                         return dest + "/tiendas.json";
                     }
                 }]
