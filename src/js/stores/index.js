@@ -1,4 +1,5 @@
 import { html } from "lit/html.js";
+import { unsafeHTML } from "lit/directives/unsafe-html.js";
 
 function log(message, type = "") {
 	let color = "";
@@ -119,7 +120,7 @@ class Store {
 								Horarios
 							</span>
 							<div class="horarios_detalle">
-								${this.scheduleDetail.map(detail => html`<p>${detail}</p>`)}
+								${this.scheduleDetail.map(detail => html`<p>${unsafeHTML(detail)}</p>`)}
 							</div>
 							<div class="links_detalle">
 								${this.howToGet.length ? html`<span><a href="${this.howToGet}" target="_blank" rel="noopener" title="Como llegar">
@@ -142,7 +143,7 @@ class Store {
 							${this.name}
 						</h3>
 						<div class="ir">
-							<a href="${this.link.length ? html`${this.link}` : "#"}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="${this.name} - ${this.city}">
+							<a href="${this.link.length ? `${this.link}` : "#"}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="${this.name} - ${this.city}">
 								<i class="alk-icon-arrow-right-square"></i>
 							</a>
 						</div>
@@ -152,14 +153,14 @@ class Store {
 					<div class="indicaciones">
 						${this.link.length ? html`<div class="ver_horario">
 								<i class="alk-icon-mapa"></i>
-								<a href="${this.link}" target="${this.external ? html`_blank` : html`_self`}" rel="noopener" title="Ver mapa y horarios">Ver mapa y horarios</a>
+								<a href="${this.link}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="Ver mapa y horarios">Ver mapa y horarios</a>
 							</div>` : ""}
 						${this.link.length ? html`<div class="comoLlegar">
 								<i class="alk-icon-mapa"></i>
 								<a href="${this.howToGet}" target="_blank" rel="noopener" title="Cómo llegar">Cómo llegar</a>
 							</div>` : ""}
 					</div>
-					<a class="click" href="${this.link.length ? html`${this.link}` : "#"}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="${this.name} - ${this.city}"></a>
+					<a class="click" href="${this.link.length ? `${this.link}` : "#"}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="${this.name} - ${this.city}"></a>
 				</div>`;
 		}
 	}
