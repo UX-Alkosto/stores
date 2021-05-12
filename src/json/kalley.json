@@ -91,7 +91,7 @@
                     "como_llegar": "https://www.google.com/maps/dir//Centro+Comercial+Unicentro,+Av.+Bol%C3%ADvar+%23%23602,+Armenia,+Quind%C3%ADo/@4.5402384,-75.667883,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e38f455608f741d:0x61a5ad3896c0e90a!2m2!1d-75.6656943!2d4.5402384",
                     "ver_mapa": "https://www.google.com/maps/place/Centro+Comercial+Unicentro/@4.5402384,-75.667883,17z/data=!3m1!4b1!4m5!3m4!1s0x8e38f455608f741d:0x61a5ad3896c0e90a!8m2!3d4.5402384!4d-75.6656943",
                     "externo": true,
-                    "ir": "https://www.alkomprar.com/nuestras-tiendas/armenia"
+                    "ir": "https://www.alkomprar.com/nuestras-tiendas/armenia/unicentro"
                 }
             }
         },
@@ -906,7 +906,7 @@
                     "como_llegar": "https://www.google.com/maps/dir//Alkosto+Barranquilla,+Cl.+98+%23%23+51B-91,+Barranquilla,+Atl%C3%A1ntico/@11.0114787,-74.8305716,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8ef42c52bac66947:0xedf62f4d2d9309db!2m2!1d-74.8283829!2d11.0114787?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Alkosto+Barranquilla/@11.0114787,-74.8305716,17z/data=!3m1!4b1!4m5!3m4!1s0x8ef42c52bac66947:0xedf62f4d2d9309db!8m2!3d11.0114787!4d-74.8283829?hl=es",
                     "externo": true,
-                    "ir": "https://www.alkosto.com/tiendas/index/ver/id/Alkosto+Barranquilla-55"
+                    "ir": "https://www.alkosto.com/nuestra-compania/tiendas/barranquilla/buenavista/c/buenavista"
                 },
                 "alkomprar-barranquilla": {
                     "nombre_tienda": "Barranquilla C.C Único",
@@ -1100,7 +1100,7 @@
                     "como_llegar": "https://www.google.com/maps/dir//Alkosto+Floridablanca,+km+2,5+v%C3%ADa+Floridablanca+-+Gir%C3%B3n,+Anillo+Vial,+Floridablanca,+Santander/@7.0615233,-73.1197019,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e683f142ae82f11:0x67d229ba1a2c364f!2m2!1d-73.1175132!2d7.0615233?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Alkosto+Floridablanca/@7.0615233,-73.1197019,17z/data=!3m1!4b1!4m5!3m4!1s0x8e683f142ae82f11:0x67d229ba1a2c364f!8m2!3d7.0615233!4d-73.1175132?hl=es",
                     "externo": true,
-                    "ir": "https://www.alkosto.com/tiendas/index/ver/id/Alkosto+FloridaBlanca-87"
+                    "ir": "https://www.alkosto.com/nuestra-compania/tiendas/bucaramanga/floridablanca/c/floridablanca"
                 },
                 "bucaramanga-ktronix": {
                     "nombre_tienda": "Ktronix Bucaramanga",
@@ -1283,7 +1283,7 @@
                     "como_llegar": "https://www.google.com/maps/dir//Alkosto+Cali,+Cl.+13+%23%23+80+-+187,+Cali,+Valle+del+Cauca/@3.3852359,-76.5400162,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e30a15d45c9ba7f:0xc0fed97fb1f3aa24!2m2!1d-76.5378275!2d3.3852359?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Alkosto+Cali/@3.3852359,-76.5400162,17z/data=!3m1!4b1!4m5!3m4!1s0x8e30a15d45c9ba7f:0xc0fed97fb1f3aa24!8m2!3d3.3852359!4d-76.5378275?hl=es",
                     "externo": true,
-                    "ir": "https://www.alkosto.com/tiendas/index/ver/id/Alkosto+Cali-11"
+                    "ir": "https://www.alkosto.com/nuestra-compania/tiendas/cali/calle-13/c/calle-13"
                 },
                 "chipichape": {
                     "nombre_tienda": "Ktronix Chipichape",
@@ -1422,7 +1422,7 @@
                     "como_llegar": "https://www.google.com/maps/dir//Alkomprar,+Cartago,+Valle+del+Cauca/@4.7568771,-75.9372972,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e387150b27fde5d:0xc227d7efd32a180f!2m2!1d-75.9351085!2d4.7568771?hl=es-419",
                     "ver_mapa": "https://www.google.com/maps/place/Alkomprar/@4.7568771,-75.9372972,17z/data=!3m1!4b1!4m5!3m4!1s0x8e387150b27fde5d:0xc227d7efd32a180f!8m2!3d4.7568771!4d-75.9351085?hl=es-419",
                     "externo": true,
-                    "ir": "https://www.alkomprar.com/nuestras-tiendas/cartago"
+                    "ir": "https://www.alkomprar.com/nuestras-tiendas/cartago/nuestro"
                 }
             }
         },
@@ -2129,7 +2129,7 @@
                     "como_llegar": "https://www.google.com/maps/dir//Cra.+5+%238-26,+Ipiales,+Nari%C3%B1o/@0.8241867,-77.6368576,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e296beb8a18ebbf:0xc2f0d56b952894cc!2m2!1d-77.6346689!2d0.8241867?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Cra.+5+%238-26,+Ipiales,+Nari%C3%B1o/@0.8241867,-77.6368576,17z/data=!3m1!4b1!4m5!3m4!1s0x8e296beb8a18ebbf:0xc2f0d56b952894cc!8m2!3d0.8241867!4d-77.6346689?hl=es",
                     "externo": true,
-                    "ir": "https://www.alkosto.com/tiendas/index/ver/id/Alkosto+Ipiales-7"
+                    "ir": "https://www.alkosto.com/nuestra-compania/tiendas/ipiales/carrera-5/c/carrera-5"
                 },
                 "alkosto-tuquerres": {
                     "nombre_tienda": "Alkosto Túquerres",
@@ -2272,7 +2272,7 @@
                     "como_llegar": "https://www.google.com/maps/dir//Alkosto+Bol%C3%ADvar,+Calle+22+%23%23+6-28,+Pasto,+Nari%C3%B1o/@1.2066406,-77.2693324,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e2ed493992cc447:0xa2e8e160f8b34c01!2m2!1d-77.2671437!2d1.2066406?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Alkosto+Bol%C3%ADvar/@1.2066406,-77.2693324,17z/data=!3m1!4b1!4m5!3m4!1s0x8e2ed493992cc447:0xa2e8e160f8b34c01!8m2!3d1.2066406!4d-77.2671437?hl=es",
                     "externo": true,
-                    "ir": "https://www.alkosto.com/tiendas/index/ver/id/Alkosto+Bol%C3%ADvar-5"
+                    "ir": "https://www.alkosto.com/nuestra-compania/tiendas/pasto/bolivar/c/bolivar"
                 },
                 "pasto-centro": {
                     "nombre_tienda": "Alkosto Centro",
@@ -2365,7 +2365,7 @@
                     "como_llegar": "https://www.google.com/maps/dir//Alkosto+Pereira,+Av.+de+las+Am%C3%A9ricas+%23%23+46-03,+Pereira,+Risaralda/@4.8074506,-75.7201026,17z/data=!4m16!1m6!3m5!1s0x8e387df43f553e8d:0x5b76f1f10bf8d3e5!2sAlkosto+Pereira!8m2!3d4.8074506!4d-75.7179139!4m8!1m0!1m5!1m1!1s0x8e387df43f553e8d:0x5b76f1f10bf8d3e5!2m2!1d-75.7179139!2d4.8074506!3e3?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Alkosto+Pereira/@4.8074506,-75.7201026,17z/data=!3m1!4b1!4m5!3m4!1s0x8e387df43f553e8d:0x5b76f1f10bf8d3e5!8m2!3d4.8074506!4d-75.7179139?hl=es",
                     "externo": true,
-                    "ir": "https://www.alkosto.com/tiendas/index/ver/id/Alkosto+Pereira-12"
+                    "ir": "https://www.alkosto.com/nuestra-compania/tiendas/pereira/avenida-americas/c/avenida-americas"
                 }
             }
         },
@@ -2564,7 +2564,7 @@
                     "como_llegar": "https://www.google.com/maps/dir//Alkosto+Sincelejo,+Calle+28+%23No.+25B+-+27+Loc+101,+Sincelejo,+Sucre/@9.3023018,-75.38503,17z/data=!4m16!1m6!3m5!1s0x8e5915b404642b57:0x700fc994bf446489!2sAlkosto+Sincelejo!8m2!3d9.3023018!4d-75.3828413!4m8!1m0!1m5!1m1!1s0x8e5915b404642b57:0x700fc994bf446489!2m2!1d-75.3828413!2d9.3023018!3e3?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Alkosto+Sincelejo/@9.3023018,-75.38503,17z/data=!3m1!4b1!4m5!3m4!1s0x8e5915b404642b57:0x700fc994bf446489!8m2!3d9.3023018!4d-75.3828413?hl=es",
                     "externo": true,
-                    "ir": "https://www.alkosto.com/tiendas/index/ver/id/Alkosto+Sincelejo-84"
+                    "ir": "https://www.alkosto.com/nuestra-compania/tiendas/sincelejo/centro-comercial-guacari/c/centro-comercial-guacari"
                 }
             }
         },
