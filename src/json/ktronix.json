@@ -9,37 +9,36 @@
 					"horario_apertura": [
 						[
 							"10:00",
-							"18:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"19:30"
+							"19:00"
 						],
 						[
 							"10:00",
-							"19:30"
+							"19:00"
 						],
 						[
 							"10:00",
-							"19:30"
+							"19:00"
 						],
 						[
 							"10:00",
-							"19:30"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						]
 					],
 					"horarios": [
-						"<strong>Lun a Jue</strong> <br> 10:00 a.m a 7:30 p.m",
-						"<strong>Vie a Sab</strong> <br> 10:00 a.m a 8:00 p.m",
-						"<strong>Dom y Fes</strong> <br> 10:00 a.m a 6:00 p.m"
+						"<strong>Lun a Vie</strong> <br> 10:00 a.m a 7:00 p.m",
+						"<strong>Dom y Fes</strong> <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Jue de 10:00 a.m a 7:30 p.m <br> Vie a Sab de 10:00 a.m a 8:00 p.m Dom y Fes 10:00 a.m a 6:00 p.m",
 					"imagen": "/medias/img-tienda-20julio.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMDkxNDJ8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDkxL2g3My85NDA1NjcyMTYxMzEwLmpwZ3w0NDdkYjBmYWI0NzRjYWU4OGY5YWNjNzg4MzE5YjcxMzE1NTZkY2U0MWNhNDkyNWNjM2E1YWVkMGVlN2JjODhm",
@@ -53,36 +52,36 @@
 					"horario_apertura": [
 						[
 							"10:00",
-							"18:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:30"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						]
 					],
 					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-						"Dom y Fes <br> 10:00 a.m a 6:00 p.m"
+						"Lun a Sab <br> 10:00 a.m a 7:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
 					"imagen": "/medias/img-tienda-94.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw3Mzg2M3xpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oZGEvaDBkLzk0MDU2NzI3NTExMzQuanBnfDk0ZjFhMTI5ZTdlNjMxNzM2MzZiOTlhYjA0NGU4MjMxZmMxNmNmYzczYzk5MDk1YjMwMDM2MWYzOWFmNWZkYjk",
@@ -96,36 +95,36 @@
 					"horario_apertura": [
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						]
 					],
 					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+						"Lun a Sab <br> 10:00 a.m a 7:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
 					"imagen": "/medias/img-tienda-americas.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMTIyOTd8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaGIzL2gwOC85NDA1NjcyOTQ3NzQyLmpwZ3xjMjgxYTBjNGJhMTkyMTcwYzcxMTg2NjI1YzE0NWNkZDE5ZDAzZDE0Zjg5NmYwMzk3MGVhMzNlMTJiODIzYjc4",
@@ -139,36 +138,36 @@
 					"horario_apertura": [
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						]
 					],
 					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+						"Lun a Sab <br> 10:00 a.m a 7:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
 					"imagen": "/medias/img-tienda-centromayor.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw3ODAzNnxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oZWUvaDVhLzk0MDU2NzMyNzU0MjIuanBnfGJkOTU5NDEzNGE0NjZlMzRiNGU1MDkxMGMyNDdlNDZkMTk0NDlmZmEzNWIwOTVjMmE2MmQ0MmRjYmIwYTAzYTA",
@@ -273,31 +272,31 @@
 						],
 						[
 							"10:00",
-							"20:00"
+							"19.00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19.00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19.00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19.00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19.00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19.00"
 						]
 					],
 					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+						"Lun a Sab <br> 10:00 a.m a 7:00 p.m",
 						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
@@ -359,31 +358,31 @@
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						]
 					],
 					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+						"Lun a Sab <br> 10:00 a.m a 7:00 p.m",
 						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
@@ -398,37 +397,36 @@
 					"horario_apertura": [
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:30"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:30"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:30"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:30"
+							"19:00"
 						],
 						[
 							"10:00",
-							"21:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"21:00"
+							"19:00"
 						]
 					],
 					"horarios": [
-						"Lun a Jue <br> 10:00 a.m a 8:30 p.m",
-						"Vie a Sab <br> 10:00 a.m a 9:00 p.m",
-						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+						"Lun a Vie <br> 10:00 a.m a 7:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Jue de 10:00 a.m a 8:30 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
 					"imagen": "/medias/img-tienda-titan.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMDU4NDB8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDMwL2hhYS85NDA1Njc1NTY5MTgyLmpwZ3xmNzE2YTJlODEwYjliZDQ4YzA2MDBiNTcxMzYzMzliMjZiMTRkY2MwZDRjN2IxMDM0Mzc5OGQwNTZjYjIzYTU0",
@@ -442,35 +440,35 @@
 					"horario_apertura": [
 						[
 							"10:00",
-							"19.00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						],
 						[
 							"10:00",
-							"20:00"
+							"19:00"
 						]
 					],
 					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+						"Lun a Sab <br> 10:00 a.m a 7:00 p.m",
 						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
 					],
 					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
