@@ -1,25 +1,13 @@
 
 "use strict";
-module.exports = function (grunt) {
+module.exports = grunt => {
 
     var themes = ["alkomprar", "alkosto", "kalley", "ktronix"];
 
     grunt.initConfig({
         pkg: grunt.file.readJSON("package.json"),
         clean: {
-            dist: ["dist/**/css/*", "dist/**/fonts/*"]
-        },
-        copy: {
-            fonts: {
-                files: [
-                    {
-                        expand: true,
-                        cwd: "src/fonts/",
-                        src: "**",
-                        dest: "dist/common/fonts"
-                    }
-                ]
-            }
+            dist: ["dist/**/css/*", "dist/**/json/*"]
         },
         cssmin : {
             options : {
@@ -50,7 +38,7 @@ module.exports = function (grunt) {
                     cwd: "src/json",
                     src: ["<%= theme %>.json"],
                     dest: "dist/<%= theme %>/json",
-                    rename: function (dest) {
+                    rename: dest => {
                         return dest + "/tiendas.json";
                     }
                 }]
@@ -78,7 +66,6 @@ module.exports = function (grunt) {
     });
 
     grunt.loadNpmTasks("grunt-contrib-clean");
-    grunt.loadNpmTasks("grunt-contrib-copy");
     grunt.loadNpmTasks("grunt-contrib-cssmin");
     grunt.loadNpmTasks("grunt-contrib-less");
     grunt.loadNpmTasks("grunt-json-minification");
@@ -91,5 +78,5 @@ module.exports = function (grunt) {
         grunt.task.run("json_minification");
         done();
     });
-    grunt.registerTask("default", ["clean", "copy", "themes", "cssmin"]);
+    grunt.registerTask("default", ["clean", "themes", "cssmin"]);
 };
