@@ -155,37 +155,36 @@
                     "horario_apertura": [
                         [
                             "10:00",
-                            "18:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "19:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "19:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "19:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "19:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "<strong>Lun a Jue</strong> <br> 10:00 a.m a 7:30 p.m",
-                        "<strong>Vie a Sab</strong> <br> 10:00 a.m a 8:00 p.m",
-                        "<strong>Dom y Fes</strong> <br> 10:00 a.m a 6:00 p.m"
+                        "<strong>Lun a Vie</strong> <br> 10:00 a.m a 7:00 p.m",
+                        "<strong>Sab a Dom</strong> <br> 10:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Jue de 10:00 a.m a 7:30 p.m <br> Vie a Sab de 10:00 a.m a 8:00 p.m Dom y Fes 10:00 a.m a 6:00 p.m",
                     "imagen": "/medias/img-tienda-20julio.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMDkxNDJ8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDkxL2g3My85NDA1NjcyMTYxMzEwLmpwZ3w0NDdkYjBmYWI0NzRjYWU4OGY5YWNjNzg4MzE5YjcxMzE1NTZkY2U0MWNhNDkyNWNjM2E1YWVkMGVlN2JjODhm",
@@ -200,36 +199,36 @@
                     "horario_apertura": [
                         [
                             "10:00",
-                            "18:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 6:00 p.m"
+                        "Lun a Sab <br> 10:00 a.m a 7:00 p.m",
+                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
                     "imagen": "/medias/img-tienda-94.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw3Mzg2M3xpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oZGEvaDBkLzk0MDU2NzI3NTExMzQuanBnfDk0ZjFhMTI5ZTdlNjMxNzM2MzZiOTlhYjA0NGU4MjMxZmMxNmNmYzczYzk5MDk1YjMwMDM2MWYzOWFmNWZkYjk",
@@ -244,36 +243,36 @@
                     "horario_apertura": [
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 10:00 a.m a 7:00 p.m",
+                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/img-tienda-americas.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMTIyOTd8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaGIzL2gwOC85NDA1NjcyOTQ3NzQyLmpwZ3xjMjgxYTBjNGJhMTkyMTcwYzcxMTg2NjI1YzE0NWNkZDE5ZDAzZDE0Zjg5NmYwMzk3MGVhMzNlMTJiODIzYjc4",
@@ -288,36 +287,36 @@
                     "horario_apertura": [
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 10:00 a.m a 7:00 p.m",
+                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/img-tienda-centromayor.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHw3ODAzNnxpbWFnZS9qcGVnfHRpZW5kYXNfa3Ryb25peC9oZWUvaDVhLzk0MDU2NzMyNzU0MjIuanBnfGJkOTU5NDEzNGE0NjZlMzRiNGU1MDkxMGMyNDdlNDZkMTk0NDlmZmEzNWIwOTVjMmE2MmQ0MmRjYmIwYTAzYTA",
@@ -425,31 +424,31 @@
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+                        "Lun a Sab <br> 10:00 a.m a 7:00 p.m",
                         "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
@@ -513,31 +512,31 @@
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+                        "Lun a Sab <br> 10:00 a.m a 7:00 p.m",
                         "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
@@ -553,37 +552,36 @@
                     "horario_apertura": [
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Jue <br> 10:00 a.m a 8:30 p.m",
-                        "Vie a Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 10:00 a.m a 7:00 p.m",
+                        "Dom a Fes <br> 10:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Jue de 10:00 a.m a 8:30 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/img-tienda-titan.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxMDU4NDB8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDMwL2hhYS85NDA1Njc1NTY5MTgyLmpwZ3xmNzE2YTJlODEwYjliZDQ4YzA2MDBiNTcxMzYzMzliMjZiMTRkY2MwZDRjN2IxMDM0Mzc5OGQwNTZjYjIzYTU0",
@@ -602,31 +600,31 @@
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+                        "Lun a Sab <br> 10:00 a.m a 7:00 p.m",
                         "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
@@ -686,37 +684,37 @@
                     "direccion": "Cr 69 No. 170 - 15",
                     "horario_apertura": [
                         [
-                            "10:00",
-                            "18:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:30"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 6:00 p.m"
+                        "Lun a Sab <br> 7:00 a.m a 7:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
                     "imagen": "/medias/tienda-calle-170-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxODI3MDR8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDk5L2g4NS8xMDMyMzI4NzY3MDgxNC5qcGd8ZWJiOWI2NjAyZmQ0YTFjMWJmMDQ0OGMyNTQ1NGEwMTRiYThlMWIzNjhiNDI2MTE4YmZhOWQ2MWZhZDc4NmRkZg",
@@ -774,37 +772,37 @@
                     "direccion": "Av Boyacá No. 15 - 98, Lc 1 -102 y 2 – 116",
                     "horario_apertura": [
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 7:00 a.m a 7:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/tienda-el-eden-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNjMwMTd8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDVhL2hiZi8xMDMyMzI4NzA4MDk5MC5qcGd8YzNhZDM4ZjY4NjNkNzk2NGJiNWIwYzI5ZjdmNTE3YzZiOTY2ZTc2NGMxMTA1OWMwNmFiODFjYzIyZTA1MWVjNA",
@@ -868,38 +866,37 @@
                     "direccion": "Calle 98 No. 51B - 91, Sector Buenavista",
                     "horario_apertura": [
                         [
-                            "11:00",
-                            "20:00"
+                            "8:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "8:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "8:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "8:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "8:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "21:00"
+                            "8:00",
+                            "19:00"
                         ],
                         [
-                            "10:00",
-                            "21:00"
+                            "8:00",
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Jue <br> 10:00 a.m a 8:00 p.m",
-                        "Vie a Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom y Fes <br> 11:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 8:00 a.m a 7:00 p.m",
+                        "Dom y Fes <br> 8:00 a.m a 7:00 p.m"
                     ],
                     "horario": "Lun a Jue de 10:00 a.m a 8:00 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
                     "imagen": "/medias/tienda-buenavista-barranquilla?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNzI0MTV8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGQ3L2g2My8xMDMyMzI4ODE5NTEwMi5qcGd8YTQ0MGJkNzU5ZWFlMTNiZmU0YzA0MTc2ZTE4ZjVhZjY2NWY3NDYwOWY0YzBiNGIzN2I5ZDk2MDJhZWE4YzIwZQ",
@@ -1063,37 +1060,37 @@
                     "direccion": "Anillo vial km 2.5 Girón, Bucaramanga",
                     "horario_apertura": [
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 7:00 a.m a 8:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 8:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/tienda-floridablanca-bucaramanga?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxODkyNzR8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGNhL2g2NC8xMDMyMzI4Njg4NDM4Mi5qcGd8OWE2ZjI2Y2MzZDRiMTQwZThlMDgzMTY4OTk1NTQyZDczZGEyNDZiYmQ3MGVlMDI2ZGE5N2Q4MWM4OTg2MDE3Mg",
@@ -1247,36 +1244,36 @@
                     "direccion": "Cl 13 No. 80 - 187",
                     "horario_apertura": [
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "17:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "17:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "17:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "17:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "17:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "17:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "17:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Dom <br> 10:00 a.m a 8:00 p.m"
+                        "Lun a Dom <br> 7:00 a.m a 5:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/tienda-cali-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNjMzNzJ8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDc5L2hjNy8xMDMyMzI4Nzg2NzQyMi5qcGd8NDg5MTQxMzY0YzBjMGIzN2E0ZWY2MDNiMTFhNWNjMjkxOTI2ZDE1NTdmY2IwODFkNjY0ZWJkYTRiM2UyZmE4Yg",
@@ -2328,37 +2325,37 @@
                     "direccion": "Av Las Americas No. 46 - 03",
                     "horario_apertura": [
                         [
-                            "11:00",
-                            "20:00"
+                            "7:00",
+                            "18:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "18:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "18:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "18:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "18:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "18:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "7:00",
+                            "18:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom <br> 11:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 7:00 a.m a 6:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 6:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom 11:00 a.m a 8:00 p.m",
                     "imagen": "/medias/tienda-pereira-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNzUxNTd8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDQwL2gxYS8xMDMyMzI4NTczNzUwMi5qcGd8MjVkOTM4NzliYjg2MGM2N2U4NDk5ZjY0NGM1MDYyZTUwNjI5NmY3MmI1MDQ5MjlhNmQ0NjM0MjBiMTNkYmUwMg",
@@ -2527,37 +2524,37 @@
                     "direccion": "Cl 28 No. 25B - 27, C.C. Guacari, Lc 101",
                     "horario_apertura": [
                         [
-                            "11:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom <br> 11:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 8:00 a.m a 8:00 p.m",
+                        "Dom y Fes <br> 8:00 a.m a 8:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom 11:00 a.m a 8:00 p.m",
                     "imagen": "/medias/tienda-guacari-sincelejo-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNDkxMTJ8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDIxL2hiZC8xMDMyMzI4NjYyMjIzOC5qcGd8ODA4ZjM4MWQ4ZjkwMWUyZTg5Mzc0MGVlZDlkMzY3MDlmNmJjMGM0NDY0YTc4MmQwNjQ3NGNlNjU1ZDhmMTZkNg",
@@ -2675,37 +2672,37 @@
                     "direccion": "Cl 31 No. 31 - 95",
                     "horario_apertura": [
                         [
-                            "11:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "7:00",
                             "20:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom <br> 11:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 7:00 a.m a 8:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 8:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom 11:00 a.m a 8:00 p.m",
                     "imagen": "/medias/tienda-villavicencio-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNjM5MTl8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDA5L2g2MS8xMDMyMzI4NDk4MzgzOC5qcGd8MDE1ZjFlYmJkYzIzNTlkYjM2MmZjMGFjMTQyMzk2NTExOTFlYzI5NTg3OGZlYWI5NWY3ZjczZGMxOGUwZGIwNw",
@@ -2768,37 +2765,37 @@
                     "direccion": "Cl 24 No. 28 - 72,  C.C. Mochiral Plaza. Ancla No. 2",
                     "horario_apertura": [
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "8:00",
                             "20:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 8:00 a.m a 8:00 p.m",
+                        "Dom y Fes <br> 8:00 a.m a 8:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/tienda-morichal-yopal-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNzQ5OTh8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGMzL2g1ZS8xMDMyMzI4NjA5Nzk1MC5qcGd8YzFlMzNiOGFmMmZkNjk5YzlhNWFhMzc3YzhjYjIzZDA3OWU1NTc4ZWViMzEzODY5N2E1OGU0MTk5ZjRmM2VhNw",
