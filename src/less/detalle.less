@@ -67,21 +67,18 @@
 .horarios_detalle {
 	display: @show-info;
 	p {
-		width: 33.3%;
-		font-size: 14px;
+		box-sizing: border-box;
 		color: var(--stores-gray-5);
+		font-size: 14px;
 		line-height: 26px;
-		&:first-child {
+		width: 33.3%;
+		&:not(:last-child) {
 			border-right: solid thin grey;
 		}
 
 		&:nth-child(2),
 		&:nth-child(3) {
 			padding-left: 20px;
-		}
-		&:nth-child(3) {
-			border-right: none;
-			border-left: solid thin grey;
 		}
 	}
 }
@@ -273,6 +270,10 @@
 
 	.horarios_detalle {
 		flex-wrap: wrap;
+		p {
+			font-size: 14px;
+			line-height: 24px;
+		}
 		p:first-child,
 		p:nth-child(2) {
 			width: 50%;
