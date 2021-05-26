@@ -129,7 +129,7 @@ class Store {
 								</a></span>` : ""}
 								${this.map.length ? html`<span><a href="${this.map}" target="_blank" rel="noopener" title="Ver mapa">
 									<i class="alk-icon-mapa"></i>
-									Ver mapa
+									Ver mapa y horarios
 								</a></span>` : ""}
 							</div>
 						</div>
