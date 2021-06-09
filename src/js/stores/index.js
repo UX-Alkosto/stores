@@ -128,7 +128,7 @@ class Store {
 									Como llegar
 								</a></span>` : ""}
 								${this.map.length ? html`<span><a href="${this.map}" target="_blank" rel="noopener" title="Ver mapa">
-									<i class="alk-icon-mapa"></i>
+									<i class="alk-icon-ver-mapa"></i>
 									Ver mapa y horarios
 								</a></span>` : ""}
 							</div>
@@ -152,11 +152,11 @@ class Store {
 					<p class="apertura ${isOpen.open ? "verde" : "rojo"}">${isOpen.message}</p>
 					<div class="indicaciones">
 						${this.link.length ? html`<div class="ver_horario">
-								<i class="alk-icon-mapa"></i>
+								<i class="alk-icon-ver-mapa"></i>
 								<a href="${this.link}" target="${this.external ? "_blank" : "_self"}" rel="noopener" title="Ver mapa y horarios">Ver mapa y horarios</a>
 							</div>` : ""}
 						${this.link.length ? html`<div class="comoLlegar">
-								<i class="alk-icon-mapa"></i>
+								<i class="alk-icon-ver-mapa"></i>
 								<a href="${this.howToGet}" target="_blank" rel="noopener" title="Cómo llegar">Cómo llegar</a>
 							</div>` : ""}
 					</div>
