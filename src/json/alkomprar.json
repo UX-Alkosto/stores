@@ -376,6 +376,48 @@
 					"como_llegar": "https://www.google.com/maps/dir//Alkomprar,+Cl.+53+%233,+Cali,+Valle+del+Cauca/@3.4650444,-76.50205,17z/data=!4m16!1m6!3m5!1s0x8e30a7caff2a7c97:0x8e016353539b1842!2sAlkomprar!8m2!3d3.465039!4d-76.4998613!4m8!1m0!1m5!1m1!1s0x8e30a7caff2a7c97:0x8e016353539b1842!2m2!1d-76.4998613!2d3.465039!3e3?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkomprar/@3.4650444,-76.50205,17z/data=!3m1!4b1!4m5!3m4!1s0x8e30a7caff2a7c97:0x8e016353539b1842!8m2!3d3.465039!4d-76.4998613?hl=es",
 					"ir": "/nuestras-tiendas/cali/unico"
+				},
+				"jardin-plaza": {
+					"nombre_tienda": "Alkomprar C.C. Jardín Plaza",
+					"direccion": "Cr 98 No. 16-200",
+					"horario_apertura": [
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"20:00"
+						]
+					],
+					"horarios": [
+						"Lun a Dom <br> 10:00 a.m a 8:00 p.m"
+					],
+					"horario": "Lun a Dom de 10:00 a.m a 8:00 p.m",
+					"imagen": "https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/alkomprar/img/cali-jardin-plaza.jpg",
+					"como_llegar": "https://www.google.com/maps/dir//Centro+Comercial+Jard%C3%ADn+Plaza,+Cra.+98+%2316-200,+Cali,+Valle+del+Cauca/@3.3694906,-76.5302324,16.77z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e30a17491d2a5f9:0xf06c44da2d3c8a74!2m2!1d-76.5275187!2d3.3692303!3e0?hl=es",
+					"ver_mapa": "https://www.google.com/maps/place/Centro+Comercial+Jard%C3%ADn+Plaza/@3.3694906,-76.5302324,16.77z/data=!4m12!1m6!3m5!1s0x8e30a1751be0be63:0x6d5c3b7c9d49f4c2!2sSamsung+Experience+Store!8m2!3d3.369677!4d-76.5274102!3m4!1s0x8e30a17491d2a5f9:0xf06c44da2d3c8a74!8m2!3d3.3692303!4d-76.5275187?hl=es",
+					"ir": "/nuestras-tiendas/cali/jardin-plaza"
 				}
 			}
 		},
