@@ -237,6 +237,50 @@
 					"como_llegar": "https://www.google.com/maps/dir//Alkomprar,+Local+2-2043,+Autopista+Nte.+%23%2334-67,+Bello,+Antioquia/@6.3401054,-75.5449174,17z/data=!4m16!1m6!3m5!1s0x8e442f9a57f14d2b:0x3c7e3895f63d3a48!2sAlkomprar!8m2!3d6.3401001!4d-75.5427287!4m8!1m0!1m5!1m1!1s0x8e442f9a57f14d2b:0x3c7e3895f63d3a48!2m2!1d-75.5427287!2d6.3401001!3e3?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkomprar/@6.3401054,-75.5449174,17z/data=!3m1!4b1!4m5!3m4!1s0x8e442f9a57f14d2b:0x3c7e3895f63d3a48!8m2!3d6.3401001!4d-75.5427287?hl=es",
 					"ir": "/nuestras-tiendas/bello/puerto-del-norte"
+				},
+				"parque-fabricato": {
+					"nombre_tienda": "Alkomprar C.C. Parque Fabricato",
+					"direccion": "Cl 40 No. 50-205, Lc 2050",
+					"horario_apertura": [
+						[
+							"10:00",
+							"19:00"
+						],
+						[
+							"9:00",
+							"20:00"
+						],
+						[
+							"9:00",
+							"20:00"
+						],
+						[
+							"9:00",
+							"20:00"
+						],
+						[
+							"9:00",
+							"20:00"
+						],
+						[
+							"9:00",
+							"20:00"
+						],
+						[
+							"9:00",
+							"21:00"
+						]
+					],
+					"horarios": [
+						"Lun a Vie <br> 9:00 a.m a 8:00 p.m",
+						"Sab <br> 9:00 a.m a 9:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 7:00 p.m"
+					],
+					"horario": "Lun a Vie de 9:00 a.m a 8:00 p.m <br> Sab de 9:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
+					"imagen": "https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/alkomprar/img/fabricato.jpg",
+					"como_llegar": "https://www.google.com/maps/dir//Parque+Fabricato+Centro+Comercial,+Bello,+Antioquia/@6.3269358,-75.5604068,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e442f0eb4156601:0xfb493b51e135cd6c!2m2!1d-75.5582181!2d6.3269358!3e0?hl=es",
+					"ver_mapa": "https://www.google.com/maps/place/Parque+Fabricato+Centro+Comercial/@6.3269358,-75.5604068,17z/data=!3m1!4b1!4m5!3m4!1s0x8e442f0eb4156601:0xfb493b51e135cd6c!8m2!3d6.3269358!4d-75.5582181?hl=es",
+					"ir": "/nuestras-tiendas/bello/parque-fabricato"
 				}
 			}
 		},
