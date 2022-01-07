@@ -367,7 +367,7 @@
 			"label": "Ipiales",
 			"tiendas": {
 				"carrera-5": {
-					"nombre_tienda": "Alkosto Ipiales",
+					"nombre_tienda": "Alkosto Ipiales Carrera 5",
 					"direccion": "Cr 5 No. 8 – 26",
 					"horario_apertura": [
 						[
@@ -408,6 +408,90 @@
 					"como_llegar": "https://www.google.com/maps/dir//Cra.+5+%238-26,+Ipiales,+Nari%C3%B1o/@0.8241867,-77.6368576,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e296beb8a18ebbf:0xc2f0d56b952894cc!2m2!1d-77.6346689!2d0.8241867?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Cra.+5+%238-26,+Ipiales,+Nari%C3%B1o/@0.8241867,-77.6368576,17z/data=!3m1!4b1!4m5!3m4!1s0x8e296beb8a18ebbf:0xc2f0d56b952894cc!8m2!3d0.8241867!4d-77.6346689?hl=es",
 					"ir": "/nuestra-compania/tiendas/ipiales/carrera-5/c/carrera-5"
+				},
+				"ipiales-gran-plaza": {
+					"nombre_tienda": "Alkosto Ipiales Gran Plaza",
+					"direccion": "Cl 25 No. 6B–23, C.C Gran Plaza",
+					"horario_apertura": [
+						[
+							"8:00",
+							"21:00"
+						],
+						[
+							"8:00",
+							"21:00"
+						],
+						[
+							"8:00",
+							"21:00"
+						],
+						[
+							"8:00",
+							"21:00"
+						],
+						[
+							"8:00",
+							"21:00"
+						],
+						[
+							"8:00",
+							"21:00"
+						],
+						[
+							"8:00",
+							"21:00"
+						]
+					],
+					"horarios": [
+						"Lun a Dom <br> 8:00 a.m a 9:00 p.m"
+					],
+					"horario": "Lun a Dom de 8:00 a.m a 9:00 p.m",
+					"imagen": "/medias/tienda-ipiales-gran-plaza.jpg?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxODEwNjF8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDZjL2hkMy8xMTUyMDMyNzA1NzQzOC5qcGd8MjgyNDNiNGU2N2ZlNTcxYjgzMGU0MzNkNzIzODI3YmM3OGIxYzZmNThmZDMxODk1NmNiY2ExZWFjNjFkMWVjYg",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Ipiales+Gran+Plaza,+Calle+25+%23+6B+-+23+C.C+Gran+Plaza,+Ipiales,+Nari%C3%B1o/@0.8301535,-77.6334019,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e296b7784cbd14b:0x92330dd1b9efc88!2m2!1d-77.6312132!2d0.8301535!3e0?authuser=1",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Ipiales+Gran+Plaza/@0.8301535,-77.6334019,17z/data=!3m1!4b1!4m5!3m4!1s0x8e296b7784cbd14b:0x92330dd1b9efc88!8m2!3d0.8300325!4d-77.650358?authuser=1",
+					"ir": "/nuestra-compania/tiendas/ipiales/ipiales-gran-plaza/c/ipiales-gran-plaza"
+				},
+				"ipiales-20-julio": {
+					"nombre_tienda": "Alkosto Ipiales 20 de Julio",
+					"direccion": "Cr 5A No. 8-36, Parque 20 de Julio",
+					"horario_apertura": [
+						[
+							"8:00",
+							"20:00"
+						],
+						[
+							"8:00",
+							"20:00"
+						],
+						[
+							"8:00",
+							"20:00"
+						],
+						[
+							"8:00",
+							"20:00"
+						],
+						[
+							"8:00",
+							"20:00"
+						],
+						[
+							"8:00",
+							"20:00"
+						],
+						[
+							"8:00",
+							"20:00"
+						]
+					],
+					"horarios": [
+						"Lun a Dom <br> 8:00 a.m a 8:00 p.m"
+					],
+					"horario": "Lun a Dom de 8:00 a.m a 8:00 p.m",
+					"imagen": "/medias/tienda-ipiales-20-julio.jpg?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wyMDU5MTF8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDViL2gzNC8xMTUyMDMyNzc0NTU2Ni5qcGd8MmZjNGMwZDdkY2QwMjA1OTUzZWY4N2VjMDI2YTA0MTA1NWYwZTk5YmQ2MTIzYTYyYWQyOTZjMzk5NGU4MmE4Ng",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto+20+de+Julio+Ipiales,+Cl.+3+%238+%E2%80%93+36,+Ipiales,+Nari%C3%B1o/@0.824158,-77.6368657,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e296b4f761a03bd:0xbfbc573597792f6a!2m2!1d-77.634677!2d0.824158!3e0?authuser=1",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto+20+de+Julio+Ipiales/@0.824158,-77.6368657,17z/data=!3m1!4b1!4m5!3m4!1s0x8e296b4f761a03bd:0xbfbc573597792f6a!8m2!3d0.8241587!4d-77.6346779?authuser=1",
+					"ir": "/nuestra-compania/tiendas/ipiales/ipiales-20-julio/c/ipiales-20-julio"
 				}
 			}
 		},
@@ -416,88 +500,86 @@
 			"tiendas": {
 				"bolivar": {
 					"nombre_tienda": "Alkosto Bolívar",
-					"direccion": "Cl 22 No. 6 - 28",
+					"direccion": "Cl 22 No. 6 - 28, Avenida Bolívar",
 					"horario_apertura": [
 						[
-							"11:00",
-							"20:00"
-						],
-						[
-							"10:00",
+							"8:00",
 							"21:00"
 						],
 						[
-							"10:00",
+							"8:00",
 							"21:00"
 						],
 						[
-							"10:00",
+							"8:00",
 							"21:00"
 						],
 						[
-							"10:00",
+							"8:00",
 							"21:00"
 						],
 						[
-							"10:00",
+							"8:00",
 							"21:00"
 						],
 						[
-							"10:00",
+							"8:00",
+							"21:00"
+						],
+						[
+							"8:00",
 							"21:00"
 						]
 					],
 					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 9:00 p.m",
-						"Dom y Fes <br> 11:00 a.m a 8:00 p.m"
+						"Lun a Domg <br> 8:00 a.m a 9:00 p.m"
 					],
-					"horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
+					"horario": "Lun a Dom de 8:00 a.m a 9:00 p.m",
 					"imagen": "/medias/tienda-bolivar-pasto-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNjQ4MzJ8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDI2L2hjYi8xMDMyMzI4ODQ1NzI0Ni5qcGd8MGI5YjVjNWY0YTg2MjRmMjQxYjM0NWQwZDliZGE2YmZmOTNkOGZiZTM5Y2U1OTg0ODRhMDFlMDJkNjg2NmQzMQ",
-					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Bol%C3%ADvar,+Calle+22+%23%23+6-28,+Pasto,+Nari%C3%B1o/@1.2066406,-77.2693324,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e2ed493992cc447:0xa2e8e160f8b34c01!2m2!1d-77.2671437!2d1.2066406?hl=es",
-					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Bol%C3%ADvar/@1.2066406,-77.2693324,17z/data=!3m1!4b1!4m5!3m4!1s0x8e2ed493992cc447:0xa2e8e160f8b34c01!8m2!3d1.2066406!4d-77.2671437?hl=es",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Pasto+Bol%C3%ADvar,+Cl.+22+%236-28,+Pasto,+Nari%C3%B1o/@1.2066406,-77.2693324,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e2ed493992cc447:0xa2e8e160f8b34c01!2m2!1d-77.2671437!2d1.2066406!3e0?authuser=1",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Pasto+Bol%C3%ADvar/@1.2066406,-77.2693324,17z/data=!3m1!4b1!4m5!3m4!1s0x8e2ed493992cc447:0xa2e8e160f8b34c01!8m2!3d1.2066406!4d-77.2671437?authuser=1",
 					"ir": "/nuestra-compania/tiendas/pasto/bolivar/c/bolivar"
 				},
 				"centro": {
-					"nombre_tienda": "Alkosto Centro",
+					"nombre_tienda": "Alkosto Pasto Centro",
 					"direccion": "Cl 19 No. 28 - 89, Centro",
 					"horario_apertura": [
 						[
-							"10:00",
-							"18:00"
+							"8:00",
+							"21:00"
 						],
 						[
-							"10:00",
-							"20:00"
+							"8:00",
+							"21:00"
 						],
 						[
-							"10:00",
-							"20:00"
+							"8:00",
+							"21:00"
 						],
 						[
-							"10:00",
-							"20:00"
+							"8:00",
+							"21:00"
 						],
 						[
-							"10:00",
-							"20:00"
+							"8:00",
+							"21:00"
 						],
 						[
-							"10:00",
-							"20:00"
+							"8:00",
+							"21:00"
 						],
 						[
-							"10:00",
-							"20:00"
+							"8:00",
+							"21:00"
 						]
 					],
 					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-						"Dom y Fes <br> 10:00 a.m a 6:00 p.m"
+						"Lun a Dom <br> 8:00 a.m a 9:00 p.m"
 					],
-					"horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
+					"horario": "Lun a Dom de 8:00 a.m a 9:00 p.m",
 					"imagen": "/medias/tienda-centro-pasto-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNDE4MTd8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDA4L2g5MC8xMDMyMzI4NzI3NzU5OC5qcGd8YWMwY2Y3OGFmNjA0OTVjNDM2NTkxODU4NTczNTdhNTM5MTE4NGFmNWFmODMzMzhhODU4ZmY2ODk5OTI2Y2I3ZA",
-					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Centro,+Cl+19+%23%23+28-89,+Pasto,+Nari%C3%B1o/@1.2184366,-77.2817048,17z/data=!4m16!1m6!3m5!1s0x8e2ed4873dce3299:0x7bdd45585c378892!2sAlkosto+Centro!8m2!3d1.2184366!4d-77.2795161!4m8!1m0!1m5!1m1!1s0x8e2ed4873dce3299:0x7bdd45585c378892!2m2!1d-77.2795161!2d1.2184366!3e3?hl=es",
-					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Centro/@1.2184366,-77.2817048,17z/data=!3m1!4b1!4m5!3m4!1s0x8e2ed4873dce3299:0x7bdd45585c378892!8m2!3d1.2184366!4d-77.2795161?hl=es",
+					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Pasto+Centro,+Cl+19+%2328-89,+Pasto,+Nari%C3%B1o/@1.2125493,-77.2777073,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e2ed4873dce3299:0x7bdd45585c378892!2m2!1d-77.2795161!2d1.2184366!3e0?authuser=1",
+					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Pasto+Centro/@1.2125493,-77.2777073,16z/data=!4m13!1m6!3m5!1s0x8e2ed4873dce3299:0x7bdd45585c378892!2sAlkosto+Pasto+Centro!8m2!3d1.2184366!4d-77.2795161!3m5!1s0x8e2ed4873dce3299:0x7bdd45585c378892!8m2!3d1.2184366!4d-77.2795161!15sChRBbGtvc3RvIFBhc3RvIENlbnRybyIDiAEBWhYiFGFsa29zdG8gcGFzdG8gY2VudHJvkgELaHlwZXJtYXJrZXQ?authuser=1",
 					"ir": "/nuestra-compania/tiendas/pasto/centro/c/centro"
 				}
 			}
