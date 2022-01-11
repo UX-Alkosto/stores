@@ -366,49 +366,6 @@
 		"ipiales": {
 			"label": "Ipiales",
 			"tiendas": {
-				"carrera-5": {
-					"nombre_tienda": "Alkosto Ipiales Carrera 5",
-					"direccion": "Cr 5 No. 8 – 26",
-					"horario_apertura": [
-						[
-							"11:00",
-							"20:00"
-						],
-						[
-							"10:00",
-							"21:00"
-						],
-						[
-							"10:00",
-							"21:00"
-						],
-						[
-							"10:00",
-							"21:00"
-						],
-						[
-							"10:00",
-							"21:00"
-						],
-						[
-							"10:00",
-							"21:00"
-						],
-						[
-							"10:00",
-							"21:00"
-						]
-					],
-					"horarios": [
-						"Lun a Sab <br> 10:00 a.m a 9:00 p.m",
-						"Dom y Fes <br> 11:00 a.m a 8:00 p.m"
-					],
-					"horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
-					"imagen": "/medias/tienda-ipales-alkosto?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxNjE5Njd8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaDZjL2hmZS8xMDMyMzI4NjQyNTYzMC5qcGd8MTM4MWE0YmRjMDE0Y2YxNzFlNzg3ZjYxNGUwMGQ0OTYzNjY2ZGJhOTU0ZGY3NTUzYTFiNGQ2ZDgzNGYzYTFjMg",
-					"como_llegar": "https://www.google.com/maps/dir//Cra.+5+%238-26,+Ipiales,+Nari%C3%B1o/@0.8241867,-77.6368576,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e296beb8a18ebbf:0xc2f0d56b952894cc!2m2!1d-77.6346689!2d0.8241867?hl=es",
-					"ver_mapa": "https://www.google.com/maps/place/Cra.+5+%238-26,+Ipiales,+Nari%C3%B1o/@0.8241867,-77.6368576,17z/data=!3m1!4b1!4m5!3m4!1s0x8e296beb8a18ebbf:0xc2f0d56b952894cc!8m2!3d0.8241867!4d-77.6346689?hl=es",
-					"ir": "/nuestra-compania/tiendas/ipiales/carrera-5/c/carrera-5"
-				},
 				"ipiales-gran-plaza": {
 					"nombre_tienda": "Alkosto Ipiales Gran Plaza",
 					"direccion": "Cl 25 No. 6B–23, C.C Gran Plaza",
