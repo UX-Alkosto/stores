@@ -631,41 +631,41 @@
 					"direccion": "Dg 8 No. 33–26, Lc L2-47",
 					"horario_apertura": [
 						[
-							"8:00",
+							"10:00",
 							"20:00"
 						],
 						[
-							"8:00",
+							"10:00",
 							"20:00"
 						],
 						[
-							"8:00",
+							"10:00",
 							"20:00"
 						],
 						[
-							"8:00",
+							"10:00",
 							"20:00"
 						],
 						[
-							"8:00",
+							"10:00",
 							"20:00"
 						],
 						[
-							"8:00",
+							"10:00",
 							"20:00"
 						],
 						[
-							"8:00",
+							"10:00",
 							"20:00"
 						]
 					],
 					"horarios": [
-						"Lun a Dom <br> 8:00 a.m a 8:00 p.m"
+						"Lun a Dom <br> 10:00 a.m a 8:00 p.m"
 					],
-					"horario": "Lun a Dom de 8:00 a.m a 8:00 p.m",
+					"horario": "Lun a Dom de 10:00 a.m a 8:00 p.m",
 					"imagen": "/medias/img-tienda-girardot.jpg?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwxNDY3MTV8aW1hZ2UvanBlZ3x0aWVuZGFzX2t0cm9uaXgvaDg2L2g4Zi8xMTUzNjAzMTE1NDIwNi5qcGd8NzBmMTkzYmEyN2FlNWIyMTJhMWY2NDc3YjhmNzJlZGNhMWE5MzRjNDZjODc1M2I4NjgyMmEwMDQzM2M1ZWIxOQ",
-					"como_llegar": "https://www.google.com/maps/dir//Ktronix+Girardot,+Diagonal+8+%23+33+%E2%80%93+26+Local+L2+-+47,+Girardot,+Cundinamarca/@4.3076755,-74.7999276,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e3f29a12abd7435:0xcb8a86ddf1e06c20!2m2!1d-74.7977389!2d4.3076755!3e0?hl=es",
-					"ver_mapa": "https://www.google.com/maps/place/Ktronix+Girardot/@4.3076755,-74.7999276,17z/data=!4m5!3m4!1s0x8e3f29a12abd7435:0xcb8a86ddf1e06c20!8m2!3d4.3076755!4d-74.7977389?hl=es",
+					"como_llegar": "https://www.google.com/maps/dir//Ktronix+Girardot,+Diagonal+8+%23+33+%E2%80%93+26+Local+L2+-+47,+Girardot,+Cundinamarca/@4.30761,-74.7979434,21z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e3f297b777fb3bb:0x86fa87f15722bd44!2m2!1d-74.7978066!2d4.30761!3e0",
+					"ver_mapa": "https://www.google.com/maps/place/Ktronix+Girardot/@4.30761,-74.7979434,21z/data=!4m5!3m4!1s0x8e3f297b777fb3bb:0x86fa87f15722bd44!8m2!3d4.30761!4d-74.7978066",
 					"ir": "/nuestra-compania/tiendas/girardot/c/girardot"
 				}
 			}
