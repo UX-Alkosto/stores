@@ -277,38 +277,37 @@
 					"horario_apertura": [
 						[
 							"7:00",
-							"20:00"
+							"21:00"
 						],
 						[
 							"7:00",
-							"20:00"
+							"21:00"
 						],
 						[
 							"7:00",
-							"20:00"
+							"21:00"
 						],
 						[
 							"7:00",
-							"20:00"
+							"21:00"
 						],
 						[
 							"7:00",
-							"20:00"
+							"21:00"
 						],
 						[
 							"7:00",
-							"20:00"
+							"21:00"
 						],
 						[
 							"7:00",
-							"20:00"
+							"21:00"
 						]
 					],
 					"horarios": [
-						"Lun a Sab <br> 7:00 a.m a 8:00 p.m",
-						"Dom y Fes <br> 7:00 a.m a 8:00 p.m"
+						"Lun a Dom <br> 7:00 a.m a 9:00 p.m"
 					],
-					"horario": "Lun a Sab de 7:00 a.m a 8:00 p.m <br> Dom y Fes 7:00 a.m a 8:00 p.m",
+					"horario": "Lun a Dom de 7:00 a.m a 9:00 p.m",
 					"imagen": "/medias/tienda-floridablanca-bucaramanga?context=bWFzdGVyfHRpZW5kYXMtYWxrb3N0b3wxODkyNzR8aW1hZ2UvanBlZ3x0aWVuZGFzLWFsa29zdG8vaGNhL2g2NC8xMDMyMzI4Njg4NDM4Mi5qcGd8OWE2ZjI2Y2MzZDRiMTQwZThlMDgzMTY4OTk1NTQyZDczZGEyNDZiYmQ3MGVlMDI2ZGE5N2Q4MWM4OTg2MDE3Mg",
 					"como_llegar": "https://www.google.com/maps/dir//Alkosto+Floridablanca,+km+2,5+v%C3%ADa+Floridablanca+-+Gir%C3%B3n,+Anillo+Vial,+Floridablanca,+Santander/@7.0615233,-73.1197019,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e683f142ae82f11:0x67d229ba1a2c364f!2m2!1d-73.1175132!2d7.0615233?hl=es",
 					"ver_mapa": "https://www.google.com/maps/place/Alkosto+Floridablanca/@7.0615233,-73.1197019,17z/data=!3m1!4b1!4m5!3m4!1s0x8e683f142ae82f11:0x67d229ba1a2c364f!8m2!3d7.0615233!4d-73.1175132?hl=es",
