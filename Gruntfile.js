@@ -51,9 +51,6 @@ module.exports = grunt => {
                     themeName: "<%= theme %>"
                 },
                 paths: ["dist/css"],
-                plugins: [
-                    new (require("less-plugin-autoprefix"))({ browsers: ["last 2 versions"] })
-                ]
             },
             theme : {
                 files: {
