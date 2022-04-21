@@ -1,5 +1,53 @@
 {
 	"ciudades": {
+		"barranquilla": {
+			"label": "Barranquilla",
+			"tiendas": {
+				"soledad": {
+					"nombre_tienda": "Ktronix Barranquilla, Soledad",
+					"direccion": "Cl 30 No 4B–50, C.C Parque Alegra",
+					"horario_apertura": [
+						[
+							"10:00",
+							"20:00"
+						],
+						[
+							"10:00",
+							"21:00"
+						],
+						[
+							"10:00",
+							"21:00"
+						],
+						[
+							"10:00",
+							"21:00"
+						],
+						[
+							"10:00",
+							"21:00"
+						],
+						[
+							"10:00",
+							"21:00"
+						],
+						[
+							"10:00",
+							"21:00"
+						]
+					],
+					"horarios": [
+						"Lun a Sab <br> 10:00 a.m a 9:00 p.m",
+						"Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+					],
+					"horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom a Fes de 10:00 a.m a 8:00 p.m",
+					"imagen": "/medias/img-tienda-barranquilla-soledad.png?context=bWFzdGVyfHRpZW5kYXNfa3Ryb25peHwyNzI0NzZ8aW1hZ2UvcG5nfHRpZW5kYXNfa3Ryb25peC9oN2MvaGVlLzEyMzA5NDQxMzgwMzgyLnBuZ3xjMGJhYjFkODNkYTBlODhkYmQwZjQ4NTJjOTdmNjFmMGRhYThkYjczZjNjZDAzOGUyNzNmZWJhYTVhZmEyNjJi",
+					"como_llegar": "https://www.google.com/maps/dir//Ktronix+Barranquilla,+Cl.+30+%234B+%E2%80%93+50,+Barranquilla,+Atl%C3%A1ntico/@10.9446593,-74.7854084,17z/data=!4m16!1m6!3m5!1s0x0:0xeedc550a4ee51ca6!2sKtronix+Barranquilla!8m2!3d10.9446593!4d-74.7832197!4m8!1m0!1m5!1m1!1s0x8ef5d3e494798bef:0xeedc550a4ee51ca6!2m2!1d-74.7832197!2d10.9446593!3e3",
+					"ver_mapa": "https://www.google.com/maps/place/Ktronix+Barranquilla/@10.9446593,-74.7854084,17z/data=!4m5!3m4!1s0x0:0xeedc550a4ee51ca6!8m2!3d10.9446593!4d-74.7832197",
+					"ir": "/nuestra-compania/tiendas/barranquilla/soledad/c/soledad"
+				}
+			}
+		},
 		"bogota": {
 			"label": "Bogotá",
 			"tiendas": {
