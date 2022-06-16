@@ -140,7 +140,6 @@ body {
 .detalle_tienda .tit_horario {
     align-items: center;
     color: var(--stores-brand-secondary);
-    display: flex;
     font-size: 18px;
     font-weight: 700; 
     display: none;

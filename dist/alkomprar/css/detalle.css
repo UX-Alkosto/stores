@@ -140,10 +140,9 @@ body {
 .detalle_tienda .tit_horario {
     align-items: center;
     color: var(--stores-brand-secondary);
-    display: flex;
     font-size: 18px;
     font-weight: 700;
-    display: none;
+    display: none !important;
 }
 
 .regresar,
@@ -157,8 +156,7 @@ body {
     margin-right: 5px
 }
 
-.horarios_detalle {
-    display: flex; display: none;
+.horarios_detalle {display: none !important;
 }
 
 .horarios_detalle p {
