@@ -238,7 +238,7 @@ body {
 .store .apertura {
     font-size: 14px !important;
     grid-area: apertura;
-    display: none;
+    display: block;
 }
 
 .nice-select {

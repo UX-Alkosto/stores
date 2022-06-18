@@ -127,7 +127,7 @@ body {
 .detalle_tienda .apertura {
     font-size: 14px;
     margin-bottom: 20px;
-    display: none;
+    display: block;
 }
 
 .detalle_tienda .direc {
@@ -141,7 +141,7 @@ body {
     color: var(--stores-brand-secondary);
     font-size: 18px;
     font-weight: 700; 
-    display: none;
+    display: block;
 }
 
 .regresar,
@@ -156,7 +156,7 @@ body {
 }
 
 .horarios_detalle {
-    display: none;
+    display: flex;
 }
 
 .horarios_detalle p {
