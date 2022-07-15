@@ -445,38 +445,39 @@
                     "horario_apertura": [
                         [
                             "10:00",
-                            "19:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "19:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "19:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "19:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "19:00"
+                            "21:00"
                         ],
                         [
                             "10:00",
-                            "19:00"
+                            "21:00"
                         ],
                         [
                             "10:00",
-                            "19:00"
+                            "20:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Vie <br> 10:00 a.m a 7:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
+                        "Lun a Juev <br> 10:00 a.m a 8:00 p.m",
+                        "Vie a Sab <br> 10:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
                     ],
-                    "horario": "Lun a Vie de 10:00 a.m a 7:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
+                    "horario": "Lun a Juev de 10:00 a.m a 8:00 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/img-tienda-titan.jpg?context=bWFzdGVyfHRpZW5kYXMta3Ryb25peHwxMDU4NDB8aW1hZ2UvanBlZ3x0aWVuZGFzLWt0cm9uaXgvaGY2L2g4ZS8xMzMwNzAxMDc0NDM1MC5qcGd8Yzg5NDQ2YzY0ZGE3MzdmMzFmZGNmYTE1MzJlZWI0NThkNjRjOGVhMjc3OWQ4Y2NlZGVjY2UyNDAyYjJlNDg1Ng",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cr.+72+%23+80+-+94+Tit%C3%A1n+Plaza+Centro+Comercial.+Local+3-10,+Bogot%C3%A1/@4.695665,-74.0890757,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9b256cad202d:0xbb0c2acde366457d!2m2!1d-74.086887!2d4.695665",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Tit%C3%A1n/@4.6956704,-74.0890755,17z/data=!3m2!4b1!5s0x8e3f9b25347869ab:0xa4f71b79b07c4849!4m5!3m4!1s0x8e3f9b256cad202d:0xbb0c2acde366457d!8m2!3d4.6956651!4d-74.0868868?hl=es",
