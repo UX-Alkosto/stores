@@ -13,19 +13,19 @@
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
@@ -37,7 +37,8 @@
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 9:00 p.m",
+                        "Lun a Jue <br> 10:00 a.m a 8:00 p.m",
+                        "Vier a Sab <br> 10:00 a.m a 9:00 p.m",
                         "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom a Fes de 10:00 a.m a 8:00 p.m",
@@ -186,7 +187,7 @@
                     "horario_apertura": [
                         [
                             "10:00",
-                            "20:00"
+                            "21:00"
                         ],
                         [
                             "10:00",
@@ -206,16 +207,17 @@
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "21:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "21:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Lun a Juev <br> 10:00 a.m a 8:00 p.m",
+                        "Vier a Sab <br> 10:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 10:00 a.m a 9:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/img-tienda-centromayor.jpg?context=bWFzdGVyfHRpZW5kYXMta3Ryb25peHw3ODAzNnxpbWFnZS9qcGVnfHRpZW5kYXMta3Ryb25peC9oYmMvaDNmLzEzMzA3MDEwNDgyMjA2LmpwZ3w4M2MxNDE1Mjc2NWVhZjBiYTU4OGFkMWNmMDg3ZmExMmMyMTY3YzlhNzI3NTFhZjlkYzFkNWUyOTJjN2MxNzI2",
@@ -584,7 +586,7 @@
                     "direccion": " Cll 38 #6 Norte - 35, C.C Chipichape Bodega 9. Lc 10.",
                     "horario_apertura": [
                         [
-                            "10:00",
+                            "11:00",
                             "20:00"
                         ],
                         [
@@ -614,7 +616,7 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 11:00 a.m a 8:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "/medias/img-tienda-chipichape.jpg?context=bWFzdGVyfHRpZW5kYXMta3Ryb25peHw4NzYzNXxpbWFnZS9qcGVnfHRpZW5kYXMta3Ryb25peC9oZWUvaGY3LzEzMzA3MDEwODQyNjU0LmpwZ3w1YmUzZTYzMjNiMDdmMGJkNTMxMzhiZDc2Njk3ODQ4MTgzN2YzMzQwMGNmODlmODg5MmMxOTlmMmQ1ODEzMGEy",
@@ -777,7 +779,7 @@
                     "direccion": "Cra 70 #1 - 19. Piso 3 Lc. 033",
                     "horario_apertura": [
                         [
-                            "11:00",
+                            "10:00",
                             "20:00"
                         ],
                         [
@@ -868,7 +870,7 @@
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
@@ -892,7 +894,8 @@
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 9:00 p.m",
+                        "Lun <br> 10:00 a.m a 8:00 p.m",
+                        "Mar a Sab <br> 10:00 a.m a 9:00 p.m",
                         "Dom y Fes <br> 11:00 a.m a 8:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
@@ -911,7 +914,7 @@
                     "direccion": "C.C Viva. Lc 209",
                     "horario_apertura": [
                         [
-                            "11:00",
+                            "10:00",
                             "20:00"
                         ],
                         [
@@ -941,7 +944,7 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom <br> 11:00 a.m a 8:00 p.m"
+                        "Dom <br> 10:00 a.m a 8:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom 11:00 a.m a 8:00 p.m",
                     "imagen": "/medias/img-tienda-tunja.jpg?context=bWFzdGVyfHRpZW5kYXMta3Ryb25peHw5ODI5MXxpbWFnZS9qcGVnfHRpZW5kYXMta3Ryb25peC9oMTQvaGI0LzEzMzA3MDExMDA2NDk0LmpwZ3w2NzFiMDllNjU2ZGI0M2JhYmM4ZWI3MTI2YjViNjRhMjY0OGU5MThmZmZiYjFhMTViODQxMTQyZjVkYzA0MTJm",
