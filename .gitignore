@@ -3,4 +3,5 @@ nuestra-compania/
 nuestras-tiendas/
 node_modules
 .DS_Store
+.history
 *.html
