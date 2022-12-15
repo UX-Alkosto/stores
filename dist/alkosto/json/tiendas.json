@@ -319,7 +319,7 @@
             "label": "Cali",
             "tiendas": {
                 "calle-13": {
-                    "nombre_tienda": "Alkosto Cali",
+                    "nombre_tienda": "Alkosto Cali Sur",
                     "direccion": "Cl 13 No. 80 - 187",
                     "horario_apertura": [
                         [
@@ -359,6 +359,48 @@
                     "como_llegar": "https://www.google.com/maps/dir//Alkosto+Cali,+Cl.+13+%23%23+80+-+187,+Cali,+Valle+del+Cauca/@3.3852359,-76.5400162,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e30a15d45c9ba7f:0xc0fed97fb1f3aa24!2m2!1d-76.5378275!2d3.3852359?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Alkosto+Cali/@3.3852359,-76.5400162,17z/data=!3m1!4b1!4m5!3m4!1s0x8e30a15d45c9ba7f:0xc0fed97fb1f3aa24!8m2!3d3.3852359!4d-76.5378275?hl=es",
                     "ir": "/nuestra-compania/tiendas/cali/calle-13/c/calle-13"
+                },
+                "norte": {
+                    "nombre_tienda": "Alkosto Cali Norte",
+                    "direccion": " Carrera 1 con, Cl. 62 Nte.",
+                    "horario_apertura": [
+                        [
+                            "7:00",
+                            "22:00"
+                        ],
+                        [
+                            "7:00",
+                            "22:00"
+                        ],
+                        [
+                            "7:00",
+                            "22:00"
+                        ],
+                        [
+                            "7:00",
+                            "22:00"
+                        ],
+                        [
+                            "7:00",
+                            "22:00"
+                        ],
+                        [
+                            "7:00",
+                            "22:00"
+                        ],
+                        [
+                            "7:00",
+                            "22:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Dom <br> 7:00 a.m a 10:00 p.m"
+                    ],
+                    "horario": "Lun a Dom de 7:00 a.m a 10:00 p.m",
+                    "imagen": "https://lh5.googleusercontent.com/p/AF1QipONweoQZElWmi7sSScyz6VZO7qtQhPUbFwgbSwe=w426-h240-k-no",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Cali+Norte,+Carrera+1+con,+Cl.+62+Nte.,+Cali,+Valle+del+Cauca/@3.4823975,-76.4980495,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e30a97ac39e56c3:0xaf6adf231a44a038!2m2!1d-76.4980495!2d3.4823975?hl=es-CO",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Cali+Norte/@3.4823975,-76.5002435,17z/data=!3m1!4b1!4m5!3m4!1s0x8e30a97ac39e56c3:0xaf6adf231a44a038!8m2!3d3.4823975!4d-76.4980495?hl=es-CO",
+                    "ir": "#"
                 }
             }
         },
