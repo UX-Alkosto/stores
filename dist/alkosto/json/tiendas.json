@@ -360,9 +360,9 @@
                     "ver_mapa": "https://www.google.com/maps/place/Alkosto+Cali/@3.3852359,-76.5400162,17z/data=!3m1!4b1!4m5!3m4!1s0x8e30a15d45c9ba7f:0xc0fed97fb1f3aa24!8m2!3d3.3852359!4d-76.5378275?hl=es",
                     "ir": "/nuestra-compania/tiendas/cali/calle-13/c/calle-13"
                 },
-                "norte": {
+                "carrera-1": {
                     "nombre_tienda": "Alkosto Cali Norte",
-                    "direccion": "Carrera 1 con, Cl. 62 Nte",
+                    "direccion": "Cr 1 con, Cl. 62 Nte",
                     "horario_apertura": [
                         [
                             "7:00",
