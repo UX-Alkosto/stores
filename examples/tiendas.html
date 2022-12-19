@@ -1,36 +1,41 @@
 <!doctype html>
 <html lang="es">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://cdn.jsdelivr.net">
     <link href="https://cdn.jsdelivr.net/gh/ux-alkosto/icons/style.min.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.js" crossorigin="anonymous"defer></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/ktronix/css/tiendas.css">
-  
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.js" crossorigin="anonymous" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/alkosto/css/tiendas.css">
+
 </head>
 
 <body>
-    <div class="desktop">
-        <ul class="cities-menu" role="tablist">
-            <li role="presentation" class="active">
-                <a href="#todas" aria-controls="todas" role="tab" data-toggle="tab">Todas</a>
-            </li>
-        </ul>
+    <div class="container">
+        <div class="desktop">
+            <ul class="cities-menu" role="tablist">
+                <li role="presentation" class="active">
+                    <a href="#todas" aria-controls="todas" role="tab" data-toggle="tab">Todas</a>
+                </li>
+            </ul>
+        </div>
+        <div class="mobile">
+            <p class="selecciona">Selecciona una ciudad:</p>
+            <select class="cities-menu--mobile wide">
+                <option value="todas">Todas</option>
+            </select>
+        </div>
+        <div id="stores">
+            <p class="loading-ajax-content">Cargando contenido</p>
+        </div>
+        <script>
+            const storesJsonFile =
+                'https://cdn.jsdelivr.net/gh/ux-alkosto/stores@1.8.0.1/dist/alkosto/json/tiendas.json';
+        </script>
+        <script src="https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/common/js/tiendas.js" crossorigin="anonymous"
+            type="module"></script>
     </div>
-    <div class="mobile">
-        <p class="selecciona">Selecciona una ciudad:</p>
-        <select class="cities-menu--mobile wide">
-            <option value="todas">Todas</option>
-        </select>
-    </div>
-    <div id="stores">
-        <p class="loading-ajax-content">Cargando contenido</p>
-    </div>
-    <script>
-        const storesJsonFile = 'https://cdn.jsdelivr.net/gh/ux-alkosto/stores@1.8.0.1/dist/ktronix/json/tiendas.json';
-    </script>
-    <script src="https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/common/js/tiendas.js" crossorigin="anonymous" type="module"></script>
 </body>
 
 </html>
