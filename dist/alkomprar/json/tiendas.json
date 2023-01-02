@@ -201,38 +201,38 @@
                     "horario_apertura": [
                         [
                             "10:00",
+                            "19:00"
+                        ],
+                        [
+                            "09:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "09:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "09:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "09:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
+                            "09:00",
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
-                        ],
-                        [
-                            "10:00",
+                            "09:00",
                             "20:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom <br> 10:00 a.m a 8:00 p.m"
+                        "Lun a Sab <br> 09:00 a.m a 8:00 p.m",
+                        "Dom <br> 10:00 a.m a 7:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 09:00 a.m a 8:00 p.m <br> Dom 10:00 a.m a 7:00 p.m",
                     "imagen": "https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/alkomprar/img/bello.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Alkomprar,+Local+2-2043,+Autopista+Nte.+%23%2334-67,+Bello,+Antioquia/@6.3401054,-75.5449174,17z/data=!4m16!1m6!3m5!1s0x8e442f9a57f14d2b:0x3c7e3895f63d3a48!2sAlkomprar!8m2!3d6.3401001!4d-75.5427287!4m8!1m0!1m5!1m1!1s0x8e442f9a57f14d2b:0x3c7e3895f63d3a48!2m2!1d-75.5427287!2d6.3401001!3e3?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Alkomprar/@6.3401054,-75.5449174,17z/data=!3m1!4b1!4m5!3m4!1s0x8e442f9a57f14d2b:0x3c7e3895f63d3a48!8m2!3d6.3401001!4d-75.5427287?hl=es",
