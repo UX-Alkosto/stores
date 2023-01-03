@@ -366,35 +366,36 @@
                     "horario_apertura": [
                         [
                             "7:00",
-                            "22:00"
+                            "21:00"
                         ],
                         [
                             "7:00",
-                            "22:00"
+                            "21:00"
                         ],
                         [
                             "7:00",
-                            "22:00"
+                            "21:00"
                         ],
                         [
                             "7:00",
-                            "22:00"
+                            "21:00"
                         ],
                         [
                             "7:00",
-                            "22:00"
+                            "21:00"
                         ],
                         [
                             "7:00",
-                            "22:00"
+                            "21:00"
                         ],
                         [
                             "7:00",
-                            "22:00"
+                            "21:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Dom <br> 7:00 a.m a 10:00 p.m"
+                        "Lun a Sab <br> 7:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 9:00 p.m"
                     ],
                     "horario": "Lun a Dom de 7:00 a.m a 10:00 p.m",
                     "imagen": "https://lh5.googleusercontent.com/p/AF1QipONweoQZElWmi7sSScyz6VZO7qtQhPUbFwgbSwe=w426-h240-k-no",
