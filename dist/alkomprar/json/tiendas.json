@@ -240,7 +240,7 @@
                 },
                 "parque-fabricato": {
                     "nombre_tienda": "Alkomprar C.C. Parque Fabricato",
-                    "direccion": "Carrera 50 No. 33-08 Local 2308",
+                    "direccion": "Carrera 50 No. 33-08 Local 2308", 
                     "horario_apertura": [
                         [
                             "10:00",
