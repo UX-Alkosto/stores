@@ -240,7 +240,7 @@
 				},
 				"parque-fabricato": {
 					"nombre_tienda": "Alkomprar C.C. Parque Fabricato",
-					"direccion": "Cl 40 No. 50-205, Lc 2050",
+                    "direccion": "Carrera 50 No. 33-05 Local 2308", 
 					"horario_apertura": [
 						[
 							"10:00",
