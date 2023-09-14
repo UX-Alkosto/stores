@@ -8,8 +8,8 @@
                     "direccion": "Cl 30 No 4B–50, C.C Parque Alegra",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
+                            "10:00",
+                            "20:00"
                         ],
                         [
                             "10:00",
@@ -29,11 +29,11 @@
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "21:00"
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "21:00"
                         ]
                     ],
                     "horarios": [
@@ -57,39 +57,39 @@
                     "direccion": "Cll 25B sur #5-87, Primer piso.",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
+                            "10:00",
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "19:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "19:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "19:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "19:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "19:30"
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "<strong>Lun a Vie</strong> <br> 10:00 a.m a 7:00 p.m",
+                        "<strong>Lun a Sab</strong> <br> 10:00 a.m a 7:00 p.m",
                         "<strong>Dom y Fes</strong> <br> 10:00 a.m a 7:00 p.m"
                     ],
-                    "horario": "Lun a Vie de 10:00 a.m a 7:00 p.m <br>  Dom y Fes 10:00 a.m a 7:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 7:00 p.m <br>  Dom y Fes 10:00 a.m a 7:00 p.m",
                     "imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Ktronix/Tiendas/tienda-20julio-ktrx.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+20+de+Julio,+Primer+Piso,+Cl.+25b+Sur+%23%23+5+-+87,+Bogot%C3%A1/@4.569239,-74.0956814,17z/data=!4m16!1m6!3m5!1s0x0:0x77cc34b0603dab09!2sKtronix+20+de+Julio!8m2!3d4.5694781!4d-74.0935052!4m8!1m0!1m5!1m1!1s0x8e3f98ec8ef532eb:0x77cc34b0603dab09!2m2!1d-74.0935052!2d4.5694781!3e3?hl=es-419",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+20+de+Julio/@4.569239,-74.0956814,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x77cc34b0603dab09!8m2!3d4.5694781!4d-74.0935052?hl=es-419",
@@ -100,8 +100,8 @@
                     "direccion": "Cll 94 No. 15 - 14",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
+                            "10:00",
+                            "19:00"
                         ],
                         [
                             "10:00",
@@ -125,7 +125,7 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -143,10 +143,6 @@
                     "direccion": "Trv 71D #26 - 94 Sur / C.C Plaza de las Américas. Lc 1902 - B",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -168,7 +164,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -186,8 +186,8 @@
                     "direccion": "Av. Cra. 27 #38A - 83 Sur",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
+                            "10:00",
+                            "21:00"
                         ],
                         [
                             "10:00",
@@ -211,7 +211,7 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -230,10 +230,6 @@
                     "direccion": "Km 2.5 Vía Chía Cajicá Costado Oriental Lc. 2 - 49B",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -255,7 +251,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "21:00"
+                        ],
+                        [
+                            "10:00",
+                            "21:00"
                         ]
                     ],
                     "horarios": [
@@ -269,15 +269,54 @@
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Fontanar/@4.8835886,-74.0371097,17z/data=!3m1!4b1!4m5!3m4!1s0x8e40781f44f5079d:0x2604c68c3bfc0f66!8m2!3d4.8835833!4d-74.034921?hl=es",
                     "ir": "/nuestra-compania/tiendas/bogota/chia/c/chia"
                 },
+                "mallplaza": {
+                    "nombre_tienda": "Ktronix Mallplaza NQS",
+                    "direccion": "Avenida calle 19 N.28 - 80 Centro comercial Mallplaza NQS Local B-65",
+                    "horario_apertura": [
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "21:00"
+                        ],
+                        [
+                            "10:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Dom a Jue <br> 10:00 a.m a 8:00 p.m",
+                        "Vie, Sab y Fes <br> 10:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Dom a Jue de 10:00 a.m a 8:00 p.m <br> Vie, Sab y Fes 10:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Ktronix/Tiendas/mallPlazaKtronix.jpg",
+                    "como_llegar": "https://www.google.com/maps/dir//Ktronix+Mallplaza+NQS,+Mallplaza+NQS,+Av.+Cdad.+de+Lima+%2328+%E2%80%93+80+Local+B-65,+Bogot%C3%A1/@4.679475,-74.1596366,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f996e048c5c5d:0xe86808b55d6f284e!2m2!1d-74.0860722!2d4.6185488?entry=ttu",
+                    "ver_mapa": "https://www.google.com/maps/place/Ktronix+Mallplaza+NQS/@4.679475,-74.1596366,12z/data=!4m6!3m5!1s0x8e3f996e048c5c5d:0xe86808b55d6f284e!8m2!3d4.6185488!4d-74.0860722!16s%2Fg%2F11vb7j6zh3?entry=ttu",
+                    "ir": "/nuestra-compania/tiendas/bogota/mosquera/c/mosquera"
+                },
                 "mosquera": {
                     "nombre_tienda": "Ktronix Mosquera",
                     "direccion": "Cra 3ra #15A - 57 / C.C Ecoplaza Lc. 255 - 256",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -299,7 +338,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -317,8 +360,8 @@
                     "direccion": "Cra 68B #25B - 80",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
+                            "10:00",
+                            "19:00"
                         ],
                         [
                             "10:00",
@@ -342,7 +385,7 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -360,10 +403,6 @@
                     "direccion": "C.C Antares Trv 7C #30e - 118, Soacha Lc 201",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -385,7 +424,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -403,8 +446,8 @@
                     "direccion": "Trv 91 No. 135 - 56",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
+                            "10:00",
+                            "19:00"
                         ],
                         [
                             "10:00",
@@ -428,7 +471,7 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -446,10 +489,6 @@
                     "direccion": "Av Boyacá con Cll 80 / Cra 72 # 80 - 94 / C.C Titán Plaza. Lc 3 - 10",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -471,7 +510,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "21:00"
+                        ],
+                        [
+                            "10:00",
+                            "21:00"
                         ]
                     ],
                     "horarios": [
@@ -490,8 +533,8 @@
                     "direccion": "Cra 15 #122 - 5",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
+                            "10:00",
+                            "19:00"
                         ],
                         [
                             "10:00",
@@ -515,7 +558,7 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -538,10 +581,6 @@
                     "direccion": "Trv Oriental #90 – 182. Barrio El Tejar Acceso 1, Lc. 327",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -563,7 +602,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -586,11 +629,7 @@
                     "direccion": " Cll 38 #6 Norte - 35, C.C Chipichape Bodega 9. Lc 10.",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
-                            "10:00",
+                            "11:00",
                             "20:00"
                         ],
                         [
@@ -611,7 +650,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -634,10 +677,6 @@
                     "direccion": "Calle 8 # 25 - 42 Centro Comercial Avenida Local 327",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -659,7 +698,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -682,10 +725,6 @@
                     "direccion": "Dg 8 No. 33–26, Lc L2-47",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -707,7 +746,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -730,10 +773,6 @@
                     "direccion": "Av Kevin Angel con, Cll 55D",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -755,7 +794,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "21:00"
+                        ],
+                        [
+                            "10:00",
+                            "21:00"
                         ]
                     ],
                     "horarios": [
@@ -779,32 +822,32 @@
                     "direccion": "Cra 70 #1 - 19. Piso 3 Lc. 033",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
-                            "10:00",
+                            "11:00",
                             "20:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "21:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "21:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "21:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "21:00"
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "21:00"
+                        ],
+                        [
+                            "10:00",
+                            "21:00"
                         ]
                     ],
                     "horarios": [
@@ -822,32 +865,32 @@
                     "direccion": "Cra 43A #1Sur - 220",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
-                            "10:00",
-                            "20:00"
-                        ],
-                        [
-                            "10:00",
-                            "20:00"
-                        ],
-                        [
-                            "10:00",
-                            "20:00"
-                        ],
-                        [
-                            "10:00",
-                            "20:00"
-                        ],
-                        [
-                            "10:00",
-                            "20:00"
-                        ],
-                        [
                             "10:00",
                             "18:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
@@ -865,8 +908,8 @@
                     "direccion": "Cra 25A #1A Sur – 45 Trv Sup. C.C El Tesoro. Lc 3589 Etapa Tercera",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
+                            "11:00",
+                            "20:00"
                         ],
                         [
                             "10:00",
@@ -889,8 +932,8 @@
                             "21:00"
                         ],
                         [
-                            "09:00",
-                            "17:00"
+                            "10:00",
+                            "21:00"
                         ]
                     ],
                     "horarios": [
@@ -898,7 +941,7 @@
                         "Mar a Sab <br> 10:00 a.m a 9:00 p.m",
                         "Dom y Fes <br> 11:00 a.m a 8:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
+                    "horario": "Lun de 10:00 a.m a 8:00 p.m <br> Mar a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
                     "imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-tesoro.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cra,+Cl.+1a+Sur+%2345,+Medell%C3%ADn,+Antioquia/@6.1960842,-75.5623972,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e46829a7e77a3d5:0x3d191e696bbb863e!2m2!1d-75.5602085!2d6.1960842",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Tesoro/@6.1985927,-75.5705722,16z/data=!4m8!1m2!2m1!1sktronix+tesoro!3m4!1s0x8e46829a7e77a3d5:0x3d191e696bbb863e!8m2!3d6.1960841!4d-75.5602082?hl=es",
@@ -914,11 +957,7 @@
                     "direccion": "C.C Viva. Lc 209",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
-                            "10:00",
+                            "11:00",
                             "20:00"
                         ],
                         [
@@ -939,12 +978,16 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom <br> 10:00 a.m a 8:00 p.m"
+                        "Dom <br> 11:00 a.m a 8:00 p.m"
                     ],
                     "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom 11:00 a.m a 8:00 p.m",
                     "imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-tunja.jpg",
@@ -962,10 +1005,6 @@
                     "direccion": "Cll 7 #45 – 185. C.C Viva. Lc 117A.",
                     "horario_apertura": [
                         [
-                            "00:00",
-                            "00:01"
-                        ],
-                        [
                             "10:00",
                             "20:00"
                         ],
@@ -987,7 +1026,11 @@
                         ],
                         [
                             "10:00",
-                            "18:00"
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
                         ]
                     ],
                     "horarios": [
