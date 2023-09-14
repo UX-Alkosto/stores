@@ -269,7 +269,7 @@
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Fontanar/@4.8835886,-74.0371097,17z/data=!3m1!4b1!4m5!3m4!1s0x8e40781f44f5079d:0x2604c68c3bfc0f66!8m2!3d4.8835833!4d-74.034921?hl=es",
                     "ir": "/nuestra-compania/tiendas/bogota/chia/c/chia"
                 },
-                "mallplaza": {
+                "mallplaza-nqs": {
                     "nombre_tienda": "Ktronix Mallplaza NQS",
                     "direccion": "Avenida calle 19 N.28 - 80 Centro comercial Mallplaza NQS Local B-65",
                     "horario_apertura": [
@@ -310,7 +310,7 @@
                     "imagen": "https://media.aws.alkosto.com/ymarketingcolcomercio/Ktronix/Tiendas/mallPlazaKtronix.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Mallplaza+NQS,+Mallplaza+NQS,+Av.+Cdad.+de+Lima+%2328+%E2%80%93+80+Local+B-65,+Bogot%C3%A1/@4.679475,-74.1596366,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f996e048c5c5d:0xe86808b55d6f284e!2m2!1d-74.0860722!2d4.6185488?entry=ttu",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Mallplaza+NQS/@4.679475,-74.1596366,12z/data=!4m6!3m5!1s0x8e3f996e048c5c5d:0xe86808b55d6f284e!8m2!3d4.6185488!4d-74.0860722!16s%2Fg%2F11vb7j6zh3?entry=ttu",
-                    "ir": "/nuestra-compania/tiendas/bogota/mosquera/c/mosquera"
+                    "ir": "/nuestra-compania/tiendas/bogota/mallplaza-nqs/c/mallplaza-nqs"
                 },
                 "mosquera": {
                     "nombre_tienda": "Ktronix Mosquera",
