@@ -1,0 +1,827 @@
+{
+    "ciudades": {
+        "bogota": {
+            "label": "Bogotá",
+            "tiendas": {
+                "avenida-68": {
+                    "nombre_tienda": "Alkosto Avenida 68",
+                    "direccion": "Av Cr 68 No. 72 - 43",
+                    "horario_apertura": [
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "<strong>Lun a Vie</strong> <br> 7:00 a.m a 9:00 p.m",
+                        "<strong>Dom y Fes</strong> <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Vie de 7:00 a.m a 9:00 p.m <br> Dom a Fes de 7:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-avenida-68",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Avenida+68,+Ak+68+%23%23+72-43,+Bogot%C3%A1/@4.6798396,-74.0880519,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9b1baf5b732f:0xaf7808bcf4904255!2m2!1d-74.0858632!2d4.6798396?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Avenida+68/@4.6798396,-74.0880519,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9b1baf5b732f:0xaf7808bcf4904255!8m2!3d4.6798396!4d-74.0858632?hl=es",
+                    "ir": "/nuestra-compania/tiendas/bogota/avenida-68/c/avenida-68"
+                },
+                "calle-170": {
+                    "nombre_tienda": "Alkosto Calle 170",
+                    "direccion": "Cr 69 No. 170 - 15",
+                    "horario_apertura": [
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Sab <br> 7:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Sab de 7:00 a.m a 9:00 p.m <br> Dom y Fes 7:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-calle-170-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Calle+170,+Cra.+69+%23%23+170-15,+Bogot%C3%A1/@4.7600635,-74.0658797,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f8581a23eea55:0x452af076b561fdd0!2m2!1d-74.063691!2d4.7600635?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Calle+170/@4.7600635,-74.0658797,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f8581a23eea55:0x452af076b561fdd0!8m2!3d4.7600635!4d-74.063691?hl=es",
+                    "ir": "/nuestra-compania/tiendas/bogota/calle-170/c/calle-170"
+                },
+                "carrera-30": {
+                    "nombre_tienda": "Alkosto Carrera 30",
+                    "direccion": "Cr 30 No. 10 - 25",
+                    "horario_apertura": [
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Sab <br> 7:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Sab de 7:00 a.m a 9:00 p.m <br> Dom y Fes 7:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-carrera-30-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Carrera+30,+Ak+30+%23%23+10-25,+Bogot%C3%A1/@4.6110212,-74.0973408,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f996bf35afae5:0xc7ce950475538f58!2m2!1d-74.0951521!2d4.6110212?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Carrera+30/@4.6110212,-74.0973408,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996bf35afae5:0xc7ce950475538f58!8m2!3d4.6110212!4d-74.0951521?hl=es",
+                    "ir": "/nuestra-compania/tiendas/bogota/carrera-30/c/carrera-30"
+                },
+                "eden": {
+                    "nombre_tienda": "Alkosto El Edén",
+                    "direccion": "Av Boyacá No. 15 - 98, Lc 1 -102 y 2 – 116",
+                    "horario_apertura": [
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Sab <br> 7:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Sab de 7:00 a.m a 9:00 p.m <br> Dom y Fes 7:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-el-eden-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+El+Ed%C3%A9n,+Avenida+Boyac%C3%A1+%23+15-98+Centro+comercial+El+Eden,+Local+102,+Bogot%C3%A1,+Cundinamarca/@4.6468682,-74.1307099,17z/data=!4m15!1m6!3m5!1s0x8e3f9d3ece2dc47f:0xc1648e7c95f7ef1c!2sAlkosto+El+Ed%C3%A9n!8m2!3d4.6468682!4d-74.1285212!4m7!1m0!1m5!1m1!1s0x8e3f9d3ece2dc47f:0xc1648e7c95f7ef1c!2m2!1d-74.1285212!2d4.6468682?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+El+Ed%C3%A9n/@4.6468682,-74.1307099,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9d3ece2dc47f:0xc1648e7c95f7ef1c!8m2!3d4.6468682!4d-74.1285212?hl=es",
+                    "ir": "/nuestra-compania/tiendas/bogota/el-eden/c/el-eden"
+                },
+                "venecia": {
+                    "nombre_tienda": "Alkosto Venecia",
+                    "direccion": "Av 45C sur No. 51 - 90",
+                    "horario_apertura": [
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ],
+                        [
+                            "07:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Vie <br> 7:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Vie de 7:00 a.m a 9:00 p.m <br> Dom y Fes 7:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-venecia",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Venecia,+Ac.+45a+Sur+%23%23+51-90,+Bogot%C3%A1/@4.5962338,-74.1416867,17z/data=!4m15!1m6!3m5!1s0x8e3f9edb0ed520df:0x68ad08952161cf8f!2sAlkosto+Venecia!8m2!3d4.5962338!4d-74.139498!4m7!1m0!1m5!1m1!1s0x8e3f9edb0ed520df:0x68ad08952161cf8f!2m2!1d-74.139498!2d4.5962338?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Venecia/@4.5962338,-74.1416867,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9edb0ed520df:0x68ad08952161cf8f!8m2!3d4.5962338!4d-74.139498?hl=es",
+                    "ir": "/nuestra-compania/tiendas/bogota/venecia/c/venecia"
+                }
+            }
+        },
+        "barranquilla": {
+            "label": "Barranquilla",
+            "tiendas": {
+                "buenavista": {
+                    "nombre_tienda": "Alkosto Barranquilla",
+                    "direccion": "Calle 98 No. 51B - 91, Sector Buenavista",
+                    "horario_apertura": [
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Vie <br> 8:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 8:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Vie de 8:00 a.m a 9:00 p.m <br> Dom y Fes 8:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-buenavista-barranquilla",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Barranquilla,+Cl.+98+%23%23+51B-91,+Barranquilla,+Atl%C3%A1ntico/@11.0114787,-74.8305716,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8ef42c52bac66947:0xedf62f4d2d9309db!2m2!1d-74.8283829!2d11.0114787?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Barranquilla/@11.0114787,-74.8305716,17z/data=!3m1!4b1!4m5!3m4!1s0x8ef42c52bac66947:0xedf62f4d2d9309db!8m2!3d11.0114787!4d-74.8283829?hl=es",
+                    "ir": "nuestra-compania/tiendas/barranquilla/buenavista/c/buenavista"
+                }
+            }
+        },
+        "bucaramanga": {
+            "label": "Bucaramanga",
+            "tiendas": {
+                "floridablanca": {
+                    "nombre_tienda": "Alkosto Floridablanca",
+                    "direccion": "Anillo vial km 2.5 Girón, Bucaramanga",
+                    "horario_apertura": [
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Dom <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Dom de 7:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-floridablanca-bucaramanga",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Floridablanca,+km+2,5+v%C3%ADa+Floridablanca+-+Gir%C3%B3n,+Anillo+Vial,+Floridablanca,+Santander/@7.0615233,-73.1197019,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e683f142ae82f11:0x67d229ba1a2c364f!2m2!1d-73.1175132!2d7.0615233?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Floridablanca/@7.0615233,-73.1197019,17z/data=!3m1!4b1!4m5!3m4!1s0x8e683f142ae82f11:0x67d229ba1a2c364f!8m2!3d7.0615233!4d-73.1175132?hl=es",
+                    "ir": "/nuestra-compania/tiendas/bucaramanga/floridablanca/c/floridablanca"
+                }
+            }
+        },
+        "cali": {
+            "label": "Cali",
+            "tiendas": {
+                "calle-13": {
+                    "nombre_tienda": "Alkosto Cali Sur",
+                    "direccion": "Cl 13 No. 80 - 187",
+                    "horario_apertura": [
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Dom <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Dom de 7:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-cali-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Cali,+Cl.+13+%23%23+80+-+187,+Cali,+Valle+del+Cauca/@3.3852359,-76.5400162,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e30a15d45c9ba7f:0xc0fed97fb1f3aa24!2m2!1d-76.5378275!2d3.3852359?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Cali/@3.3852359,-76.5400162,17z/data=!3m1!4b1!4m5!3m4!1s0x8e30a15d45c9ba7f:0xc0fed97fb1f3aa24!8m2!3d3.3852359!4d-76.5378275?hl=es",
+                    "ir": "/nuestra-compania/tiendas/cali/calle-13/c/calle-13"
+                },
+                "carrera-1": {
+                    "nombre_tienda": "Alkosto Cali Norte",
+                    "direccion": "Cr 1 con, Cl. 62 Nte",
+                    "horario_apertura": [
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Sab <br> 7:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Dom de 7:00 a.m a 10:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-cali-norte.jpg",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Cali+Norte,+Carrera+1+con,+Cl.+62+Nte.,+Cali,+Valle+del+Cauca/@3.4823975,-76.4980495,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e30a97ac39e56c3:0xaf6adf231a44a038!2m2!1d-76.4980495!2d3.4823975?hl=es-CO",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Cali+Norte/@3.4823975,-76.5002435,17z/data=!3m1!4b1!4m5!3m4!1s0x8e30a97ac39e56c3:0xaf6adf231a44a038!8m2!3d3.4823975!4d-76.4980495?hl=es-CO",
+                    "ir": "/nuestra-compania/tiendas/cali/carrera-1/c/carrera-1"
+                }
+            }
+        },
+        "ipiales": {
+            "label": "Ipiales",
+            "tiendas": {
+                "ipiales-gran-plaza": {
+                    "nombre_tienda": "Alkosto Ipiales Gran Plaza",
+                    "direccion": "Cl 25 No. 6B–23, C.C Gran Plaza",
+                    "horario_apertura": [
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Dom <br> 8:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Dom de 8:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-ipiales-gran-plaza.jpg",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Ipiales+Gran+Plaza,+Calle+25+%23+6B+-+23+C.C+Gran+Plaza,+Ipiales,+Nari%C3%B1o/@0.8301535,-77.6334019,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e296b7784cbd14b:0x92330dd1b9efc88!2m2!1d-77.6312132!2d0.8301535!3e0?authuser=1",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Ipiales+Gran+Plaza/@0.8301535,-77.6334019,17z/data=!3m1!4b1!4m5!3m4!1s0x8e296b7784cbd14b:0x92330dd1b9efc88!8m2!3d0.8300325!4d-77.650358?authuser=1",
+                    "ir": "/nuestra-compania/tiendas/ipiales/ipiales-gran-plaza/c/ipiales-gran-plaza"
+                },
+                "ipiales-20-julio": {
+                    "nombre_tienda": "Alkosto Ipiales 20 de Julio",
+                    "direccion": "Cr 5A No. 8-36, Parque 20 de Julio",
+                    "horario_apertura": [
+                        [
+                            "8:00",
+                            "20:00"
+                        ],
+                        [
+                            "8:00",
+                            "20:00"
+                        ],
+                        [
+                            "8:00",
+                            "20:00"
+                        ],
+                        [
+                            "8:00",
+                            "20:00"
+                        ],
+                        [
+                            "8:00",
+                            "20:00"
+                        ],
+                        [
+                            "8:00",
+                            "20:00"
+                        ],
+                        [
+                            "8:00",
+                            "20:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Dom <br> 8:00 a.m a 8:00 p.m"
+                    ],
+                    "horario": "Lun a Dom de 8:00 a.m a 8:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-ipiales-20-julio.jpg",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+20+de+Julio+Ipiales,+Cl.+3+%238+%E2%80%93+36,+Ipiales,+Nari%C3%B1o/@0.824158,-77.6368657,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e296b4f761a03bd:0xbfbc573597792f6a!2m2!1d-77.634677!2d0.824158!3e0?authuser=1",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+20+de+Julio+Ipiales/@0.824158,-77.6368657,17z/data=!3m1!4b1!4m5!3m4!1s0x8e296b4f761a03bd:0xbfbc573597792f6a!8m2!3d0.8241587!4d-77.6346779?authuser=1",
+                    "ir": "/nuestra-compania/tiendas/ipiales/ipiales-20-julio/c/ipiales-20-julio"
+                }
+            }
+        },
+        "pasto": {
+            "label": "Pasto",
+            "tiendas": {
+                "bolivar": {
+                    "nombre_tienda": "Alkosto Bolívar",
+                    "direccion": "Cl 22 No. 6 - 28, Avenida Bolívar",
+                    "horario_apertura": [
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Domg <br> 8:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Dom de 8:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-bolivar-pasto-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Pasto+Bol%C3%ADvar,+Cl.+22+%236-28,+Pasto,+Nari%C3%B1o/@1.2066406,-77.2693324,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e2ed493992cc447:0xa2e8e160f8b34c01!2m2!1d-77.2671437!2d1.2066406!3e0?authuser=1",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Pasto+Bol%C3%ADvar/@1.2066406,-77.2693324,17z/data=!3m1!4b1!4m5!3m4!1s0x8e2ed493992cc447:0xa2e8e160f8b34c01!8m2!3d1.2066406!4d-77.2671437?authuser=1",
+                    "ir": "/nuestra-compania/tiendas/pasto/bolivar/c/bolivar"
+                },
+                "centro": {
+                    "nombre_tienda": "Alkosto Pasto Centro",
+                    "direccion": "Cl 19 No. 28 - 89, Centro",
+                    "horario_apertura": [
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Dom <br> 8:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Dom de 8:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-centro-pasto-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Pasto+Centro,+Cl+19+%2328-89,+Pasto,+Nari%C3%B1o/@1.2125493,-77.2777073,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e2ed4873dce3299:0x7bdd45585c378892!2m2!1d-77.2795161!2d1.2184366!3e0?authuser=1",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Pasto+Centro/@1.2125493,-77.2777073,16z/data=!4m13!1m6!3m5!1s0x8e2ed4873dce3299:0x7bdd45585c378892!2sAlkosto+Pasto+Centro!8m2!3d1.2184366!4d-77.2795161!3m5!1s0x8e2ed4873dce3299:0x7bdd45585c378892!8m2!3d1.2184366!4d-77.2795161!15sChRBbGtvc3RvIFBhc3RvIENlbnRybyIDiAEBWhYiFGFsa29zdG8gcGFzdG8gY2VudHJvkgELaHlwZXJtYXJrZXQ?authuser=1",
+                    "ir": "/nuestra-compania/tiendas/pasto/centro/c/centro"
+                }
+            }
+        },
+        "pereira": {
+            "label": "Pereira",
+            "tiendas": {
+                "avenida-americas": {
+                    "nombre_tienda": "Alkosto Pereira",
+                    "direccion": "Av Las Americas No. 46 - 03",
+                    "horario_apertura": [
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Sab <br> 7:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Sab de 7:00 a.m a 9:00 p.m <br> Dom y Fes 7:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-pereira-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Pereira,+Av.+de+las+Am%C3%A9ricas+%23%23+46-03,+Pereira,+Risaralda/@4.8074506,-75.7201026,17z/data=!4m16!1m6!3m5!1s0x8e387df43f553e8d:0x5b76f1f10bf8d3e5!2sAlkosto+Pereira!8m2!3d4.8074506!4d-75.7179139!4m8!1m0!1m5!1m1!1s0x8e387df43f553e8d:0x5b76f1f10bf8d3e5!2m2!1d-75.7179139!2d4.8074506!3e3?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Pereira/@4.8074506,-75.7201026,17z/data=!3m1!4b1!4m5!3m4!1s0x8e387df43f553e8d:0x5b76f1f10bf8d3e5!8m2!3d4.8074506!4d-75.7179139?hl=es",
+                    "ir": "/nuestra-compania/tiendas/pereira/avenida-americas/c/avenida-americas"
+                }
+            }
+        },
+        "sincelejo": {
+            "label": "Sincelejo",
+            "tiendas": {
+                "centro-comercial-guacari": {
+                    "nombre_tienda": "Alkosto Sincelejo",
+                    "direccion": "Cl 28 No. 25B - 27, C.C. Guacari, Lc 101",
+                    "horario_apertura": [
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Sab <br> 8:00 a.m a 21:00 p.m",
+                        "Dom y Fes <br> 8:00 a.m a 21:00 p.m"
+                    ],
+                    "horario": "Lun a Sab de 8:00 a.m a 21:00 p.m <br> Dom y Fes de 8:00 a.m a 21:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-guacari-sincelejo-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Sincelejo,+Calle+28+%23No.+25B+-+27+Loc+101,+Sincelejo,+Sucre/@9.3023018,-75.38503,17z/data=!4m16!1m6!3m5!1s0x8e5915b404642b57:0x700fc994bf446489!2sAlkosto+Sincelejo!8m2!3d9.3023018!4d-75.3828413!4m8!1m0!1m5!1m1!1s0x8e5915b404642b57:0x700fc994bf446489!2m2!1d-75.3828413!2d9.3023018!3e3?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Sincelejo/@9.3023018,-75.38503,17z/data=!3m1!4b1!4m5!3m4!1s0x8e5915b404642b57:0x700fc994bf446489!8m2!3d9.3023018!4d-75.3828413?hl=es",
+                    "ir": "/nuestra-compania/tiendas/sincelejo/centro-comercial-guacari/c/centro-comercial-guacari"
+                }
+            }
+        },
+        "tuquerres": {
+            "label": "Túquerres",
+            "tiendas": {
+                "carrera-13": {
+                    "nombre_tienda": "Alkosto Túquerres",
+                    "direccion": "Cr 13 No. 20, Esquina",
+                    "horario_apertura": [
+                        [
+                            "10:00",
+                            "18:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ],
+                        [
+                            "10:00",
+                            "20:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
+                        "Dom y Fes <br> 10:00 a.m a 6:00 p.m"
+                    ],
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-tuquerres",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto,+Cra.+13+%23N%C2%B0+20,+T%C3%BAquerres,+Nari%C3%B1o/@1.08553,-77.6204983,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e29490e09a60c61:0x1931a3c38c9f82b0!2m2!1d-77.6183096!2d1.08553?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto/@1.08553,-77.6204983,17z/data=!3m1!4b1!4m5!3m4!1s0x8e29490e09a60c61:0x1931a3c38c9f82b0!8m2!3d1.08553!4d-77.6183096?hl=es",
+                    "ir": "/nuestra-compania/tiendas/tuquerres/carrera-13/c/carrera-13"
+                }
+            }
+        },
+        "villavicencio": {
+            "label": "Villavicencio",
+            "tiendas": {
+                "calle-31": {
+                    "nombre_tienda": "Alkosto Villavicencio",
+                    "direccion": "Cl 31 No. 31 - 95",
+                    "horario_apertura": [
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ],
+                        [
+                            "7:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Sab <br> 7:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 7:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Sab de 7:00 a.m a 9:00 p.m <br> Dom y Fes 7:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-villavicencio-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Villavicencio,+Cl.+31+%23%23+31-95,+Villavicencio,+Meta/@4.1439624,-73.6352349,17z/data=!4m16!1m6!3m5!1s0x8e3e2de101c293e5:0x46c4bba8682a1b67!2sAlkosto+Villavicencio!8m2!3d4.1439624!4d-73.6330462!4m8!1m0!1m5!1m1!1s0x8e3e2de101c293e5:0x46c4bba8682a1b67!2m2!1d-73.6330462!2d4.1439624!3e3?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Villavicencio/@4.1439624,-73.6352349,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3e2de101c293e5:0x46c4bba8682a1b67!8m2!3d4.1439624!4d-73.6330462?hl=es",
+                    "ir": "/nuestra-compania/tiendas/villavicencio/calle-31/c/calle-31"
+                }
+            }
+        },
+        "yopal": {
+            "label": "Yopal",
+            "tiendas": {
+                "centro-comercial-mochiral-plaza": {
+                    "nombre_tienda": "Alkosto Yopal",
+                    "direccion": "Cl 24 No. 28 - 72,  C.C. Morichal Plaza. Ancla No. 2",
+                    "horario_apertura": [
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ],
+                        [
+                            "8:00",
+                            "21:00"
+                        ]
+                    ],
+                    "horarios": [
+                        "Lun a Sab <br> 8:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 8:00 a.m a 9:00 p.m"
+                    ],
+                    "horario": "Lun a Sab de 8:00 a.m a 9:00 p.m <br> Dom y Fes 8:00 a.m a 9:00 p.m",
+                    "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/tiendas/img/tienda-morichal-yopal-alkosto",
+                    "como_llegar": "https://www.google.com/maps/dir//Alkosto+Yopal,+Cra.+29a+%23%23+24-44,+Yopal,+Casanare/@5.3396032,-72.3879255,17z/data=!4m16!1m6!3m5!1s0x8e6b0dac5d85d9df:0xa02cccffa7b586c!2sAlkosto+Yopal!8m2!3d5.3396032!4d-72.3857368!4m8!1m0!1m5!1m1!1s0x8e6b0dac5d85d9df:0xa02cccffa7b586c!2m2!1d-72.3857368!2d5.3396032!3e3?hl=es",
+                    "ver_mapa": "https://www.google.com/maps/place/Alkosto+Yopal/@5.3396032,-72.3879255,17z/data=!3m1!4b1!4m5!3m4!1s0x8e6b0dac5d85d9df:0xa02cccffa7b586c!8m2!3d5.3396032!4d-72.3857368?hl=es",
+                    "ir": "/nuestra-compania/tiendas/yopal/centro-comercial-mochiral-plaza/c/centro-comercial-mochiral-plaza"
+                }
+            }
+        }
+    }
+}
