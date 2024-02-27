@@ -800,19 +800,19 @@
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
@@ -824,10 +824,11 @@
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom  <br> 11:00 a.m a 8:00 p.m"
+                        "Lun a Jue <br> 10:00 a.m a 8:00 p.m",
+                        "Vie a Sab <br> 10:00 a.m a 9:00 p.m",
+                        "Dom y Fes <br> 11:00 a.m a 8:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom 11:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Jue de 10:00 a.m a 8:00 p.m <br> Vie a Sab 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
                     "imagen": "https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/alkomprar/img/florida.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//alkomprar+Florida+parque+comercial,+150+Piso+3,+Cl.+71+%2365,+Medell%C3%ADn,+Antioquia/@6.2706695,-75.579648,17z/data=!4m16!1m6!3m5!1s0x8e442921b5f6c635:0x11f6e5091f2f45c6!2salkomprar+Florida+parque+comercial!8m2!3d6.2706642!4d-75.5774593!4m8!1m0!1m5!1m1!1s0x8e442921b5f6c635:0x11f6e5091f2f45c6!2m2!1d-75.5774593!2d6.2706642!3e3?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/alkomprar+Florida+parque+comercial/@6.2706695,-75.579648,17z/data=!3m1!4b1!4m5!3m4!1s0x8e442921b5f6c635:0x11f6e5091f2f45c6!8m2!3d6.2706642!4d-75.5774593?hl=es",
