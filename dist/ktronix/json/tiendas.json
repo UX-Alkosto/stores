@@ -794,7 +794,7 @@
                         ],
                         [
                             "10:00",
-                            "21:00"
+                            "20:00"
                         ],
                         [
                             "10:00",
@@ -802,11 +802,11 @@
                         ]
                     ],
                     "horarios": [
-                        "Lun a Jue <br> 10:00 a.m a 8:00 p.m",
-                        "Vie a Sab <br> 10:00 a.m a 9:00 p.m",
+                        "Lun a Vie <br> 10:00 a.m a 8:00 p.m",
+                        "Sab <br> 10:00 a.m a 9:00 p.m",
                         "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
                     ],
-                    "horario": "Lun a Jue de 10:00 a.m a 8:00 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Vie de 10:00 a.m a 8:00 p.m <br> Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-manizales.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Manizales,+carrera+14+%23+56+d+01+local+101+-+01,+Manizales,+Caldas/@5.0662898,-75.4926989,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e476f9df4a39cc9:0x8b4c524f6e015a64!2m2!1d-75.4905102!2d5.0662898",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Manizales/@5.066296,-75.4926976,17z/data=!3m1!4b1!4m5!3m4!1s0x8e476f9df4a39cc9:0x8b4c524f6e015a64!8m2!3d5.0662907!4d-75.4905089?hl=es",
@@ -866,38 +866,38 @@
                     "horario_apertura": [
                         [
                             "10:00",
-                            "18:00"
+                            "19:00"
+                        ],
+                        [
+                            "08:00",
+                            "19:00"
+                        ],
+                        [
+                            "08:00",
+                            "19:00"
+                        ],
+                        [
+                            "08:00",
+                            "19:00"
+                        ],
+                        [
+                            "08:00",
+                            "19:00"
+                        ],
+                        [
+                            "08:00",
+                            "19:00"
                         ],
                         [
                             "10:00",
-                            "20:00"
-                        ],
-                        [
-                            "10:00",
-                            "20:00"
-                        ],
-                        [
-                            "10:00",
-                            "20:00"
-                        ],
-                        [
-                            "10:00",
-                            "20:00"
-                        ],
-                        [
-                            "23:59",
-                            "23:59"
-                        ],
-                        [
-                            "10:00",
-                            "20:00"
+                            "19:00"
                         ]
                     ],
                     "horarios": [
-                        "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 6:00 p.m"
+                        "Lun a Vie <br> 08:00 a.m a 7:00 p.m",
+                        "Sab, Dom y Fes <br> 10:00 a.m a 7:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 6:00 p.m",
+                    "horario": "Lun a Vie de 08:00 a.m a 7:00 p.m <br>Sab, Dom y Fes 10:00 a.m a 7:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-poblado.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cra+43A+No.+1Sur+-+220,+Medell%C3%ADn/@6.198592,-75.5837051,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e4682873a5021e1:0x8a531185c43fb335!2m2!1d-75.5721824!2d6.2010791",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Poblado/@6.2113545,-75.6121249,14z/data=!4m8!1m2!2m1!1sktronix+poblado!3m4!1s0x8e4682873a5021e1:0x8a531185c43fb335!8m2!3d6.2010801!4d-75.5721814?hl=es",
