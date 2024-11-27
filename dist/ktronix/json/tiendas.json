@@ -28,8 +28,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "21:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -39,9 +39,10 @@
                     "horarios": [
                         "Lun a Jue <br> 10:00 a.m a 8:00 p.m",
                         "Vier a Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom a Fes de 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom a Fes de 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-barranquilla-soledad.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Barranquilla,+Cl.+30+%234B+%E2%80%93+50,+Barranquilla,+Atl%C3%A1ntico/@10.9446593,-74.7854084,17z/data=!4m16!1m6!3m5!1s0x0:0xeedc550a4ee51ca6!2sKtronix+Barranquilla!8m2!3d10.9446593!4d-74.7832197!4m8!1m0!1m5!1m1!1s0x8ef5d3e494798bef:0xeedc550a4ee51ca6!2m2!1d-74.7832197!2d10.9446593!3e3",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Barranquilla/@10.9446593,-74.7854084,17z/data=!4m5!3m4!1s0x0:0xeedc550a4ee51ca6!8m2!3d10.9446593!4d-74.7832197",
@@ -77,8 +78,8 @@
                             "19:00"
                         ],
                         [
-                            "10:00",
-                            "19:00"
+                            "9:00",
+                            "20:00"
                         ],
                         [
                             "10:00",
@@ -87,9 +88,10 @@
                     ],
                     "horarios": [
                         "<strong>Lun a Sab</strong> <br> 10:00 a.m a 7:00 p.m",
-                        "<strong>Dom y Fes</strong> <br> 10:00 a.m a 7:00 p.m"
+                        "<strong>Dom y Fes</strong> <br> 10:00 a.m a 7:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 8:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 7:00 p.m <br>  Dom y Fes 10:00 a.m a 7:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 7:00 p.m <br>  Dom y Fes 10:00 a.m a 7:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 8:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/tienda-20julio-ktrx.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+20+de+Julio,+Primer+Piso,+Cl.+25b+Sur+%23%23+5+-+87,+Bogot%C3%A1/@4.569239,-74.0956814,17z/data=!4m16!1m6!3m5!1s0x0:0x77cc34b0603dab09!2sKtronix+20+de+Julio!8m2!3d4.5694781!4d-74.0935052!4m8!1m0!1m5!1m1!1s0x8e3f98ec8ef532eb:0x77cc34b0603dab09!2m2!1d-74.0935052!2d4.5694781!3e3?hl=es-419",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+20+de+Julio/@4.569239,-74.0956814,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x77cc34b0603dab09!8m2!3d4.5694781!4d-74.0935052?hl=es-419",
@@ -120,8 +122,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "21:00"
                         ],
                         [
                             "10:00",
@@ -130,9 +132,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 9:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 9:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-94.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cl.+94+%23No.+15-14,+Bogot%C3%A1/@4.6797942,-74.0856483,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9a930a86ce3d:0x64cab81bc7b2b411!2m2!1d-74.0506286!2d4.6797095",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix/@4.6797148,-74.0528173,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9a930a86ce3d:0x64cab81bc7b2b411!8m2!3d4.6797095!4d-74.0506286",
@@ -163,8 +166,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "10:00"
                         ],
                         [
                             "10:00",
@@ -173,9 +176,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-americas.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//KTRONIX+AMERICAS,+Transversal+71D,+Cl.+94+Sur+%23No.+26,+Bogot%C3%A1/@4.619513,-74.1377844,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9eaffad86eb7:0xa42c719bbc5b6df9!2m2!1d-74.1355957!2d4.619513",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Am%C3%A9ricas/@4.6190921,-74.1375782,17z/data=!4m8!1m2!2m1!1sktronix+plaza+de+las+am%C3%A9ricas!3m4!1s0x8e3f9eaffad86eb7:0xa42c719bbc5b6df9!8m2!3d4.6195101!4d-74.135589?hl=es",
@@ -206,8 +210,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -217,9 +221,10 @@
                     "horarios": [
                         "Lun a Juev <br> 10:00 a.m a 8:00 p.m",
                         "Vier a Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 9:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 9:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-centromayor.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Centro+Mayor,+Av.+Cra+27+%23+38+a+-+83+Sur.+Locales+13,+Cra.+17,+Bogot%C3%A1,+Cundinamarca/@4.5903997,-74.1260621,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f992ccab1cca1:0x8e76aed4185e913b!2m2!1d-74.1238734!2d4.5903997",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Centro+Mayor/@4.5901815,-74.1259926,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f992ccab1cca1:0x8e76aed4185e913b!8m2!3d4.5901762!4d-74.1238039?hl=es",
@@ -250,8 +255,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "21:00"
+                            "9:00",
+                            "10:00"
                         ],
                         [
                             "10:00",
@@ -261,9 +266,10 @@
                     "horarios": [
                         "Lun a Jue <br> 10:00 a.m a 8:00 p.m",
                         "Vie a Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Jue de 10:00 a.m a 8:00 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Jue de 10:00 a.m a 8:00 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-chia.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Fontanar,+Centro+Comercial+Fontanar+Chia,+Km+2.5,+Cajic%C3%A1+-+Ch%C3%ADa+%23Local+2+-49,+Ch%C3%ADa,+Cundinamarca/@4.8835886,-74.0371097,17z/data=!4m16!1m6!3m5!1s0x8e40781f44f5079d:0x2604c68c3bfc0f66!2sKtronix+Fontanar!8m2!3d4.8835833!4d-74.034921!4m8!1m0!1m5!1m1!1s0x8e40781f44f5079d:0x2604c68c3bfc0f66!2m2!1d-74.034921!2d4.8835833!3e3?hl=es",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Fontanar/@4.8835886,-74.0371097,17z/data=!3m1!4b1!4m5!3m4!1s0x8e40781f44f5079d:0x2604c68c3bfc0f66!8m2!3d4.8835833!4d-74.034921?hl=es",
@@ -294,8 +300,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "21:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -304,9 +310,10 @@
                     ],
                     "horarios": [
                         "Dom a Jue <br> 10:00 a.m a 8:00 p.m",
-                        "Vie, Sab y Fes <br> 10:00 a.m a 9:00 p.m"
+                        "Vie, Sab y Fes <br> 10:00 a.m a 9:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 9:00 p.m"
                     ],
-                    "horario": "Dom a Jue de 10:00 a.m a 8:00 p.m <br> Vie, Sab y Fes 10:00 a.m a 9:00 p.m",
+                    "horario": "Dom a Jue de 10:00 a.m a 8:00 p.m <br> Vie, Sab y Fes 10:00 a.m a 9:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/mallPlazaKtronix.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Mallplaza+NQS,+Mallplaza+NQS,+Av.+Cdad.+de+Lima+%2328+%E2%80%93+80+Local+B-65,+Bogot%C3%A1/@4.679475,-74.1596366,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f996e048c5c5d:0xe86808b55d6f284e!2m2!1d-74.0860722!2d4.6185488?entry=ttu",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Mallplaza+NQS/@4.679475,-74.1596366,12z/data=!4m6!3m5!1s0x8e3f996e048c5c5d:0xe86808b55d6f284e!8m2!3d4.6185488!4d-74.0860722!16s%2Fg%2F11vb7j6zh3?entry=ttu",
@@ -337,8 +344,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -347,9 +354,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 9:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 9:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-mosquera.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//KTRONIX+MOSQUERA,+Cra+3ra+No.+15%C2%AA+-+57+Local+255+-+256+Centro+Comercial+Ecoplaza,+Bogot%C3%A1/@4.712611,-74.2236897,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f780107bf3d23:0xdc8ea5314ba9913e!2m2!1d-74.221501!2d4.712611",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Mosquera/@4.7126169,-74.2236894,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f780107bf3d23:0xdc8ea5314ba9913e!8m2!3d4.7126116!4d-74.2215007?hl=es",
@@ -380,8 +388,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "21:00"
                         ],
                         [
                             "10:00",
@@ -390,9 +398,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 9:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 9:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-salitre.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//KTRONIX+SALITRE,+Cra.+68b+%2325B-80,+Bogot%C3%A1/@4.654968,-74.1077077,17z/data=!4m15!1m6!3m5!1s0x8e3f9b9727eee121:0x68c18b7a225ca4f6!2sKTRONIX+SALITRE!8m2!3d4.654968!4d-74.105519!4m7!1m0!1m5!1m1!1s0x8e3f9b9727eee121:0x68c18b7a225ca4f6!2m2!1d-74.105519!2d4.654968",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Salitre/@4.6549734,-74.1077076,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9b9727eee121:0x68c18b7a225ca4f6!8m2!3d4.6549681!4d-74.1055189?hl=es",
@@ -423,8 +432,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -433,9 +442,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-soacha.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//KTRONIX+SOACHA,+Centro+comercial+Antares,+Tv+7C+%23%2330e-118,+Soacha,+Cundinamarca/@4.5877474,-74.2079027,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9fcd7bc367b9:0xfd97e7e409417529!2m2!1d-74.205714!2d4.5877474",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Soacha/@4.5871606,-74.2086991,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9fcd7bc367b9:0xfd97e7e409417529!8m2!3d4.5871553!4d-74.2065104?hl=es",
@@ -466,8 +476,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "21:00"
                         ],
                         [
                             "10:00",
@@ -476,9 +486,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 9:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-suba.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Transv.+91+No.+135+-+56,+Bogot%C3%A1/@4.7480918,-74.0745728,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f84e4515f2bb1:0x7f3eb19b469e43e7!2m2!1d-74.085443!2d4.733958",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Suba/@4.7338138,-74.0873546,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f84e4515f2bb1:0x7f3eb19b469e43e7!8m2!3d4.7338085!4d-74.0851659?hl=es",
@@ -509,8 +520,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "21:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -520,9 +531,10 @@
                     "horarios": [
                         "Lun a Juev <br> 10:00 a.m a 8:00 p.m",
                         "Vie a Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Juev de 10:00 a.m a 8:00 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Juev de 10:00 a.m a 8:00 p.m <br> Vie a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-titan.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cr.+72+%23+80+-+94+Tit%C3%A1n+Plaza+Centro+Comercial.+Local+3-10,+Bogot%C3%A1/@4.695665,-74.0890757,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9b256cad202d:0xbb0c2acde366457d!2m2!1d-74.086887!2d4.695665",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Tit%C3%A1n/@4.6956704,-74.0890755,17z/data=!3m2!4b1!5s0x8e3f9b25347869ab:0xa4f71b79b07c4849!4m5!3m4!1s0x8e3f9b256cad202d:0xbb0c2acde366457d!8m2!3d4.6956651!4d-74.0868868?hl=es",
@@ -553,8 +565,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "21:00"
                         ],
                         [
                             "10:00",
@@ -563,9 +575,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 7:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 9:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 7:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 9:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-unicentro.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Ak.+15+%23122-59,+Bogot%C3%A1/@4.7018385,-74.0453578,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9ab21f5a7c57:0x35059b9a3a81a347!2m2!1d-74.0431691!2d4.7018385",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Unicentro/@4.701772,-74.0454537,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9ab21f5a7c57:0x35059b9a3a81a347!8m2!3d4.7017917!4d-74.0431598?hl=es",
@@ -601,8 +614,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -611,9 +624,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom a Fes de 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom a Fes de 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-bucaramanga.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Centro+Comercial+Cacique,+Tv.+93+%2334-99,+Bucaramanga,+Santander/@7.1000622,-73.1094158,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e683f94cb1b4ee1:0xac90b927aad74a1f!2m2!1d-73.1072271!2d7.1000569",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Bucaramanga/@7.0992068,-73.1093218,17z/data=!3m1!4b1!4m5!3m4!1s0x8e683f94cb1b4ee1:0xac90b927aad74a1f!8m2!3d7.0992015!4d-73.1071331?hl=es",
@@ -649,8 +663,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -659,9 +673,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 11:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 11:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-chipichape.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Cali,+Centro+Comercial+Chipichape+9+Calle+38+%23+6+Norte-35,+Cali,+Valle+del+Cauca/@3.4759519,-76.5300056,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e30a618e6aaaaab:0x84a4e41ebee76fce!2m2!1d-76.5278169!2d3.4759519",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Cali/@3.4759184,-76.5299463,17z/data=!3m1!4b1!4m5!3m4!1s0x8e30a618e6aaaaab:0x84a4e41ebee76fce!8m2!3d3.475913!4d-76.5277576?hl=es",
@@ -698,7 +713,7 @@
                         ],
                         [
                             "10:00",
-                            "20:00"
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -707,9 +722,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-fusagasuga.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Fusagasug%C3%A1,+Cra.+8+%23%23+25+-+42+Local+327,+Fusagasug%C3%A1,+Cundinamarca/@4.3436496,-74.3743294,15z/data=!4m16!1m6!3m5!1s0x0:0x4a36e52768e049c1!2sKtronix+Fusagasug%C3%A1!8m2!3d4.3436496!4d-74.3743294!4m8!1m0!1m5!1m1!1s0x8e3f05b28f3639ef:0x4a36e52768e049c1!2m2!1d-74.3743294!2d4.3436496!3e3",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Fusagasug%C3%A1/@4.3436557,-74.3765572,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f05b28f3639ef:0x4a36e52768e049c1!8m2!3d4.3436504!4d-74.3743685?hl=es",
@@ -745,8 +761,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -755,9 +771,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes de 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes de 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-girardot.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Girardot,+Diagonal+8+%23+33+%E2%80%93+26+Local+L2+-+47,+Girardot,+Cundinamarca/@4.30761,-74.7979434,21z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e3f297b777fb3bb:0x86fa87f15722bd44!2m2!1d-74.7978066!2d4.30761!3e0",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Girardot/@4.30761,-74.7979434,21z/data=!4m5!3m4!1s0x8e3f297b777fb3bb:0x86fa87f15722bd44!8m2!3d4.30761!4d-74.7978066",
@@ -793,8 +810,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -804,9 +821,10 @@
                     "horarios": [
                         "Lun a Vie <br> 10:00 a.m a 8:00 p.m",
                         "Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 9:00 p.m"
                     ],
-                    "horario": "Lun a Vie de 10:00 a.m a 8:00 p.m <br> Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Vie de 10:00 a.m a 8:00 p.m <br> Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 9:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-manizales.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix+Manizales,+carrera+14+%23+56+d+01+local+101+-+01,+Manizales,+Caldas/@5.0662898,-75.4926989,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e476f9df4a39cc9:0x8b4c524f6e015a64!2m2!1d-75.4905102!2d5.0662898",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Manizales/@5.066296,-75.4926976,17z/data=!3m1!4b1!4m5!3m4!1s0x8e476f9df4a39cc9:0x8b4c524f6e015a64!8m2!3d5.0662907!4d-75.4905089?hl=es",
@@ -842,7 +860,7 @@
                             "21:00"
                         ],
                         [
-                            "10:00",
+                            "9:00",
                             "21:00"
                         ],
                         [
@@ -852,9 +870,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom y Fes <br> 11:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 11:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 9:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-arkadia.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Arkadia+Centro+Comercial,+Cra.+70+%23%231-141,+Medell%C3%ADn,+Antioquia/@5.4783458,-75.4005325,9z/data=!4m15!1m6!3m5!1s0x8e44295984cde4bf:0xa1066131d979fba3!2sArkadia+Centro+Comercial!8m2!3d6.2124314!4d-75.5946188!4m7!1m0!1m5!1m1!1s0x8e44295984cde4bf:0xa1066131d979fba3!2m2!1d-75.5946188!2d6.2124314",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Arkadia/@6.2113068,-75.596804,17z/data=!3m1!4b1!4m5!3m4!1s0x8e4429c39b241ea3:0x7a2f5ed4b8d134ea!8m2!3d6.2113015!4d-75.5946153?hl=es",
@@ -885,8 +904,8 @@
                             "19:00"
                         ],
                         [
-                            "08:00",
-                            "19:00"
+                            "09:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -895,9 +914,10 @@
                     ],
                     "horarios": [
                         "Lun a Vie <br> 08:00 a.m a 7:00 p.m",
-                        "Sab, Dom y Fes <br> 10:00 a.m a 7:00 p.m"
+                        "Sab, Dom y Fes <br> 10:00 a.m a 7:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Vie de 08:00 a.m a 7:00 p.m <br>Sab, Dom y Fes 10:00 a.m a 7:00 p.m",
+                    "horario": "Lun a Vie de 08:00 a.m a 7:00 p.m <br>Sab, Dom y Fes 10:00 a.m a 7:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-poblado.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cra+43A+No.+1Sur+-+220,+Medell%C3%ADn/@6.198592,-75.5837051,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e4682873a5021e1:0x8a531185c43fb335!2m2!1d-75.5721824!2d6.2010791",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Poblado/@6.2113545,-75.6121249,14z/data=!4m8!1m2!2m1!1sktronix+poblado!3m4!1s0x8e4682873a5021e1:0x8a531185c43fb335!8m2!3d6.2010801!4d-75.5721814?hl=es",
@@ -928,8 +948,8 @@
                             "21:00"
                         ],
                         [
-                            "10:00",
-                            "21:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -939,9 +959,10 @@
                     "horarios": [
                         "Lun <br> 10:00 a.m a 8:00 p.m",
                         "Mar a Sab <br> 10:00 a.m a 9:00 p.m",
-                        "Dom y Fes <br> 11:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 11:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun de 10:00 a.m a 8:00 p.m <br> Mar a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m",
+                    "horario": "Lun de 10:00 a.m a 8:00 p.m <br> Mar a Sab de 10:00 a.m a 9:00 p.m <br> Dom y Fes 11:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-tesoro.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//Ktronix,+Cra,+Cl.+1a+Sur+%2345,+Medell%C3%ADn,+Antioquia/@6.1960842,-75.5623972,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e46829a7e77a3d5:0x3d191e696bbb863e!2m2!1d-75.5602085!2d6.1960842",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Tesoro/@6.1985927,-75.5705722,16z/data=!4m8!1m2!2m1!1sktronix+tesoro!3m4!1s0x8e46829a7e77a3d5:0x3d191e696bbb863e!8m2!3d6.1960841!4d-75.5602082?hl=es",
@@ -977,8 +998,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -987,9 +1008,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom <br> 11:00 a.m a 8:00 p.m"
+                        "Dom <br> 11:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom 11:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom 11:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-tunja.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//K-Tronix+Viva+Centro+Comercial,+Viva+Centro+Comercial,+Local+209,+Tunja,+Boyac%C3%A1/@5.5567153,-73.3477615,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e6a7d15a190a18f:0x6682d7de464a2a72!2m2!1d-73.3455728!2d5.5567153",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Tunja/@5.5567333,-73.3477747,17z/data=!3m1!4b1!4m5!3m4!1s0x8e6a7d15a190a18f:0x6682d7de464a2a72!8m2!3d5.556728!4d-73.345586?hl=es",
@@ -1006,31 +1028,31 @@
                     "horario_apertura": [
                         [
                             "10:00",
-                            "20:09"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "20:08"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "20:07"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "20:06"
+                            "20:00"
                         ],
                         [
                             "10:00",
-                            "20:05"
+                            "20:00"
+                        ],
+                        [
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
-                            "20:04"
-                        ],
-                        [
-                            "10:00",
-                            "20:03"
+                            "20:00"
                         ]
                     ],
                     "horarios": [
