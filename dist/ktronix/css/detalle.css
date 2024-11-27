@@ -170,7 +170,7 @@ body {
 }
 
 .horarios_detalle p:nth-child(2),
-.horarios_detalle p:nth-child(3) {
+.horarios_detalle p:nth-child(3), .horarios_detalle p:nth-child(4)  {
     padding-left: 20px
 }
 
