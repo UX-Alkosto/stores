@@ -1021,8 +1021,8 @@
                             "20:00"
                         ],
                         [
-                            "10:00",
-                            "20:00"
+                            "9:00",
+                            "22:00"
                         ],
                         [
                             "10:00",
@@ -1035,9 +1035,10 @@
                     ],
                     "horarios": [
                         "Lun a Sab <br> 10:00 a.m a 8:00 p.m",
-                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m"
+                        "Dom y Fes <br> 10:00 a.m a 8:00 p.m",
+                        "Este viernes 29 de noviembre <br> 9:00 a.m a 10:00 p.m"
                     ],
-                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m",
+                    "horario": "Lun a Sab de 10:00 a.m a 8:00 p.m <br> Dom y Fes 10:00 a.m a 8:00 p.m, <br>este viernes 29 de noviembre de 9:00 a.m a 10:00 p.m ",
                     "imagen": "https://media.aws.alkomprar.com/ymarketingcolcomercio/Ktronix/Tiendas/img-tienda-villavicencio.jpg",
                     "como_llegar": "https://www.google.com/maps/dir//K+Tronix,+Cll+7+%23+45+%E2%80%93+185,+Centro+Comercial+Viva+Local:+117A,+Villavicencio/@4.124489,-73.6397943,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3e2e16c609094b:0xb901bf6de0239930!2m2!1d-73.6376056!2d4.124489",
                     "ver_mapa": "https://www.google.com/maps/place/Ktronix+Villavicencio/@4.1244947,-73.6397941,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3e2e16c609094b:0xb901bf6de0239930!8m2!3d4.1244894!4d-73.6376054?hl=es",
