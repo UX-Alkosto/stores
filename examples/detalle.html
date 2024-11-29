@@ -5,10 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://cdn.jsdelivr.net">
     <link href="https://cdn.jsdelivr.net/gh/ux-alkosto/icons/style.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ux-alkosto/stores@3.2.2/dist/ktronix/css/detalle.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ux-alkosto/stores@3.2.3/dist/ktronix/css/detalle.css">
 </head>
 
 <body>
+    <style>
+        .detalle_tienda .apertura {
+            display: none;
+        }
+        .horarios_detalle p:last-child {
+            font-weight: 700;
+        }
+        .store .apertura {
+    display: none !important;
+}
+    </style>
     <div class="container">
         <h2>Tiendas <span class="nombre-ciudad"></span></h2>
     </div>
@@ -21,7 +32,7 @@
         <a class="regresar" href="/nuestra-compania/tiendas">Regresar a tiendas</a>
     </div>
     <script>
-        const storesJsonFile = 'https://cdn.jsdelivr.net/gh/ux-alkosto/stores@3.1.7/dist/ktronix/json/tiendas.json';
+        const storesJsonFile = 'https://cdn.jsdelivr.net/gh/ux-alkosto/stores@3.2.3/dist/ktronix/json/tiendas.json';
     </script>
     <script src="https://cdn.jsdelivr.net/gh/ux-alkosto/stores/dist/common/js/detalle.js" crossorigin="anonymous" type="module"></script>
 </body>
