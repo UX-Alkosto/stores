@@ -438,9 +438,24 @@ body {
 
 @media only screen and (max-width:568px) {
 
+    .horarios_detalle {
+        display: block;
+    }
+
+    .horarios_detalle p {
+        width: 100%;
+    }
+
+    .horarios_detalle p:not(:last-child) {
+        border-right: none;
+    }
+
+    .horarios_detalle p:nth-child(1),
     .horarios_detalle p:nth-child(2),
-    .horarios_detalle p:nth-child(3) {
-        padding-left: 10px
+    .horarios_detalle p:nth-child(3),
+    .horarios_detalle p:nth-child(4) {
+        padding-left: 16px !important;
+        margin-bottom: 16px;
     }
 
     .info_detalle {
@@ -481,7 +496,7 @@ body {
 
     .horarios_detalle p:first-child,
     .horarios_detalle p:nth-child(2) {
-        width: 50%
+        width: 100%
     }
 
     .horarios_detalle p:nth-child(2) {
