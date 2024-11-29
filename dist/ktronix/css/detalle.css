@@ -465,6 +465,10 @@ body {
     .tit_otras {
         margin: 0 0 0 15px
     }
+
+    .detalle_tienda .tit_horario {
+        margin-bottom: 16px;
+    }
 }
 
 @media only screen and (max-width:414px) {
